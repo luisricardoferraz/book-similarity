@@ -2,18 +2,14 @@
 import scrapy
 
 # Define crawler as a class derived from class Spider
-class SkoobSpider(scrapy.Spider):
-    
-    # Define crawler's name
-    name = 'skoob-spider'
+class BookSpider(scrapy.Spider):
 
-    # Define the first URL used to collect data
-    start_urls = [
-        'https://www.skoob.com.br/livro/64ED86'
-    ]
+    # Define crawler's name
+    def __init__(self):  
+        name = 'book-spider'
 
     # Define the callback function parse(), executed after receiving a response of the request
-    def parse(self, response):
+    def extractData(self, response):
         
         # Separate data into different groups and then store them into variables
         stats = response.css('div#livro-perfil-status b > a::text').extract()
