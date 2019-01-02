@@ -10,7 +10,7 @@ class BookListSpider(scrapy.Spider):
 
     def parse(self,response):
         publishers = response.css('div#resultadoBusca- > div > div > a::attr("href")').extract()
-        yield response.follow(publishers[11], self.findBooksList)
+        yield response.follow(publishers[6], self.findBooksList)
         
 
     def findBooksList(self, response):

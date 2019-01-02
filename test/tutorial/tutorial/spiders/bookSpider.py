@@ -45,7 +45,6 @@ class BookSpider(scrapy.Spider):
             'desejados': maisStats[1],
             'trocam': maisStats[2],
             'avaliaram': maisStats[3],
-            'sinopse': sinopse,
             'generos': generos,
             'cincoEstrelas': notas[0],
             'quatroEstrelas': notas[1],
@@ -54,5 +53,6 @@ class BookSpider(scrapy.Spider):
             'umaEstrela': notas[4],
             'tags': tags,
             'avaliacoesHomens': avaliacoesHomens,
-            'avaliacoesMulheres': avaliacoesMulheres
+            'avaliacoesMulheres': avaliacoesMulheres,
+            'sinopse': sinopse
         }

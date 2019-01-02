@@ -1,0 +1,2 @@
+cd 'C:\Program Files\MongoDB\Server\4.0\bin'
+./mongoimport --jsonArray  --db test --collection books --file 'C:/Users/LuisRicardoFerraz/Documents/personal/projects/book-similarity/test/tutorial/tutorial/spiders/bookListSpider.json'
