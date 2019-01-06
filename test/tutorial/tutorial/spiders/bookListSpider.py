@@ -1,5 +1,5 @@
 import scrapy
-import bookSpider
+from tutorial.spiders import bookSpider
 
 class BookListSpider(scrapy.Spider):
     name = 'book-list-spider'
@@ -8,9 +8,10 @@ class BookListSpider(scrapy.Spider):
         'https://www.skoob.com.br/editoras/'
     ]
 
-    def parse(self,response):
+    def parse(self, response):
         publishers = response.css('div#resultadoBusca- > div > div > a::attr("href")').extract()
-        yield response.follow(publishers[11], self.findBooksList)
+        yield response.follow(publishers[6], self.findBooksList)
+        # 11 = The Gift Box ; 6 = Valentina
         
 
     def findBooksList(self, response):
@@ -18,7 +19,7 @@ class BookListSpider(scrapy.Spider):
         yield response.follow(books[2], self.findTitle)
 
     
-    def findTitle(self,response):
+    def findTitle(self, response):
         title = bookSpider.BookSpider()
 
         for book in response.css('div.box_livro'):
