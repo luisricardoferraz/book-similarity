@@ -52,15 +52,15 @@ class BookSpider(scrapy.Spider):
             'desejados': re.search('([0-9]+)', self.removeDots(maisStats[1])).group(),
             'trocam': re.search('([0-9]+)', self.removeDots(maisStats[2])).group(),
             'avaliaram': re.search('([0-9]+)', self.removeDots(maisStats[3])).group(),
+            'cincoEstrelas': self.cleanPercentage(notas[0].strip()),
+            'quatroEstrelas': self.cleanPercentage(notas[1].strip()),
+            'tresEstrelas': self.cleanPercentage(notas[2].strip()),
+            'duasEstrelas': self.cleanPercentage(notas[3].strip()),
+            'umaEstrela': self.cleanPercentage(notas[4].strip()),
+            'avaliacoesHomens': self.cleanPercentage(avaliacoesHomens.strip()),
+            'avaliacoesMulheres': self.cleanPercentage(avaliacoesMulheres.strip()),
             'generos': generos,
-            'cincoEstrelas': notas[0].strip(),
-            'quatroEstrelas': notas[1].strip(),
-            'tresEstrelas': notas[2].strip(),
-            'duasEstrelas': notas[3].strip(),
-            'umaEstrela': notas[4].strip(),
             'tags': tags,
-            'avaliacoesHomens': avaliacoesHomens.strip(),
-            'avaliacoesMulheres': avaliacoesMulheres.strip(),
             'sinopse': sinopse.strip()
         }
 
@@ -100,3 +100,8 @@ class BookSpider(scrapy.Spider):
             return array.split(' / ')
         else:
             return ['']
+    
+    def cleanPercentage(self, string):
+        string = string.replace('%','')
+        string = float(string)
+        return string/100
