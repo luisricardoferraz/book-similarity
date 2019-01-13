@@ -1,6 +1,7 @@
 # Import framework to create the crawler
 import scrapy
 import re
+#import pandas
 
 # Define crawler as a class derived from class Spider
 class BookSpider(scrapy.Spider):
@@ -61,7 +62,7 @@ class BookSpider(scrapy.Spider):
             'avaliacoesMulheres': self.cleanPercentage(avaliacoesMulheres.strip()),
             'generos': generos,
             'tags': tags,
-            'sinopse': sinopse.strip()
+            'sinopse': sinopse
         }
 
     def fixIsbnIfNull(self, isbn):
@@ -75,10 +76,11 @@ class BookSpider(scrapy.Spider):
         return details
     
     def printWholeSynopsis(self, synopsis):
-        wholeText = ''
+        synopsis = [text.strip() for text in synopsis]
 
+        wholeText = ''
         for text in synopsis:
-            wholeText += text
+            wholeText += text + ' '
         
         return wholeText
     
