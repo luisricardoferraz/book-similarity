@@ -1,31 +1,19 @@
 # Import framework to create the crawler
 import scrapy
-import re
-#import pandas
 
 # Define crawler as a class derived from class Spider
 class BookSpider(scrapy.Spider):
 
     # Define crawler's name
-    #def __init__(self):
-    #    self.name = 'book-spider'
-    name = 'bookspider'
+    def __init__(self):
+        self.name = 'book-spider'
 
-    start_urls = [
-        'https://www.skoob.com.br/livro/580710ED582043', #Vários autores
-        'https://www.skoob.com.br/obsidiana-520494ed527702.html', #Somente ISBN-13
-        'https://www.skoob.com.br/john-lennon-em-nova-york-514655ed521321.html', #Autor no meio do Subtítulo
-        'https://www.skoob.com.br/minha-sentenca-e-voce-839944ed845035.html', #Poucas estatísticas
-        'https://www.skoob.com.br/a-sociedade-do-anel-13988ed3654.html', #Livro com várias tags
-        'https://www.skoob.com.br/o-sal-da-vida-349935ed839186.html' #Livro sem sinopse
-    ]
+    # Define the callback function extractData(), executed once the request succeeds
+    def extractData(self, response):
 
-
-    # Define the callback function parse(), executed after receiving a response of the request
-    #def extractData(self, response):
-    def parse(self, response):    
         # Separate data into different groups and then store them into variables
-        isbn = self.fixIsbnIfNull(response.css('div.sidebar-desc > span::text').extract())
+        # There is no standard in Skoob pages and they may lack some data, so additional methods were required
+        isbn = self.checkIsbnExistence(response.css('div.sidebar-desc > span::text').extract())
         titulo = response.css('.sidebar-titulo::text').extract_first()
         subtitulo = response.css('.sidebar-subtitulo::text').extract()
         autor = self.checkAuthorExistence(response.css('div#pg-livro-menu-principal-container > a::text').extract(), response.css('div#pg-livro-menu-principal-container > i.sidebar-subtitulo::text').extract())
@@ -41,7 +29,7 @@ class BookSpider(scrapy.Spider):
         tags = response.css('ul#tags > li.litags > a::text').extract()    
         sinopse = response.css('div#livro-perfil-sinopse-txt > p::text').extract()
 
-        # Assembly new meanings for the data collected so it can be written in a .json file
+        # Assembly new meanings for the data collected so it can be written in an output file
         yield {
             'isbn-10': isbn.get("isbnTenDigits"),
             'isbn-13': isbn.get("isbnThirteenDigits"),
@@ -74,8 +62,9 @@ class BookSpider(scrapy.Spider):
             'tags': tags,
             'sinopse': sinopse
         }
-
-    def fixIsbnIfNull(self, isbnList):
+    
+    # Check whether a book has a 10-digit or 13-digit ISBN, or none of them 
+    def checkIsbnExistence(self, isbnList):
         isbnDictionary = {
             "isbnThirteenDigits" : "",
             "isbnTenDigits" : ""
@@ -87,12 +76,14 @@ class BookSpider(scrapy.Spider):
                 isbnDictionary["isbnTenDigits"] = isbn
         return isbnDictionary
     
+    # Get the author regardless whether they are registered or not
     def checkAuthorExistence(self, registeredAuthor, notRegisteredAuthor):
         if len(registeredAuthor) != 0:
             return registeredAuthor
         elif len(notRegisteredAuthor) != 0:
             return notRegisteredAuthor
 
+    # Explode a string which contains lots of data
     def splitDetails(self, detailsBlock):
         detailsDictionary = {
             "idiom" : "",
@@ -103,7 +94,8 @@ class BookSpider(scrapy.Spider):
         detailsDictionary["year"] = detailsBlock[-4].split('/')[0]
         detailsDictionary["pages"] = detailsBlock[-4].split('/')[1]
         return detailsDictionary
-    
+
+    # Store book main stats properly    
     def organizeStats(self, bookStats):
         statsDictionary = {
             "read" : "",
@@ -121,6 +113,7 @@ class BookSpider(scrapy.Spider):
         statsDictionary["reviews"] = bookStats[-6]
         return statsDictionary
     
+    # Store other book stats properly
     def organizeMoreStats(self, otherBookStats):
         moreStatsDictionary = {
             "favorites" : "",
@@ -135,6 +128,7 @@ class BookSpider(scrapy.Spider):
         moreStatsDictionary["rated"] = otherBookStats[3]
         return moreStatsDictionary
     
+    # Store ratings distribution properly
     def organizeRatingsDistribution(self, ratingsList):
         ratingsDistributionDictionary = {
             "fiveStars": "",
@@ -150,6 +144,7 @@ class BookSpider(scrapy.Spider):
         ratingsDistributionDictionary["oneStar"] = ratingsList[4]
         return ratingsDistributionDictionary
     
+    # Check whether a book has a gender or not
     def checkGendersExistence(self, gendersList):
         if gendersList is not None and len(gendersList) != 0:
             return gendersList.split(' / ')
