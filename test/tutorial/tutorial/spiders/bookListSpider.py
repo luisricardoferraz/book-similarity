@@ -26,6 +26,7 @@ class BookListSpider(scrapy.Spider):
     # Find links for books published by a publisher
     def findBooksList(self, response):
         books = response.css('ul#ul-menu-vertical-badges > li > a.l13::attr("href")').extract()
+
         # Execute method findTitle() after following each link
         yield response.follow(books[2], self.findTitle)
 

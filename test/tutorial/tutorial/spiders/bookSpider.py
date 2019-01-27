@@ -27,7 +27,7 @@ class BookSpider(scrapy.Spider):
         avaliacoesMulheres = response.css('span.pg-livro-icone-female-label::text').extract_first()
         generos = self.checkGendersExistence(response.css('span.pg-livro-generos::text').extract_first())
         tags = response.css('ul#tags > li.litags > a::text').extract()    
-        sinopse = response.css('div#livro-perfil-sinopse-txt > p::text').extract()
+        sinopse = self.printWholeSynopsis(response.css('div#livro-perfil-sinopse-txt > p::text').extract())
 
         # Assembly new meanings for the data collected so it can be written in an output file
         yield {
@@ -91,8 +91,8 @@ class BookSpider(scrapy.Spider):
             "pages" : ""
         }
         detailsDictionary["idiom"] = detailsBlock[-3]
-        detailsDictionary["year"] = detailsBlock[-4].split('/')[0]
-        detailsDictionary["pages"] = detailsBlock[-4].split('/')[1]
+        detailsDictionary["year"] = self.removeDots(detailsBlock[-4].split('/')[0])
+        detailsDictionary["pages"] = self.removeDots(detailsBlock[-4].split('/')[1])
         return detailsDictionary
 
     # Store book main stats properly    
@@ -105,12 +105,12 @@ class BookSpider(scrapy.Spider):
             "abandoned" : "",
             "reviews" : ""
         }
-        statsDictionary["read"] = bookStats[-1]
-        statsDictionary["reading"] = bookStats[-2]
-        statsDictionary["wantToRead"] = bookStats[-3]
-        statsDictionary["reReading"] = bookStats[-4]
-        statsDictionary["abandoned"] = bookStats[-5]
-        statsDictionary["reviews"] = bookStats[-6]
+        statsDictionary["read"] = self.removeDots(bookStats[-1])
+        statsDictionary["reading"] = self.removeDots(bookStats[-2])
+        statsDictionary["wantToRead"] = self.removeDots(bookStats[-3])
+        statsDictionary["reReading"] = self.removeDots(bookStats[-4])
+        statsDictionary["abandoned"] = self.removeDots(bookStats[-5])
+        statsDictionary["reviews"] = self.removeDots(bookStats[-6])
         return statsDictionary
     
     # Store other book stats properly
@@ -122,10 +122,10 @@ class BookSpider(scrapy.Spider):
             "rated" : ""
         }
 
-        moreStatsDictionary["favorites"] = otherBookStats[0]
-        moreStatsDictionary["wanted"] = otherBookStats[1]
-        moreStatsDictionary["exchange"] = otherBookStats[2]
-        moreStatsDictionary["rated"] = otherBookStats[3]
+        moreStatsDictionary["favorites"] = self.removeDots(otherBookStats[0])
+        moreStatsDictionary["wanted"] = self.removeDots(otherBookStats[1])
+        moreStatsDictionary["exchange"] = self.removeDots(otherBookStats[2])
+        moreStatsDictionary["rated"] = self.removeDots(otherBookStats[3])
         return moreStatsDictionary
     
     # Store ratings distribution properly
@@ -150,3 +150,19 @@ class BookSpider(scrapy.Spider):
             return gendersList.split(' / ')
         else:
             return []
+    
+    # Remove dots if number is greater than a thousand
+    def removeDots(self, number):
+        if '.' in number:
+            return number.replace('.','')
+        else:
+            return number
+    
+    # Concatenate all elements of synopsis into one string
+    def printWholeSynopsis(self, synopsis):
+        cleanSynopsis = ''
+
+        for quote in synopsis:
+            cleanSynopsis += quote + ' '
+
+        return cleanSynopsis
