@@ -3,13 +3,13 @@ Statistics of Dataset - Synopsis Cleaned
 Shape of Dataset: 10299 rows and 27 columns
 
 Statistics of Synopsis Length (Characters):
-	Arithmetic Mean: 900.623555685018
+	Arithmetic Mean: 900.6174385862705
 	Median: 782.0
 	Highest Value: 8166
 	Lowest Value: 139
 	Mid-range: 4013.5
-	Variance: 286935.3998373851
-	Standard Deviation: 535.6635136327517
+	Variance: 286933.1874837862
+	Standard Deviation: 535.6614485696971
 	
 Percentiles: 
 	Percentile 0.5: 170.0
@@ -214,13 +214,13 @@ Percentiles:
 	Percentile 100.0: 8166.0
 	
 Statistics of Synopsis Length (Words):
-	Arithmetic Mean: 154.62423536265658
+	Arithmetic Mean: 154.62083697446354
 	Median: 134.0
 	Highest Value: 1376
 	Lowest Value: 21
 	Mid-range: 677.5
-	Variance: 8325.138841605503
-	Standard Deviation: 91.24219879861238
+	Variance: 8325.001395259787
+	Standard Deviation: 91.24144560044951
 	
 Percentiles: 
 	Percentile 0.5: 29.0
@@ -361,7 +361,7 @@ Percentiles:
 	Percentile 68.0: 173.0
 	Percentile 68.5: 175.0
 	Percentile 69.0: 176.0
-	Percentile 69.5: 178.0
+	Percentile 69.5: 177.10999999999967
 	Percentile 70.0: 179.0
 	Percentile 70.5: 180.0
 	Percentile 71.0: 181.0

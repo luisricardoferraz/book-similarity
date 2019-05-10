@@ -3,13 +3,13 @@ Statistics of Dataset - Synopsis without Hashtags
 Shape of Dataset: 10299 rows and 27 columns
 
 Statistics of Synopsis Length (Characters):
-	Arithmetic Mean: 925.4055733566365
+	Arithmetic Mean: 925.4021749684435
 	Median: 802.0
 	Highest Value: 8374
 	Lowest Value: 142
 	Mid-range: 4116.0
-	Variance: 303748.90337153716
-	Standard Deviation: 551.1341972437722
+	Variance: 303747.87125570804
+	Standard Deviation: 551.1332608867914
 	
 Percentiles: 
 	Percentile 0.5: 174.0
@@ -128,7 +128,7 @@ Percentiles:
 	Percentile 57.0: 884.0
 	Percentile 57.5: 890.0
 	Percentile 58.0: 895.8399999999992
-	Percentile 58.5: 904.0
+	Percentile 58.5: 903.3299999999999
 	Percentile 59.0: 911.0
 	Percentile 59.5: 918.3099999999995
 	Percentile 60.0: 925.0
@@ -178,7 +178,7 @@ Percentiles:
 	Percentile 82.0: 1287.0
 	Percentile 82.5: 1297.0
 	Percentile 83.0: 1309.3400000000001
-	Percentile 83.5: 1321.83
+	Percentile 83.5: 1321.0
 	Percentile 84.0: 1333.0
 	Percentile 84.5: 1348.8099999999995
 	Percentile 85.0: 1365.0
@@ -214,13 +214,13 @@ Percentiles:
 	Percentile 100.0: 8374.0
 	
 Statistics of Synopsis Length (Words):
-	Arithmetic Mean: 174.94514030488398
+	Arithmetic Mean: 174.94174191669094
 	Median: 151.0
 	Highest Value: 1536
 	Lowest Value: 22
 	Mid-range: 757.0
-	Variance: 10774.546125876119
-	Standard Deviation: 103.80051120238339
+	Variance: 10774.435525844825
+	Standard Deviation: 103.79997844819056
 	
 Percentiles: 
 	Percentile 0.5: 33.0
@@ -350,7 +350,7 @@ Percentiles:
 	Percentile 62.5: 182.0
 	Percentile 63.0: 183.0
 	Percentile 63.5: 184.0
-	Percentile 64.0: 185.72000000000025
+	Percentile 64.0: 185.0
 	Percentile 64.5: 187.0
 	Percentile 65.0: 188.0
 	Percentile 65.5: 189.0

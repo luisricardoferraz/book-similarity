@@ -3,13 +3,13 @@ Statistics of Dataset - Synopsis without Special Characters
 Shape of Dataset: 10299 rows and 27 columns
 
 Statistics of Synopsis Length (Characters):
-	Arithmetic Mean: 922.4372269152345
+	Arithmetic Mean: 922.4338285270414
 	Median: 800.0
 	Highest Value: 8351
 	Lowest Value: 142
 	Mid-range: 4104.5
-	Variance: 301932.3303716451
-	Standard Deviation: 549.4836943637591
+	Variance: 301931.29380987975
+	Standard Deviation: 549.4827511486413
 	
 Percentiles: 
 	Percentile 0.5: 173.0
@@ -178,7 +178,7 @@ Percentiles:
 	Percentile 82.0: 1283.0
 	Percentile 82.5: 1293.0
 	Percentile 83.0: 1305.3400000000001
-	Percentile 83.5: 1318.0
+	Percentile 83.5: 1317.83
 	Percentile 84.0: 1330.0
 	Percentile 84.5: 1344.8099999999995
 	Percentile 85.0: 1361.0
@@ -214,13 +214,13 @@ Percentiles:
 	Percentile 100.0: 8351.0
 	
 Statistics of Synopsis Length (Words):
-	Arithmetic Mean: 154.62423536265658
+	Arithmetic Mean: 154.62083697446354
 	Median: 134.0
 	Highest Value: 1376
 	Lowest Value: 21
 	Mid-range: 677.5
-	Variance: 8325.138841605503
-	Standard Deviation: 91.24219879861238
+	Variance: 8325.001395259787
+	Standard Deviation: 91.24144560044951
 	
 Percentiles: 
 	Percentile 0.5: 29.0
@@ -361,7 +361,7 @@ Percentiles:
 	Percentile 68.0: 173.0
 	Percentile 68.5: 175.0
 	Percentile 69.0: 176.0
-	Percentile 69.5: 178.0
+	Percentile 69.5: 177.10999999999967
 	Percentile 70.0: 179.0
 	Percentile 70.5: 180.0
 	Percentile 71.0: 181.0
