@@ -1,0 +1,333 @@
+
+
+
+
+          <!DOCTYPE html>
+<html xmlns='//www.w3.org/1999/xhtml'>
+        <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# books: http://ogp.me/ns/books#">
+                <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />                <title>Autor</title>
+                                <meta name="language" content="pt-br"/>
+                <meta name="google-site-verification" content="h_F9-djAws40JfpX_W4juzsPjd9YZ2v-s0YvOG-D388"/>
+                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                <meta name="apple-itunes-app" content="app-id=904670263"/>
+                <meta name="google-play-app" content="app-id=com.gaudium.skoob" />
+                <meta name="msapplication-config" content="none"/>
+                <meta name="lomadee-verification" content="22240835" />
+                <script async type="text/javascript" src="//rtgpix.com/resources/scripts/src/pixel_skoob.js"></script>
+
+
+                <!-- Google AD -->
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+
+<script type="text/javascript" src="https://cache.skoob.com.br/local/skoob/js/angularjs/base.min.js?1480078620"></script><script type="text/javascript" src="https://cache.skoob.com.br/local/skoob/js/angularjs/main.min.js?1534183687"></script><link rel="stylesheet" type="text/css" href="https://cache.skoob.com.br/local/skoob/css/ver2/main.min.css?1534183685"/><link rel="stylesheet" type="text/css" href="/css/dist-final-2019/geral.min.css?1549555891"/>
+                
+        </head>
+
+
+
+        <body id="ng-app" ng-app="skoob" style="border:0px solid red;">
+                <div style="display: flex; flex-direction: column; flex: 1; border: 0px solid green;">
+                        
+
+<div id='topo' class='navbar navbar-fixed-top' style='height:48px;'>
+        
+        <div id="topoInterno" class="container" style="">
+                <a href="/">
+                        <img src="https://cache.skoob.com.br/s3/skoob-sp/img/v2/base/skoob-logo-topo.gif" class="logo" alt="logo Skoob" title="logo Skoob" width="109" height="33"/>                </a>
+
+                <div id='tbusca' data-ng-controller="SearchCtrl" data-ng-mouseleave="leave = true">
+    <form  class="form-inline" action="/livro/lista/" method="post" id="topo-menu-search">
+        <span data-ng-cloak  data-ng-show="search_total > 0" class="busca-loading-container" data-ng-bind="search_total | numberDecimal"></span>
+        <div data-ng-cloak data-ng-show="search_loading" id='suggestions_loadingmessage'>
+            <img src='//skoob-sp.s3.amazonaws.com/img/v2/base/load-padrao.gif' alt="loading">
+        </div>
+        <div class="input-append">
+            <input type="text" id="search" class="form-control" name="data[Busca][tag]" placeholder="Busque por título, autor, editora, ISBN..." data-ng-model="busca" data-ng-blur="searchExit()" autocomplete="off">
+            <span class="input-group-btn" >
+                <button class="btn btn-default btn-form-lupa" type="submit"><i class="fa fa-search"></i></button>
+            </span>
+        </div>
+    </form>
+    <div data-ng-cloak data-ng-show="search_result" id="suggestions" data-ng-mouseover="leave = false">
+        <ul id="searchresults" style="list-style: none;">
+            <li data-ng-repeat="book in books" class="item-master">
+
+                <div class="capa">
+                    <a rel="nofollow" data-ng-href="/livro/{{book.livro_id}}ED{{book.id}}" title='{{book.nome_portugues}}' ng-cloack><img data-ng-src='{{book.img_url}}' alt="" ng-cloack></a>
+                </div>
+                <div class='search-item-links'>
+                    <div class='search-item-links-base'>
+                        <strong>
+                            <!-- 
+                            <a rel="nofollow" data-ng-href="/livro/{{book.livro_id}}ED{{book.id}}" title='{{book.nome_portugues}}' class='l13ab' data-ng-bind="( book.serie )| limitTo:50" ng-cloack></a>
+                            <a rel="nofollow" data-ng-href="/livro/{{book.livro_id}}ED{{book.id}}" title='{{book.nome_portugues}}' class='l13ab' data-ng-bind="book.nome_portugues| limitTo:50" ng-cloack></a>
+                            -->
+                            <a rel="nofollow" data-ng-href="/livro/{{book.livro_id}}ED{{book.id}}" class='l13ab' ng-cloack>
+                                <book-name-format name="book.nome_portugues"  serie="book.serie" volume="book.volume" max="50"></book-name-format>
+                            </a>
+                        </strong>
+                        <div class="busca-subtitulo"><span data-ng-bind="book.subtitulo_portugues| limitTo:60" ng-cloack></span></div>
+                        <div class="busca-autor"><span data-ng-bind="book.autor| limitTo:60" ng-cloack></span></div>
+                    </div>
+
+                    <div class='mini'>
+                        <!-- idioma -->
+                        <img data-ng-if="book.idioma === 'es'" src="//s3-sa-east-1.amazonaws.com/skoob-sp/flag/es.gif" alt="espanha" title="espanha" class="bandeira">
+                        <img data-ng-if="book.idioma === 'us'" src="//s3-sa-east-1.amazonaws.com/skoob-sp/flag/us.gif" alt="ingles" title="ingles" class="bandeira">
+                        <img data-ng-if="book.idioma === 'al'" src="//s3-sa-east-1.amazonaws.com/skoob-sp/flag/ge.gif" alt="alemanha" title="alemanha" class="bandeira">
+                        <img data-ng-if="book.idioma === 'rs'" src="//s3-sa-east-1.amazonaws.com/skoob-sp/flag/ru.gif" alt="russia" title="russia" class="bandeira">
+                        <img data-ng-if="book.idioma === 'jp'" src="//s3-sa-east-1.amazonaws.com/skoob-sp/flag/jp.gif" alt="japao" title="japao" class="bandeira">
+                        <img data-ng-if="book.idioma === 'hl'" src="//s3-sa-east-1.amazonaws.com/skoob-sp/flag/nl.gif" alt="holanda" title="holanda" class="bandeira">
+                        <img data-ng-if="book.idioma === 'fr'" src="//s3-sa-east-1.amazonaws.com/skoob-sp/flag/fr.gif" alt="franca" title="franca" class="bandeira">
+                        <img data-ng-if="book.idioma === 'pt'" src="//s3-sa-east-1.amazonaws.com/skoob-sp/flag/pt.gif" alt="portugal" title="portugual" class="bandeira">
+                        <img data-ng-if="book.idioma === 'it'" src="//s3-sa-east-1.amazonaws.com/skoob-sp/flag/it.gif" alt="italia" title="italia" class="bandeira">
+                        <img data-ng-if="book.idioma === 'ep'" src="//s3-sa-east-1.amazonaws.com/skoob-sp/flag/ep.gif" alt="esperanto" title="esperanto" class="bandeira">
+                        <img data-ng-if="book.idioma === 'br'" src="//s3-sa-east-1.amazonaws.com/skoob-sp/flag/br.gif" alt="brasil" title="brasil" class="bandeira">
+                        <!-- editora -->
+                        <a data-ng-if="book.editora_id > 0" data-ng-href="/editora/{{book.editora_id}}-{{book.editora}}" class="l11" ng-cloack> {{book.editora}}</a>
+                        <span data-ng-if="book.editora_id === 0"> {{book.editora}}</span>
+                        <!-- edicoes -->
+                        <span data-ng-if="book.qt_edicoes <= 1">| edições: <span data-ng-bind="book.qt_edicoes"></span></span>
+                        <span data-ng-if="book.qt_edicoes > 1">| edições: <a data-ng-href="/livro/edicoes/{{book.livro_id}}" data-ng-bind="book.qt_edicoes" class="l11" ng-cloack></a></span>
+                        <!-- leitores -->
+                        <span>| leitores: <span data-ng-bind="book.qt_estantes | numberDecimal"></span></span>
+                    </div>
+                </div>
+                <br clear="all">
+            </li>
+            <li data-ng-cloak>
+                <form action="/livro/lista" method='post'>
+                    <input type='hidden' name='data[Busca][tag]' value='"{{busca}}"' ng-cloack />
+                    <input type='hidden' name='data[Busca][tipo]' value='livro' />
+                    <button type='submit'>Ver todos os (<span data-ng-bind="search_total | numberDecimal" ng-cloack></span>) resultados</button>
+                </form>
+            </li>
+        </ul>
+    </div>
+</div>
+                <div id="topo-menu-dinamico">
+                        <div id='topo-menu-login'><a href="/login/" rel="nofollow" class="l13" title="Acesse">Entrar</a></div>                        <ul id="topo-menu-explorar" class="nav nav-pills" style="float:left; margin-right: 0px; border:0px solid red; height: 36px; padding: 0px; margin: 0px;">
+                                <li class="dropdown" style="margin-top: -2px;">
+                                        <a class="dropdown-toggle--" data-toggle="dropdown" href="#" style="border-bottom:4px solid #fff; margin-top:5px;">
+                                                Explorar
+                                                <b class="caret"></b>
+                                        </a>
+                                        <ul id="topo-menu-explorar-hover" class="dropdown-menu" role="menu" aria-labelledby="dLabel" style="margin-top: 5px;  border:0px solid black;">
+                                                <li><a href="/livro/lista/" title="Livros">Livros</a></li>
+                                                <li><a href="/autor/recentes/" title="Autores">Autores</a></li>
+                                                <li><a href="/editoras/" title="Editoras">Editoras</a></li>
+                                                <li><a href="/usuario/lista" title="Leitores">Leitores</a></li>
+                                                <li><a href="/grupo/atualizados/" title="Grupos" rel="nofollow">Grupos</a></li>
+                                                <li><a href="/plus/" title="Trocas" rel="nofollow">Plus - Trocas</a></li>
+                                                <li><a href="/cortesia/" title="Cortesias">Cortesias</a></li>
+                                                <li><a href="/livro/lancamentos/" title="Lançamentos">Lançamentos</a></li>
+                                                <li><a href="/livro/top_mais/lidos/" title="Top Mais">Top Mais</a></li>
+                                                <li><a href="/booktubers/" title="Booktubers">Booktubers</a></li>
+                                                <li><a href="/meta/ano/2019/" title="Meta de Leitura 2019">Meta de Leitura 2019</a></li>
+                                                <!-- 
+                                                <li></li>
+                                                <li></li>
+                                                -->
+                                        </ul>
+                                </li>
+                        </ul>
+                </div>
+                <br clear='all' />
+        </div>
+</div>
+
+
+
+
+<div style="margin-top:60px;">                        <div style="width:950px;margin:auto;">
+                                                        </div>
+
+                        <div id='container-full' class=''>
+                                <div id='corpo' data-ng-controller="mainCtrl as main">
+                                        <style type="css/text">
+     #menutroca {
+          margin-bottom:15px;
+     }
+
+     #menutroca, #menutroca a {
+          font-family:"Trebuchet MS";
+          font-size:13px;
+     }
+     #menutroca ul{
+          width:961px;
+     }
+     #menutroca ul, #menutroca li{
+          margin:0; padding:0;
+     }
+     #menutroca ul {
+          height: 1%; display: table;
+          border-bottom:1px solid #CCCCCC;
+     }
+     #menutroca ul li {
+          float: left; margin: 0 1px;
+          list-style:none;
+          border:1px solid #CCCCCC;
+          margin-bottom:-1px;
+          -webkit-border-radius: 2px;
+          -moz-border-radius: 2px;
+     }
+     #menutroca ul li a {
+          display: block;
+          float: left;
+          padding: 2px 10px;
+          color: #999;
+          text-decoration:none;
+     }
+     #menutroca ul li.on a, #menutroca ul li a:hover {
+          background-color: #FFFFFF; color: #000;
+     }
+     #menutroca ul li.on {
+          border-bottom:1px solid #FFFFFF;
+     }
+     #menutroca form {
+          margin:0; padding:0;
+     }
+     #menutroca li.ordem {
+          border-color:#fff;
+          float:right;
+     }
+
+</style>
+<ul class="nav nav-tabs"><li ><a href="/usuario/lista/">Leitores</a></li><li ><a href="/livro/lista/">Livros</a></li><li class="active"><a href="/autor/recentes">Autores</a></li><li ><a href="/editoras/">Editoras</a></li><li ><a href="/grupo/busca/">Grupos</a></li></ul>
+
+<div class="busca-box-vertical">
+     <form action='/autor/lista/' method='post' style='margin:0px; padding:0px;height:36px;'><input name="data[Busca][tag]" value="" style="width:300px;height:27px;" placeholder="digite o nome" type="text" id="BuscaTag"/><input style="margin:-6px 0px 0px 20px;" class="btn btn-primary" type="submit" value="Buscar Autor"/></form></div>
+<div style='width:820px;float:left;'>
+          <div style='width:820px;'>
+     <div class='paginacao_lista_busca_down'>
+          <div class='contador'><b style='font-size:15px; color:#666666;'>25422 encontrados</b> | exibindo 1 a 20 </div><div class='proximo'><span class="l13"><a href="/autor/recentes/page:2" rel="next">  Próxima</a></span></div><div class='numeros'><span class="current l13">1</span> | <span class="l13"><a href="/autor/recentes/page:2">2</a></span> | <span class="l13"><a href="/autor/recentes/page:3">3</a></span> | <span class="l13"><a href="/autor/recentes/page:4">4</a></span> | <span class="l13"><a href="/autor/recentes/page:5">5</a></span> | <span class="l13"><a href="/autor/recentes/page:6">6</a></span> | <span class="l13"><a href="/autor/recentes/page:7">7</a></span> | <span class="l13"><a href="/autor/recentes/page:8">8</a></span> | <span class="l13"><a href="/autor/recentes/page:9">9</a></span></div><div class='anterior'><span class="l13" style="display:none">Anterior  </span></div>          <br clear='all'>
+</div>
+<div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25646-roberto-klotz"><img src="https://cache.skoob.com.br/local/images//CL7rop8Yfop7PMZ85HuVMlFT274=/70x70/center/top/smart/filters:format(jpeg)/https://skoob-sp.s3.amazonaws.com/img/v2/base/sem-face-h-g.gif" class="img-rounded" title="Roberto Klotz" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25646-roberto-klotz" class="" style="font-size:14px;">Roberto Klotz</a></strong> <br /><i style='font-size:11px; color:#556677;'>Roberto Klotz</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25646">4 publicações</a></span><span> | </span><span>29 leitores</span><span> | </span><span>1 seguidor</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25645-fernanda-piazon"><img src="https://cache.skoob.com.br/local/images//nem1wyucgC_m-hf8PJQbWzIZRJk=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25645/25645SK1563928562G.jpg" class="img-rounded" title="Fernanda Piazon" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25645-fernanda-piazon" class="" style="font-size:14px;">Fernanda Piazon</a></strong> <br /><i style='font-size:11px; color:#556677;'>Fernanda Piazon</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25645">3 publicações</a></span><span> | </span><span>0 leitores</span><span> | </span><span>1 seguidor</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25644-tiago-magalhaes-ribeiro"><img src="https://cache.skoob.com.br/local/images//t6chEgB72_zroyyq65XT71Jo2Xc=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25644/25644SK1563909482G.jpg" class="img-rounded" title="Tiago Magalhães Ribeiro" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25644-tiago-magalhaes-ribeiro" class="" style="font-size:14px;">Tiago Magalhães Ribeiro</a></strong> <br /><i style='font-size:11px; color:#556677;'>Tiago Magalhães Ribeiro</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25644">3 publicações</a></span><span> | </span><span>3 leitores</span><span> | </span><span>2 seguidores</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25643-caius-augustus"><img src="https://cache.skoob.com.br/local/images//xIybiXuvU3zNutOx_4BLhU_7W2Q=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25643/25643SK1563906424G.jpg" class="img-rounded" title="Caius Augustus" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25643-caius-augustus" class="" style="font-size:14px;">Caius Augustus</a></strong> <br /><i style='font-size:11px; color:#556677;'>Caius Augustus</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25643">1 publicações</a></span><span> | </span><span>3 leitores</span><span> | </span><span>1 seguidor</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25642-noemi-moritz-kon"><img src="https://cache.skoob.com.br/local/images//-4w4JJ1HnCJEy1yJMHivyDdbu3g=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25642/25642SK1563899574G.jpg" class="img-rounded" title="Noemi Moritz Kon" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25642-noemi-moritz-kon" class="" style="font-size:14px;">Noemi Moritz Kon</a></strong> <br /><i style='font-size:11px; color:#556677;'>Noemi Moritz Kon</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25642">4 publicações</a></span><span> | </span><span>0 leitores</span><span> | </span><span>0 seguidores</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25641-jp-santsil"><img src="https://cache.skoob.com.br/local/images//MIPlr7y63zt7JrZsGSNuEkOg19A=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25641/25641SK1563892942G.jpg" class="img-rounded" title="Jp Santsil" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25641-jp-santsil" class="" style="font-size:14px;">Jp Santsil</a></strong> <br /><i style='font-size:11px; color:#556677;'>Jp Santsil</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25641">1 publicações</a></span><span> | </span><span>5 leitores</span><span> | </span><span>3 seguidores</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25640-tito-correa"><img src="https://cache.skoob.com.br/local/images//Xi2eNZtPXAllij7falUFWI4nUpI=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25640/25640SK1563865629G.jpg" class="img-rounded" title="Tito Corrêa" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25640-tito-correa" class="" style="font-size:14px;">Tito Corrêa</a></strong> <br /><i style='font-size:11px; color:#556677;'>Tito Corrêa</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> 0 publicações</span><span> | </span><span>0 leitores</span><span> | </span><span>1 seguidor</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25639-richard-price"><img src="https://cache.skoob.com.br/local/images//DQ4I-3U-YJ7MMQ4-HZyqh9Mc0s0=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25639/25639SK1563849678G.jpg" class="img-rounded" title="Richard Price" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25639-richard-price" class="" style="font-size:14px;">Richard Price</a></strong> <br /><i style='font-size:11px; color:#556677;'>Richard Price</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25639">6 publicações</a></span><span> | </span><span>0 leitores</span><span> | </span><span>0 seguidores</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25638-paul-david-tripp"><img src="https://cache.skoob.com.br/local/images//HSxCyvl2TDwd3yAsDsRcsxUPTto=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25638/25638SK1563832776G.jpg" class="img-rounded" title="Paul David Tripp" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25638-paul-david-tripp" class="" style="font-size:14px;">Paul David Tripp</a></strong> <br /><i style='font-size:11px; color:#556677;'>Paul David Tripp</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25638">15 publicações</a></span><span> | </span><span>0 leitores</span><span> | </span><span>0 seguidores</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25637-fabrini-viguier"><img src="https://cache.skoob.com.br/local/images//uXTm_Tlij25ExMc3jMlMCSYNk3k=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25637/25637SK1563832325G.jpg" class="img-rounded" title="Fabrini Viguier" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25637-fabrini-viguier" class="" style="font-size:14px;">Fabrini Viguier</a></strong> <br /><i style='font-size:11px; color:#556677;'>Fabrini Viguier</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25637">1 publicações</a></span><span> | </span><span>0 leitores</span><span> | </span><span>0 seguidores</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25636-inacio-dantas"><img src="https://cache.skoob.com.br/local/images//L7empjnjhjnDOa2oYDP7AcX30SA=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25636/25636SK1563831590G.jpg" class="img-rounded" title="Inácio Dantas" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25636-inacio-dantas" class="" style="font-size:14px;">Inácio Dantas</a></strong> <br /><i style='font-size:11px; color:#556677;'>Inácio Dantas</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25636">13 publicações</a></span><span> | </span><span>0 leitores</span><span> | </span><span>0 seguidores</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25635-john-crotts"><img src="https://cache.skoob.com.br/local/images//2nqMvegg-KA8072a9Wgw5o9BwjI=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25635/25635SK1563830941G.jpg" class="img-rounded" title="John Crotts" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25635-john-crotts" class="" style="font-size:14px;">John Crotts</a></strong> <br /><i style='font-size:11px; color:#556677;'>John Crotts</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25635">3 publicações</a></span><span> | </span><span>0 leitores</span><span> | </span><span>0 seguidores</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25634-lucy-powrie"><img src="https://cache.skoob.com.br/local/images//gEA5ztYrK-oYIoqf-TmzGeMoMd8=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25634/25634SK1563828835G.jpg" class="img-rounded" title=" Lucy Powrie " alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25634-lucy-powrie" class="" style="font-size:14px;"> Lucy Powrie </a></strong> <br /><i style='font-size:11px; color:#556677;'> Lucy Powrie </i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25634">1 publicações</a></span><span> | </span><span>0 leitores</span><span> | </span><span>0 seguidores</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25633-arlene-diniz"><img src="https://cache.skoob.com.br/local/images//4ZojmkKvw0hfGY1wniBLJHr6C80=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25633/25633SK1563825234G.jpg" class="img-rounded" title="Arlene Diniz" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25633-arlene-diniz" class="" style="font-size:14px;">Arlene Diniz</a></strong> <br /><i style='font-size:11px; color:#556677;'>Arlene Diniz</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25633">3 publicações</a></span><span> | </span><span>106 leitores</span><span> | </span><span>1 seguidor</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25632-sarah-sundin"><img src="https://cache.skoob.com.br/local/images//jQgTu1COP7Y_1fwBkdgcDdHwypI=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25632/25632SK1563820576G.jpg" class="img-rounded" title="Sarah Sundin" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25632-sarah-sundin" class="" style="font-size:14px;">Sarah Sundin</a></strong> <br /><i style='font-size:11px; color:#556677;'>Sarah Sundin</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25632">5 publicações</a></span><span> | </span><span>0 leitores</span><span> | </span><span>0 seguidores</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25631-mathilda-wright"><img src="https://cache.skoob.com.br/local/images//MJEraxI7gcy6BOe3y2B2pLH4HQg=/70x70/center/top/smart/filters:format(jpeg)/https://skoob-sp.s3.amazonaws.com/img/v2/base/sem-face-m-g.gif" class="img-rounded" title="Mathilda Wright" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25631-mathilda-wright" class="" style="font-size:14px;">Mathilda Wright</a></strong> <br /><i style='font-size:11px; color:#556677;'>Mathilda Wright</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25631">1 publicações</a></span><span> | </span><span>0 leitores</span><span> | </span><span>0 seguidores</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25630-hjalmar-bergman"><img src="https://cache.skoob.com.br/local/images//mfV83l1wT7A0Jhfe1OEv6viJINc=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25630/25630SK1563808972G.jpg" class="img-rounded" title="Hjalmar Bergman" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25630-hjalmar-bergman" class="" style="font-size:14px;">Hjalmar Bergman</a></strong> <br /><i style='font-size:11px; color:#556677;'>Hjalmar Fredrik Elgérus Bergman</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25630">1 publicações</a></span><span> | </span><span>0 leitores</span><span> | </span><span>0 seguidores</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25629-karen-dukess"><img src="https://cache.skoob.com.br/local/images//WA8uL9DP2FQVkGXp6SDzqHojEF8=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25629/25629SK1563807383G.jpg" class="img-rounded" title="Karen Dukess" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25629-karen-dukess" class="" style="font-size:14px;">Karen Dukess</a></strong> <br /><i style='font-size:11px; color:#556677;'>Karen Dukess</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25629">1 publicações</a></span><span> | </span><span>0 leitores</span><span> | </span><span>0 seguidores</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25628-helen-pollard"><img src="https://cache.skoob.com.br/local/images//uP86WI3dfXkP37rpDdv6ioFcGwM=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25628/25628SK1563806390G.jpg" class="img-rounded" title="Helen Pollard" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25628-helen-pollard" class="" style="font-size:14px;">Helen Pollard</a></strong> <br /><i style='font-size:11px; color:#556677;'>Helen Pollard</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25628">1 publicações</a></span><span> | </span><span>0 leitores</span><span> | </span><span>0 seguidores</span></div></div><br clear='all'></div><div style='border-bottom:#ccc 1px dotted; padding:0px; height:115px; margin-bottom:10px;'><div style='width:332px;height:105px;position:absolute;margin:0px 0 0 475px; border:0px solid green;'></div><div style='width:77px;float:left;height:105px; border:0px solid red;'><a href="/autor/25627-kayley-loring"><img src="https://cache.skoob.com.br/local/images//gWIu-xPFLEIAt3DPIn1gKZeV0Ck=/70x70/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/autores/25627/25627SK1563805567G.jpg" class="img-rounded" title="Kayley Loring" alt=""/></a></div><div style='margin:0px;padding-left:10px; float:left; width:380px; border:0px solid blue;'><div style='height:85px; border:0px solid green; line-height:19px;'><strong><a href="/autor/25627-kayley-loring" class="" style="font-size:14px;">Kayley Loring</a></strong> <br /><i style='font-size:11px; color:#556677;'>Kayley Loring</i> </div><div class='autor-item-detalhe-2' style='border:0px solid black; width:380px; margin:0px; margin-top:5px;'><span><i class='icon-book'></i> <a href="/autor/livros/25627">1 publicações</a></span><span> | </span><span>0 leitores</span><span> | </span><span>0 seguidores</span></div></div><br clear='all'></div><div class='paginacao_lista_busca'>
+<div class='contador'><b style='font-size:15px; color:#666666;'>25422 encontrados</b> | exibindo 1 a 20 </div><div class='proximo'><span class="l13"><a href="/autor/recentes/page:2" rel="next">  Próxima</a></span></div><div class='numeros'><span class="current l13">1</span> | <span class="l13"><a href="/autor/recentes/page:2">2</a></span> | <span class="l13"><a href="/autor/recentes/page:3">3</a></span> | <span class="l13"><a href="/autor/recentes/page:4">4</a></span> | <span class="l13"><a href="/autor/recentes/page:5">5</a></span> | <span class="l13"><a href="/autor/recentes/page:6">6</a></span> | <span class="l13"><a href="/autor/recentes/page:7">7</a></span> | <span class="l13"><a href="/autor/recentes/page:8">8</a></span> | <span class="l13"><a href="/autor/recentes/page:9">9</a></span></div><div class='anterior'><span class="l13" style="display:none;">Anterior  </span></div><br clear='all'>
+</div></div></div>
+
+
+<div style='margin-top:40px; float:right;'>
+         <!-- /101690757/SK-BUSCAS -->
+    <div id='div-gpt-ad-1432601663177-0' style='height:600px; width:120px;'>
+        <script type='text/javascript'>
+            googletag.cmd.push(function () {
+                googletag.display('div-gpt-ad-1432601663177-0');
+            });
+        </script>
+    </div></div>                                </div>
+                        </div>
+                </div>
+
+                <footer class="footer footer-skoob" style="margin-top: 15px; border:0px solid red;">
+
+        
+
+        <div class='footer-skoob-main'>
+                <div class="footer-container">
+                        <div class="footer-logo-icons-container">
+
+                                <div class="footer-logo-info">
+                                        <div class="footer-logo">
+                                                <img src="https://cache.skoob.com.br/s3/skoob-sp/img/v2/logo-footer.png" class="logo-footer" style="margin-bottom: 5px;margin-right: 15px; width:70px;" alt=""/>                                
+                                        </div>
+                                        <div class="footer-info">
+                                                Somos a maior rede social do Brasil criada especialmente para quem ama ler. 
+                                                Junte-se aos mais de 5 milhões de leitores e compartilhe experiências literárias. 
+                                        </div>
+                                </div>
+
+                                <div>
+                                        <div class="footer-icons">
+                                                <a class="footer-icons-link" href="//www.facebook.com/skoobnews" alt="Facebook - Skoob" title="Facebook - Skoob" target="_blank"><i class="fa fa-facebook-square"></i></a>
+                                                <a class="footer-icons-link" href="//www.youtube.com/user/skoobnews" alt="Youtube - Skoob" title="Youtube - Skoob" target="_blank"><i class="fa fa-youtube-square"></i></a>
+                                                <a class="footer-icons-link" href="//twitter.com/skoobnews" rel="nofollow" alt="Twitter - Skoob" title="Twitter - Skoob" target="_blank"><i class="fa fa-twitter-square"></i></a>
+                                                <a class="footer-icons-link" href="//instagram.com/skoobnews" rel="nofollow" alt="Instagram - Skoob" title="Instagram - Skoob" target="_blank"><i class="fa fa-instagram"></i></a>
+                                                <a class="footer-icons-link" href="//plus.google.com/106271037006970682640/posts" rel="nofollow" alt="Google plus - Skoob" title="Google plus - Skoob" target="_blank"><i class="fa fa-google-plus-square"></i></a>
+                                        </div>
+
+                                        <div class="footer-icons-container">
+                                                <div class="footer-app-stores">
+                                                        <h5 style="font-weight:600; margin:10px 0px !important; font-size: 14px;">Baixe nosso app</h5>
+                                                        <div class="apps">
+                                                                <a href="https://itunes.apple.com/br/app/skoob/id904670263?l=pt&amp;ls=1&amp;mt=8"><img src="https://skoob-sp.s3.amazonaws.com/img/mkt/2015-SET/app-store.jpg" alt="Baixe para iPhone" style="height:33px;" class="mb-2"></a>
+                                                                <a href="https://play.google.com/store/apps/details?id=com.gaudium.skoob&amp;hl=pt_BR"><img src="https://skoob-sp.s3.amazonaws.com/img/mkt/2015-SET/google-play.jpg" alt="Baixe para Android" style="height:33px;" class="mb-2"></a>
+                                                        </div>
+                                                </div>
+                                        </div> 
+                                </div>
+
+                        </div>
+
+                        <div class="footer-links-icons-container">
+
+                                <div class="footer-links-container">
+                                        <ul class="footer-ul">
+                                                <li class="footer-li"><a class="footer-li-link" href='/ajuda/faq'>FAQ</a></li>
+                                                <li class="footer-li"><a class="footer-li-link" href='/inicio/quem_somos'>Quem Somos</a></li>
+                                                <li class="footer-li"><a class="footer-li-link" href='//blog.skoob.com.br/'>Blog</a></li>
+                                                <li class="footer-li"><a class="footer-li-link" href='/acervo/adicionar/'>Cadastro de livros</a></li>
+                                                <li class="footer-li"><a class="footer-li-link" href='/autor/checar/'>Cadastro de autores</a></li>
+                                                <li class="footer-li"><a class="footer-li-link" href='/downloads/'>Downloads</a></li>
+                                                <li class="footer-li"><a class="footer-li-link" href='/ajuda/faq'>Fale Conosco</a></li>
+                                        </ul>                        
+                                </div>
+
+                        </div>
+
+                </div>
+
+        </div>
+        <div class="footer-last-container">
+                <div class='footer-last-links-container'>
+                                                <ul class='footer-last-ul'>
+                                <li style="list-style: none;display: inline;padding: 0 12px;border-right: 1px solid #fff;font-size: 14px;margin: 0;"><a style="color:#fff;" title="Livros" href='/livro/lista/'>Livros</a></li>
+                                <li style="list-style: none;display: inline;padding: 0 12px;border-right: 1px solid #fff;font-size: 14px;margin: 0;"><a style="color:#fff;" title="Autores" href='/autor/recentes/'>Autores</a></li>
+                                <li style="list-style: none;display: inline;padding: 0 12px;border-right: 1px solid #fff;font-size: 14px;margin: 0;"><a style="color:#fff;" title="Editoras" href='/editoras/'>Editoras</a></li>
+                                <li style="list-style: none;display: inline;padding: 0 12px;border-right: 1px solid #fff;font-size: 14px;margin: 0;"><a style="color:#fff;" title="Leitores" href='/usuario/lista'>Leitores</a></li>
+                                <li style="list-style: none;display: inline;padding: 0 12px;border-right: 1px solid #fff;font-size: 14px;margin: 0;"><a style="color:#fff;" rel="nofollow" title="Trocas" href='/plus/'>Trocas</a></li>
+                                <li style="list-style: none;display: inline;padding: 0 12px;border-right: 1px solid #fff;font-size: 14px;margin: 0;"><a style="color:#fff;" title="Cortesias" href='/cortesia/'>Cortesias</a></li>
+                                <li style="list-style: none;display: inline;padding: 0 12px;border-right: 1px solid #fff;font-size: 14px;margin: 0;"><a style="color:#fff;" title="Lançamentos" href="/livro/lancamentos/">Lançamentos</a></li>
+                                <li style="list-style: none;display: inline;padding: 0 12px;border-right: 1px solid #fff;font-size: 14px;margin: 0;"><a style="color:#fff;" title="Top Mais" href='/livro/top_mais/lidos/'>Top Mais</a></li>
+                                <li style="list-style: none;display: inline;padding: 0 12px;border-right: 1px solid #fff;font-size: 14px;margin: 0;"><a style="color:#fff;" title="Meta de Leitura" href="/meta/ano/2019/">Meta de Leitura 2019</a></li>
+                                <li style="list-style: none;display: inline;padding: 0 12px;border-right: 0px solid #fff;font-size: 14px;margin: 0;"><a style="color:#fff;" title="Termo de Uso" href='/ajuda/termo_de_uso/' target="_blank">Termo de Uso</a></li>
+                        </ul>                                
+                </div>
+        </div>
+</footer>
+
+
+<!-- 
+
+                                <li style="list-style: none;display: inline;padding: 0 12px;border-right: 1px solid #fff;font-size: 14px;margin: 0;"><a style="color:#fff;" rel="nofollow" title="Grupos" href='/grupo/'>Grupos</a></li>
+-->
+        </body>
+        <script type="text/javascript" src="//www.google.com/jsapi"></script>
+        <!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"wIE9i1acVE00MP", domain:"skoob.com.br",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://www.skoob.com.br/js/alexa/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=wIE9i1acVE00MP" style="display:none" height="1" width="1" alt="" /></noscript><script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "//ssl." : "//www.");
+                document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">
+        var pageTracker = _gat._getTracker("UA-6452051-1");
+        pageTracker._trackPageview();
+</script><script type="text/javascript">
+window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(13),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(14),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(7),t(6),"addEventListener"in window&&t(4),c.xhrWrappable&&t(8),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(7),s=t(6);t("loader").features.stn=!0,t(5);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],4:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(15)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],5:[function(t,e,n){var r=t("ee").get("history"),o=t(15)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],6:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],7:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],8:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(4);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],9:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(10),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(12),m=window.XMLHttpRequest;s.features.xhr=!0,t(8),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],10:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],11:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(13),a=t(14);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],12:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],13:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],14:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],15:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(14),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(13),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(13),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(11);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,9,3]);
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"9e53d555d8",applicationID:"17961617",sa:1}</script>
+</html>

@@ -1,0 +1,26 @@
+Resultados do agrupamento usando single linkage
+
+Melhor número de clusters para Silhouette em single linkage: 2
+Arquivo: single-linkage-Silhouette.png
+
+Melhor número de clusters para Davies-Bouldin em single linkage: 3
+Arquivo: single-linkage-Davies-Bouldin.png
+
+Melhor número de clusters para Calinski-Harabaz em single linkage: 3
+Arquivo: single-linkage-Calinski-Harabaz.png
+
+Quantidade ideal de clusters para o single linkage: 2
+
+Total de livros do cluster 0: 10221
+
+Total de livros do cluster 1: 1
+
+
+Índice Silhueta: 0.004438819450656651
+
+Índice Davies-Bouldin: 0.9911285495259478
+
+Índice Calinski-Harabasz: 1.017726278329119
+
+Arquivo: resultado-single-linkage.png
+

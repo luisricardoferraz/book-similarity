@@ -1,0 +1,26 @@
+Resultados do agrupamento usando ward linkage
+
+Melhor número de clusters para Silhouette em ward linkage: 2
+Arquivo: ward-linkage-Silhouette.png
+
+Melhor número de clusters para Davies-Bouldin em ward linkage: 10
+Arquivo: ward-linkage-Davies-Bouldin.png
+
+Melhor número de clusters para Calinski-Harabaz em ward linkage: 2
+Arquivo: ward-linkage-Calinski-Harabaz.png
+
+Quantidade ideal de clusters para o ward linkage: 2
+
+Total de livros do cluster 0: 4161
+
+Total de livros do cluster 1: 6061
+
+
+Índice Silhueta: 0.0019624216195155727
+
+Índice Davies-Bouldin: 21.368553559545287
+
+Índice Calinski-Harabasz: 21.600841225401382
+
+Arquivo: resultado-ward-linkage.png
+

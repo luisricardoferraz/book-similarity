@@ -1,0 +1,14 @@
+Resultados do agrupamento usando Spectral Clustering
+Total de livros do cluster 0: 4753
+
+Total de livros do cluster 1: 5469
+
+
+Índice Silhueta: 0.03433981974640496
+
+Índice Davies-Bouldin: 5.12377737194233
+
+Índice Calinski-Harabasz: 35.00505141941948
+
+Arquivo: resultado-Spectral.png
+

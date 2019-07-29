@@ -1,0 +1,32 @@
+Resultados do agrupamento usando K-Means
+
+Melhor número de clusters para Silhouette: 2
+Arquivo: KMeans-Silhouette.png
+
+Melhor número de clusters para Davies-Bouldin: 10
+Arquivo: KMeans-Davies-Bouldin.png
+
+Melhor número de clusters para Calinski-Harabaz: 2
+Arquivo: KMeans-Calinski-Harabaz.png
+
+Quantidade ideal de clusters para o K-Means: 2
+
+Total de iterações: 15
+
+Total de livros do cluster 0: 4865
+
+Total de livros do cluster 1: 5357
+
+
+Índice Silhueta: 0.0033769657420949922
+
+Índice Davies-Bouldin: 16.90973924878083
+
+Índice Calinski-Harabasz: 35.654276911366296
+
+Inércia: 9932.936875362726
+
+Score: -9932.936875362791
+
+Arquivo: resultado-KMeans.png
+

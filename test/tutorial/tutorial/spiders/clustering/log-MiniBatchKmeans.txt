@@ -1,0 +1,32 @@
+Resultados do agrupamento usando MiniBatch K-Means
+
+Melhor número de clusters para Silhouette: 2
+Arquivo: MiniBatch-KMeans-Silhouette.png
+
+Melhor número de clusters para Davies-Bouldin: 10
+Arquivo: MiniBatch-KMeans-Davies-Bouldin.png
+
+Melhor número de clusters para Calinski-Harabaz: 2
+Arquivo: MiniBatch-KMeans-Calinski-Harabaz.png
+
+Quantidade ideal de clusters para o MiniBatch K-Means: 2
+
+Total de iterações: 135
+
+Total de livros do cluster 0: 2982
+
+Total de livros do cluster 1: 7240
+
+
+Índice Silhueta: 0.0023892627872801634
+
+Índice Davies-Bouldin: 15.925442581059954
+
+Índice Calinski-Harabasz: 33.203829848152736
+
+Inércia: 9936.90787568761
+
+Score: -9936.907875687608
+
+Arquivo: resultado-MiniBatchKmeans.png
+
