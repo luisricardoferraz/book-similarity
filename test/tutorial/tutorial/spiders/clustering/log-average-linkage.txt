@@ -3,24 +3,24 @@ Resultados do agrupamento usando average linkage
 Melhor número de clusters para Silhouette em average linkage: 2
 Arquivo: average-linkage-Silhouette.png
 
-Melhor número de clusters para Davies-Bouldin em average linkage: 3
+Melhor número de clusters para Davies-Bouldin em average linkage: 7
 Arquivo: average-linkage-Davies-Bouldin.png
 
-Melhor número de clusters para Calinski-Harabaz em average linkage: 2
+Melhor número de clusters para Calinski-Harabaz em average linkage: 10
 Arquivo: average-linkage-Calinski-Harabaz.png
 
 Quantidade ideal de clusters para o average linkage: 2
 
-Total de livros do cluster 0: 10217
+Total de livros do cluster 0: 10166
 
-Total de livros do cluster 1: 5
+Total de livros do cluster 1: 4
 
 
-Índice Silhueta: 0.006683636629800494
+Índice Silhueta: 0.009542853145405419
 
-Índice Davies-Bouldin: 3.403599237038079
+Índice Davies-Bouldin: 3.175621291551935
 
-Índice Calinski-Harabasz: 1.4823475676045728
+Índice Calinski-Harabasz: 1.3400036945503224
 
 Arquivo: resultado-average-linkage.png
 

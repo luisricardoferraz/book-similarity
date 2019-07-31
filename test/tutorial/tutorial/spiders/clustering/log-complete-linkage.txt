@@ -6,21 +6,21 @@ Arquivo: complete-linkage-Silhouette.png
 Melhor número de clusters para Davies-Bouldin em complete linkage: 10
 Arquivo: complete-linkage-Davies-Bouldin.png
 
-Melhor número de clusters para Calinski-Harabaz em complete linkage: 10
+Melhor número de clusters para Calinski-Harabaz em complete linkage: 3
 Arquivo: complete-linkage-Calinski-Harabaz.png
 
 Quantidade ideal de clusters para o complete linkage: 2
 
-Total de livros do cluster 0: 9612
+Total de livros do cluster 0: 5314
 
-Total de livros do cluster 1: 610
+Total de livros do cluster 1: 4856
 
 
-Índice Silhueta: 1.4058172643492621e-05
+Índice Silhueta: 0.0003368123072714302
 
-Índice Davies-Bouldin: 30.86963373481303
+Índice Davies-Bouldin: 49.7950199778942
 
-Índice Calinski-Harabasz: 2.4025155850277997
+Índice Calinski-Harabasz: 4.092153960921497
 
 Arquivo: resultado-complete-linkage.png
 
