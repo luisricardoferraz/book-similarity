@@ -1,6 +1,6 @@
 Resultados do agrupamento usando Affinity Propagation
 
-Total de iterações: 200
+Total de iterações: 1000
 
 Total de livros do cluster 0: 6
 
@@ -16,117 +16,117 @@ Total de livros do cluster 5: 12
 
 Total de livros do cluster 6: 12
 
-Total de livros do cluster 7: 16
+Total de livros do cluster 7: 8
 
-Total de livros do cluster 8: 7
+Total de livros do cluster 8: 16
 
-Total de livros do cluster 9: 9
+Total de livros do cluster 9: 7
 
-Total de livros do cluster 10: 8
+Total de livros do cluster 10: 9
 
-Total de livros do cluster 11: 20
+Total de livros do cluster 11: 8
 
-Total de livros do cluster 12: 7
+Total de livros do cluster 12: 20
 
-Total de livros do cluster 13: 4
+Total de livros do cluster 13: 7
 
-Total de livros do cluster 14: 12
+Total de livros do cluster 14: 4
 
-Total de livros do cluster 15: 17
+Total de livros do cluster 15: 12
 
-Total de livros do cluster 16: 2
+Total de livros do cluster 16: 17
 
-Total de livros do cluster 17: 5
+Total de livros do cluster 17: 2
 
-Total de livros do cluster 18: 6
+Total de livros do cluster 18: 5
 
-Total de livros do cluster 19: 7
+Total de livros do cluster 19: 6
 
-Total de livros do cluster 20: 4
+Total de livros do cluster 20: 7
 
-Total de livros do cluster 21: 11
+Total de livros do cluster 21: 4
 
-Total de livros do cluster 22: 4
+Total de livros do cluster 22: 11
 
 Total de livros do cluster 23: 4
 
 Total de livros do cluster 24: 4
 
-Total de livros do cluster 25: 6
+Total de livros do cluster 25: 2
 
-Total de livros do cluster 26: 11
+Total de livros do cluster 26: 4
 
-Total de livros do cluster 27: 12
+Total de livros do cluster 27: 6
 
-Total de livros do cluster 28: 8
+Total de livros do cluster 28: 11
 
-Total de livros do cluster 29: 15
+Total de livros do cluster 29: 12
 
-Total de livros do cluster 30: 14
+Total de livros do cluster 30: 8
 
-Total de livros do cluster 31: 10
+Total de livros do cluster 31: 15
 
-Total de livros do cluster 32: 3
+Total de livros do cluster 32: 14
 
-Total de livros do cluster 33: 6
+Total de livros do cluster 33: 10
 
-Total de livros do cluster 34: 7
+Total de livros do cluster 34: 3
 
 Total de livros do cluster 35: 6
 
-Total de livros do cluster 36: 8
+Total de livros do cluster 36: 7
 
-Total de livros do cluster 37: 2
+Total de livros do cluster 37: 6
 
 Total de livros do cluster 38: 8
 
-Total de livros do cluster 39: 4
+Total de livros do cluster 39: 8
 
 Total de livros do cluster 40: 4
 
-Total de livros do cluster 41: 14
+Total de livros do cluster 41: 4
 
-Total de livros do cluster 42: 7
+Total de livros do cluster 42: 14
 
-Total de livros do cluster 43: 19
+Total de livros do cluster 43: 7
 
-Total de livros do cluster 44: 17
+Total de livros do cluster 44: 19
 
-Total de livros do cluster 45: 16
+Total de livros do cluster 45: 17
 
-Total de livros do cluster 46: 17
+Total de livros do cluster 46: 16
 
-Total de livros do cluster 47: 10
+Total de livros do cluster 47: 17
 
-Total de livros do cluster 48: 6
+Total de livros do cluster 48: 10
 
-Total de livros do cluster 49: 5
+Total de livros do cluster 49: 6
 
-Total de livros do cluster 50: 9
+Total de livros do cluster 50: 5
 
-Total de livros do cluster 51: 3
+Total de livros do cluster 51: 9
 
-Total de livros do cluster 52: 13
+Total de livros do cluster 52: 3
 
-Total de livros do cluster 53: 15
+Total de livros do cluster 53: 13
 
-Total de livros do cluster 54: 18
+Total de livros do cluster 54: 15
 
-Total de livros do cluster 55: 8
+Total de livros do cluster 55: 18
 
-Total de livros do cluster 56: 11
+Total de livros do cluster 56: 8
 
-Total de livros do cluster 57: 8
+Total de livros do cluster 57: 11
 
-Total de livros do cluster 58: 15
+Total de livros do cluster 58: 8
 
-Total de livros do cluster 59: 4
+Total de livros do cluster 59: 15
 
-Total de livros do cluster 60: 23
+Total de livros do cluster 60: 4
 
-Total de livros do cluster 61: 10
+Total de livros do cluster 61: 23
 
-Total de livros do cluster 62: 2
+Total de livros do cluster 62: 10
 
 Total de livros do cluster 63: 5
 
@@ -180,51 +180,51 @@ Total de livros do cluster 87: 8
 
 Total de livros do cluster 88: 4
 
-Total de livros do cluster 89: 2
+Total de livros do cluster 89: 32
 
-Total de livros do cluster 90: 32
+Total de livros do cluster 90: 5
 
-Total de livros do cluster 91: 2
+Total de livros do cluster 91: 4
 
-Total de livros do cluster 92: 5
+Total de livros do cluster 92: 11
 
-Total de livros do cluster 93: 4
+Total de livros do cluster 93: 9
 
-Total de livros do cluster 94: 11
+Total de livros do cluster 94: 3
 
-Total de livros do cluster 95: 9
+Total de livros do cluster 95: 13
 
-Total de livros do cluster 96: 3
+Total de livros do cluster 96: 15
 
-Total de livros do cluster 97: 13
+Total de livros do cluster 97: 6
 
-Total de livros do cluster 98: 15
+Total de livros do cluster 98: 7
 
-Total de livros do cluster 99: 6
+Total de livros do cluster 99: 18
 
-Total de livros do cluster 100: 7
+Total de livros do cluster 100: 15
 
-Total de livros do cluster 101: 18
+Total de livros do cluster 101: 9
 
-Total de livros do cluster 102: 15
+Total de livros do cluster 102: 8
 
-Total de livros do cluster 103: 9
+Total de livros do cluster 103: 5
 
-Total de livros do cluster 104: 8
+Total de livros do cluster 104: 15
 
-Total de livros do cluster 105: 5
+Total de livros do cluster 105: 2
 
-Total de livros do cluster 106: 15
+Total de livros do cluster 106: 9
 
-Total de livros do cluster 107: 9
+Total de livros do cluster 107: 5
 
-Total de livros do cluster 108: 5
+Total de livros do cluster 108: 3
 
-Total de livros do cluster 109: 3
+Total de livros do cluster 109: 5
 
-Total de livros do cluster 110: 5
+Total de livros do cluster 110: 6
 
-Total de livros do cluster 111: 6
+Total de livros do cluster 111: 3
 
 Total de livros do cluster 112: 5
 
@@ -252,21 +252,21 @@ Total de livros do cluster 123: 10
 
 Total de livros do cluster 124: 3
 
-Total de livros do cluster 125: 3
+Total de livros do cluster 125: 4
 
-Total de livros do cluster 126: 4
+Total de livros do cluster 126: 10
 
 Total de livros do cluster 127: 10
 
-Total de livros do cluster 128: 10
+Total de livros do cluster 128: 9
 
 Total de livros do cluster 129: 9
 
-Total de livros do cluster 130: 9
+Total de livros do cluster 130: 16
 
-Total de livros do cluster 131: 16
+Total de livros do cluster 131: 3
 
-Total de livros do cluster 132: 3
+Total de livros do cluster 132: 4
 
 Total de livros do cluster 133: 4
 
@@ -274,215 +274,215 @@ Total de livros do cluster 134: 4
 
 Total de livros do cluster 135: 4
 
-Total de livros do cluster 136: 4
+Total de livros do cluster 136: 5
 
 Total de livros do cluster 137: 3
 
-Total de livros do cluster 138: 5
+Total de livros do cluster 138: 11
 
-Total de livros do cluster 139: 3
+Total de livros do cluster 139: 2
 
-Total de livros do cluster 140: 11
+Total de livros do cluster 140: 5
 
-Total de livros do cluster 141: 5
+Total de livros do cluster 141: 4
 
-Total de livros do cluster 142: 4
+Total de livros do cluster 142: 6
 
 Total de livros do cluster 143: 6
 
-Total de livros do cluster 144: 6
+Total de livros do cluster 144: 4
 
-Total de livros do cluster 145: 4
+Total de livros do cluster 145: 10
 
-Total de livros do cluster 146: 10
+Total de livros do cluster 146: 5
 
-Total de livros do cluster 147: 5
+Total de livros do cluster 147: 2
 
-Total de livros do cluster 148: 2
+Total de livros do cluster 148: 5
 
-Total de livros do cluster 149: 5
+Total de livros do cluster 149: 6
 
-Total de livros do cluster 150: 6
+Total de livros do cluster 150: 8
 
-Total de livros do cluster 151: 8
+Total de livros do cluster 151: 13
 
-Total de livros do cluster 152: 13
+Total de livros do cluster 152: 3
 
 Total de livros do cluster 153: 3
 
-Total de livros do cluster 154: 3
+Total de livros do cluster 154: 14
 
-Total de livros do cluster 155: 14
+Total de livros do cluster 155: 4
 
 Total de livros do cluster 156: 4
 
-Total de livros do cluster 157: 4
+Total de livros do cluster 157: 7
 
-Total de livros do cluster 158: 7
+Total de livros do cluster 158: 5
 
-Total de livros do cluster 159: 5
+Total de livros do cluster 159: 4
 
-Total de livros do cluster 160: 4
+Total de livros do cluster 160: 15
 
-Total de livros do cluster 161: 15
+Total de livros do cluster 161: 6
 
 Total de livros do cluster 162: 6
 
-Total de livros do cluster 163: 6
+Total de livros do cluster 163: 11
 
-Total de livros do cluster 164: 11
+Total de livros do cluster 164: 10
 
-Total de livros do cluster 165: 10
+Total de livros do cluster 165: 5
 
-Total de livros do cluster 166: 5
+Total de livros do cluster 166: 4
 
 Total de livros do cluster 167: 4
 
 Total de livros do cluster 168: 4
 
-Total de livros do cluster 169: 4
+Total de livros do cluster 169: 7
 
-Total de livros do cluster 170: 7
+Total de livros do cluster 170: 6
 
-Total de livros do cluster 171: 6
+Total de livros do cluster 171: 8
 
-Total de livros do cluster 172: 8
+Total de livros do cluster 172: 9
 
-Total de livros do cluster 173: 9
+Total de livros do cluster 173: 4
 
 Total de livros do cluster 174: 4
 
-Total de livros do cluster 175: 4
+Total de livros do cluster 175: 8
 
-Total de livros do cluster 176: 8
+Total de livros do cluster 176: 6
 
-Total de livros do cluster 177: 2
+Total de livros do cluster 177: 4
 
-Total de livros do cluster 178: 6
+Total de livros do cluster 178: 2
 
-Total de livros do cluster 179: 4
+Total de livros do cluster 179: 7
 
 Total de livros do cluster 180: 2
 
-Total de livros do cluster 181: 7
+Total de livros do cluster 181: 8
 
-Total de livros do cluster 182: 2
+Total de livros do cluster 182: 10
 
-Total de livros do cluster 183: 8
+Total de livros do cluster 183: 4
 
-Total de livros do cluster 184: 10
+Total de livros do cluster 184: 5
 
-Total de livros do cluster 185: 4
+Total de livros do cluster 185: 23
 
-Total de livros do cluster 186: 5
+Total de livros do cluster 186: 6
 
-Total de livros do cluster 187: 23
+Total de livros do cluster 187: 15
 
-Total de livros do cluster 188: 6
+Total de livros do cluster 188: 5
 
-Total de livros do cluster 189: 15
+Total de livros do cluster 189: 2
 
-Total de livros do cluster 190: 5
+Total de livros do cluster 190: 3
 
-Total de livros do cluster 191: 2
+Total de livros do cluster 191: 9
 
-Total de livros do cluster 192: 3
+Total de livros do cluster 192: 24
 
-Total de livros do cluster 193: 9
+Total de livros do cluster 193: 3
 
-Total de livros do cluster 194: 24
+Total de livros do cluster 194: 5
 
 Total de livros do cluster 195: 7
 
-Total de livros do cluster 196: 3
+Total de livros do cluster 196: 12
 
-Total de livros do cluster 197: 5
+Total de livros do cluster 197: 7
 
-Total de livros do cluster 198: 7
+Total de livros do cluster 198: 4
 
-Total de livros do cluster 199: 12
+Total de livros do cluster 199: 7
 
-Total de livros do cluster 200: 7
+Total de livros do cluster 200: 6
 
-Total de livros do cluster 201: 4
+Total de livros do cluster 201: 7
 
 Total de livros do cluster 202: 7
 
-Total de livros do cluster 203: 6
+Total de livros do cluster 203: 2
 
 Total de livros do cluster 204: 7
 
-Total de livros do cluster 205: 7
+Total de livros do cluster 205: 8
 
-Total de livros do cluster 206: 7
+Total de livros do cluster 206: 4
 
-Total de livros do cluster 207: 2
+Total de livros do cluster 207: 13
 
-Total de livros do cluster 208: 8
+Total de livros do cluster 208: 10
 
-Total de livros do cluster 209: 4
+Total de livros do cluster 209: 2
 
-Total de livros do cluster 210: 13
+Total de livros do cluster 210: 2
 
-Total de livros do cluster 211: 10
+Total de livros do cluster 211: 20
 
-Total de livros do cluster 212: 2
+Total de livros do cluster 212: 4
 
-Total de livros do cluster 213: 2
+Total de livros do cluster 213: 9
 
-Total de livros do cluster 214: 20
+Total de livros do cluster 214: 5
 
-Total de livros do cluster 215: 4
+Total de livros do cluster 215: 7
 
-Total de livros do cluster 216: 9
+Total de livros do cluster 216: 8
 
-Total de livros do cluster 217: 5
+Total de livros do cluster 217: 9
 
-Total de livros do cluster 218: 7
+Total de livros do cluster 218: 4
 
-Total de livros do cluster 219: 8
+Total de livros do cluster 219: 4
 
-Total de livros do cluster 220: 9
+Total de livros do cluster 220: 5
 
-Total de livros do cluster 221: 4
+Total de livros do cluster 221: 2
 
-Total de livros do cluster 222: 4
+Total de livros do cluster 222: 2
 
 Total de livros do cluster 223: 5
 
-Total de livros do cluster 224: 2
+Total de livros do cluster 224: 12
 
-Total de livros do cluster 225: 5
+Total de livros do cluster 225: 14
 
-Total de livros do cluster 226: 12
+Total de livros do cluster 226: 10
 
-Total de livros do cluster 227: 14
+Total de livros do cluster 227: 7
 
-Total de livros do cluster 228: 10
+Total de livros do cluster 228: 6
 
-Total de livros do cluster 229: 6
+Total de livros do cluster 229: 4
 
-Total de livros do cluster 230: 4
+Total de livros do cluster 230: 12
 
-Total de livros do cluster 231: 12
+Total de livros do cluster 231: 9
 
-Total de livros do cluster 232: 9
+Total de livros do cluster 232: 4
 
-Total de livros do cluster 233: 4
+Total de livros do cluster 233: 6
 
-Total de livros do cluster 234: 6
+Total de livros do cluster 234: 7
 
-Total de livros do cluster 235: 7
+Total de livros do cluster 235: 13
 
-Total de livros do cluster 236: 13
+Total de livros do cluster 236: 10
 
-Total de livros do cluster 237: 10
+Total de livros do cluster 237: 5
 
-Total de livros do cluster 238: 5
+Total de livros do cluster 238: 2
 
 Total de livros do cluster 239: 4
 
-Total de livros do cluster 240: 8
+Total de livros do cluster 240: 2
 
 Total de livros do cluster 241: 6
 
@@ -500,37 +500,37 @@ Total de livros do cluster 247: 10
 
 Total de livros do cluster 248: 3
 
-Total de livros do cluster 249: 2
+Total de livros do cluster 249: 5
 
-Total de livros do cluster 250: 5
+Total de livros do cluster 250: 3
 
-Total de livros do cluster 251: 3
+Total de livros do cluster 251: 22
 
-Total de livros do cluster 252: 22
+Total de livros do cluster 252: 4
 
-Total de livros do cluster 253: 2
+Total de livros do cluster 253: 4
 
-Total de livros do cluster 254: 4
+Total de livros do cluster 254: 11
 
-Total de livros do cluster 255: 4
+Total de livros do cluster 255: 5
 
-Total de livros do cluster 256: 11
+Total de livros do cluster 256: 8
 
-Total de livros do cluster 257: 5
+Total de livros do cluster 257: 32
 
-Total de livros do cluster 258: 8
+Total de livros do cluster 258: 6
 
-Total de livros do cluster 259: 32
+Total de livros do cluster 259: 4
 
-Total de livros do cluster 260: 6
+Total de livros do cluster 260: 4
 
-Total de livros do cluster 261: 29
+Total de livros do cluster 261: 2
 
-Total de livros do cluster 262: 24
+Total de livros do cluster 262: 29
 
-Total de livros do cluster 263: 10
+Total de livros do cluster 263: 24
 
-Total de livros do cluster 264: 2
+Total de livros do cluster 264: 10
 
 Total de livros do cluster 265: 3
 
@@ -540,103 +540,103 @@ Total de livros do cluster 267: 7
 
 Total de livros do cluster 268: 13
 
-Total de livros do cluster 269: 4
+Total de livros do cluster 269: 3
 
-Total de livros do cluster 270: 3
+Total de livros do cluster 270: 7
 
-Total de livros do cluster 271: 7
+Total de livros do cluster 271: 10
 
-Total de livros do cluster 272: 10
+Total de livros do cluster 272: 4
 
-Total de livros do cluster 273: 4
+Total de livros do cluster 273: 7
 
-Total de livros do cluster 274: 7
+Total de livros do cluster 274: 6
 
-Total de livros do cluster 275: 6
+Total de livros do cluster 275: 3
 
 Total de livros do cluster 276: 3
 
 Total de livros do cluster 277: 4
 
-Total de livros do cluster 278: 4
+Total de livros do cluster 278: 6
 
-Total de livros do cluster 279: 4
+Total de livros do cluster 279: 6
 
-Total de livros do cluster 280: 6
+Total de livros do cluster 280: 12
 
-Total de livros do cluster 281: 6
+Total de livros do cluster 281: 5
 
-Total de livros do cluster 282: 12
+Total de livros do cluster 282: 15
 
-Total de livros do cluster 283: 5
+Total de livros do cluster 283: 4
 
 Total de livros do cluster 284: 15
 
 Total de livros do cluster 285: 4
 
-Total de livros do cluster 286: 15
+Total de livros do cluster 286: 4
 
-Total de livros do cluster 287: 3
+Total de livros do cluster 287: 5
 
-Total de livros do cluster 288: 4
+Total de livros do cluster 288: 5
 
 Total de livros do cluster 289: 5
 
-Total de livros do cluster 290: 5
+Total de livros do cluster 290: 10
 
-Total de livros do cluster 291: 5
+Total de livros do cluster 291: 4
 
-Total de livros do cluster 292: 5
+Total de livros do cluster 292: 6
 
-Total de livros do cluster 293: 10
+Total de livros do cluster 293: 4
 
 Total de livros do cluster 294: 4
 
-Total de livros do cluster 295: 6
+Total de livros do cluster 295: 9
 
 Total de livros do cluster 296: 4
 
-Total de livros do cluster 297: 9
+Total de livros do cluster 297: 6
 
-Total de livros do cluster 298: 6
+Total de livros do cluster 298: 4
 
-Total de livros do cluster 299: 4
+Total de livros do cluster 299: 16
 
-Total de livros do cluster 300: 18
+Total de livros do cluster 300: 12
 
-Total de livros do cluster 301: 12
+Total de livros do cluster 301: 5
 
 Total de livros do cluster 302: 5
 
-Total de livros do cluster 303: 5
+Total de livros do cluster 303: 4
 
-Total de livros do cluster 304: 4
+Total de livros do cluster 304: 8
 
-Total de livros do cluster 305: 3
+Total de livros do cluster 305: 10
 
-Total de livros do cluster 306: 10
+Total de livros do cluster 306: 5
 
 Total de livros do cluster 307: 5
 
-Total de livros do cluster 308: 5
+Total de livros do cluster 308: 2
 
-Total de livros do cluster 309: 2
+Total de livros do cluster 309: 5
 
-Total de livros do cluster 310: 5
+Total de livros do cluster 310: 11
 
-Total de livros do cluster 311: 11
+Total de livros do cluster 311: 3
 
-Total de livros do cluster 312: 3
+Total de livros do cluster 312: 8
 
-Total de livros do cluster 313: 8
+Total de livros do cluster 313: 6
 
-Total de livros do cluster 314: 6
+Total de livros do cluster 314: 24
 
-Total de livros do cluster 315: 24
+Total de livros do cluster 315: 5
 
-Total de livros do cluster 316: 5
+Total de livros do cluster 316: 27
 
-Total de livros do cluster 317: 27
+Total de livros do cluster 317: 7
 
 Total de livros do cluster 318: 4
 
@@ -648,119 +648,119 @@ Total de livros do cluster 321: 8
 
 Total de livros do cluster 322: 7
 
-Total de livros do cluster 323: 8
+Total de livros do cluster 323: 2
 
 Total de livros do cluster 324: 6
 
-Total de livros do cluster 325: 2
+Total de livros do cluster 325: 3
 
 Total de livros do cluster 326: 11
 
-Total de livros do cluster 327: 4
+Total de livros do cluster 327: 5
 
-Total de livros do cluster 328: 16
+Total de livros do cluster 328: 4
 
-Total de livros do cluster 329: 7
+Total de livros do cluster 329: 16
 
-Total de livros do cluster 330: 9
+Total de livros do cluster 330: 7
 
-Total de livros do cluster 331: 11
+Total de livros do cluster 331: 9
 
-Total de livros do cluster 332: 2
+Total de livros do cluster 332: 11
 
-Total de livros do cluster 333: 7
+Total de livros do cluster 333: 2
 
-Total de livros do cluster 334: 7
+Total de livros do cluster 334: 2
 
-Total de livros do cluster 335: 6
+Total de livros do cluster 335: 7
 
-Total de livros do cluster 336: 16
+Total de livros do cluster 336: 7
 
-Total de livros do cluster 337: 8
+Total de livros do cluster 337: 6
 
-Total de livros do cluster 338: 4
+Total de livros do cluster 338: 16
 
-Total de livros do cluster 339: 6
+Total de livros do cluster 339: 8
 
-Total de livros do cluster 340: 8
+Total de livros do cluster 340: 4
 
-Total de livros do cluster 341: 7
+Total de livros do cluster 341: 6
 
-Total de livros do cluster 342: 5
+Total de livros do cluster 342: 8
 
-Total de livros do cluster 343: 25
+Total de livros do cluster 343: 7
 
-Total de livros do cluster 344: 4
+Total de livros do cluster 344: 5
 
-Total de livros do cluster 345: 3
+Total de livros do cluster 345: 25
 
-Total de livros do cluster 346: 8
+Total de livros do cluster 346: 4
 
 Total de livros do cluster 347: 3
 
-Total de livros do cluster 348: 10
+Total de livros do cluster 348: 8
 
-Total de livros do cluster 349: 14
+Total de livros do cluster 349: 3
 
-Total de livros do cluster 350: 5
+Total de livros do cluster 350: 10
 
-Total de livros do cluster 351: 6
+Total de livros do cluster 351: 14
 
-Total de livros do cluster 352: 3
+Total de livros do cluster 352: 5
 
-Total de livros do cluster 353: 7
+Total de livros do cluster 353: 6
 
-Total de livros do cluster 354: 5
+Total de livros do cluster 354: 3
 
-Total de livros do cluster 355: 8
+Total de livros do cluster 355: 7
 
-Total de livros do cluster 356: 4
+Total de livros do cluster 356: 5
 
-Total de livros do cluster 357: 9
+Total de livros do cluster 357: 8
 
-Total de livros do cluster 358: 10
+Total de livros do cluster 358: 4
 
-Total de livros do cluster 359: 6
+Total de livros do cluster 359: 9
 
-Total de livros do cluster 360: 6
+Total de livros do cluster 360: 10
 
-Total de livros do cluster 361: 3
+Total de livros do cluster 361: 6
 
-Total de livros do cluster 362: 5
+Total de livros do cluster 362: 6
 
-Total de livros do cluster 363: 9
+Total de livros do cluster 363: 3
 
-Total de livros do cluster 364: 10
+Total de livros do cluster 364: 5
 
-Total de livros do cluster 365: 4
+Total de livros do cluster 365: 9
 
-Total de livros do cluster 366: 9
+Total de livros do cluster 366: 10
 
-Total de livros do cluster 367: 3
+Total de livros do cluster 367: 4
 
-Total de livros do cluster 368: 7
+Total de livros do cluster 368: 9
 
-Total de livros do cluster 369: 5
+Total de livros do cluster 369: 3
 
-Total de livros do cluster 370: 22
+Total de livros do cluster 370: 9
 
 Total de livros do cluster 371: 5
 
-Total de livros do cluster 372: 10
+Total de livros do cluster 372: 22
 
-Total de livros do cluster 373: 15
+Total de livros do cluster 373: 5
 
-Total de livros do cluster 374: 8
+Total de livros do cluster 374: 10
 
-Total de livros do cluster 375: 2
+Total de livros do cluster 375: 15
 
-Total de livros do cluster 376: 4
+Total de livros do cluster 376: 8
 
-Total de livros do cluster 377: 5
+Total de livros do cluster 377: 4
 
-Total de livros do cluster 378: 18
+Total de livros do cluster 378: 5
 
-Total de livros do cluster 379: 7
+Total de livros do cluster 379: 18
 
 Total de livros do cluster 380: 7
 
@@ -776,15 +776,15 @@ Total de livros do cluster 385: 9
 
 Total de livros do cluster 386: 3
 
-Total de livros do cluster 387: 7
+Total de livros do cluster 387: 3
 
-Total de livros do cluster 388: 3
+Total de livros do cluster 388: 14
 
-Total de livros do cluster 389: 14
+Total de livros do cluster 389: 10
 
-Total de livros do cluster 390: 10
+Total de livros do cluster 390: 7
 
-Total de livros do cluster 391: 7
+Total de livros do cluster 391: 2
 
 Total de livros do cluster 392: 45
 
@@ -792,99 +792,99 @@ Total de livros do cluster 393: 3
 
 Total de livros do cluster 394: 3
 
-Total de livros do cluster 395: 2
+Total de livros do cluster 395: 3
 
-Total de livros do cluster 396: 3
+Total de livros do cluster 396: 5
 
-Total de livros do cluster 397: 5
+Total de livros do cluster 397: 6
 
-Total de livros do cluster 398: 6
+Total de livros do cluster 398: 2
 
-Total de livros do cluster 399: 2
+Total de livros do cluster 399: 5
 
-Total de livros do cluster 400: 5
+Total de livros do cluster 400: 7
 
-Total de livros do cluster 401: 7
+Total de livros do cluster 401: 3
 
-Total de livros do cluster 402: 3
+Total de livros do cluster 402: 6
 
-Total de livros do cluster 403: 6
+Total de livros do cluster 403: 4
 
-Total de livros do cluster 404: 4
+Total de livros do cluster 404: 7
 
 Total de livros do cluster 405: 3
 
-Total de livros do cluster 406: 4
+Total de livros do cluster 406: 6
 
-Total de livros do cluster 407: 6
+Total de livros do cluster 407: 5
 
-Total de livros do cluster 408: 6
+Total de livros do cluster 408: 8
 
-Total de livros do cluster 409: 2
+Total de livros do cluster 409: 4
 
-Total de livros do cluster 410: 5
+Total de livros do cluster 410: 8
 
-Total de livros do cluster 411: 8
+Total de livros do cluster 411: 2
 
-Total de livros do cluster 412: 4
+Total de livros do cluster 412: 10
 
-Total de livros do cluster 413: 8
+Total de livros do cluster 413: 3
 
-Total de livros do cluster 414: 10
+Total de livros do cluster 414: 11
 
-Total de livros do cluster 415: 3
+Total de livros do cluster 415: 7
 
-Total de livros do cluster 416: 11
+Total de livros do cluster 416: 6
 
-Total de livros do cluster 417: 7
+Total de livros do cluster 417: 4
 
-Total de livros do cluster 418: 6
+Total de livros do cluster 418: 9
 
-Total de livros do cluster 419: 2
+Total de livros do cluster 419: 14
 
-Total de livros do cluster 420: 2
+Total de livros do cluster 420: 3
 
 Total de livros do cluster 421: 4
 
-Total de livros do cluster 422: 9
+Total de livros do cluster 422: 26
 
-Total de livros do cluster 423: 14
+Total de livros do cluster 423: 6
 
-Total de livros do cluster 424: 3
+Total de livros do cluster 424: 16
 
-Total de livros do cluster 425: 26
+Total de livros do cluster 425: 5
 
-Total de livros do cluster 426: 6
+Total de livros do cluster 426: 18
 
-Total de livros do cluster 427: 16
+Total de livros do cluster 427: 14
 
-Total de livros do cluster 428: 5
+Total de livros do cluster 428: 6
 
-Total de livros do cluster 429: 18
+Total de livros do cluster 429: 8
 
-Total de livros do cluster 430: 14
+Total de livros do cluster 430: 6
 
-Total de livros do cluster 431: 6
+Total de livros do cluster 431: 5
 
-Total de livros do cluster 432: 8
+Total de livros do cluster 432: 5
 
-Total de livros do cluster 433: 6
+Total de livros do cluster 433: 2
 
-Total de livros do cluster 434: 5
+Total de livros do cluster 434: 3
 
-Total de livros do cluster 435: 5
+Total de livros do cluster 435: 2
 
 Total de livros do cluster 436: 3
 
-Total de livros do cluster 437: 3
+Total de livros do cluster 437: 14
 
-Total de livros do cluster 438: 14
+Total de livros do cluster 438: 6
 
-Total de livros do cluster 439: 6
+Total de livros do cluster 439: 9
 
-Total de livros do cluster 440: 9
+Total de livros do cluster 440: 3
 
-Total de livros do cluster 441: 3
+Total de livros do cluster 441: 4
 
 Total de livros do cluster 442: 9
 
@@ -910,7 +910,7 @@ Total de livros do cluster 452: 20
 
 Total de livros do cluster 453: 5
 
-Total de livros do cluster 454: 15
+Total de livros do cluster 454: 17
 
 Total de livros do cluster 455: 11
 
@@ -920,73 +920,73 @@ Total de livros do cluster 457: 6
 
 Total de livros do cluster 458: 6
 
-Total de livros do cluster 459: 2
+Total de livros do cluster 459: 4
 
-Total de livros do cluster 460: 4
+Total de livros do cluster 460: 7
 
-Total de livros do cluster 461: 4
+Total de livros do cluster 461: 8
 
-Total de livros do cluster 462: 4
+Total de livros do cluster 462: 11
 
-Total de livros do cluster 463: 7
+Total de livros do cluster 463: 15
 
-Total de livros do cluster 464: 8
+Total de livros do cluster 464: 6
 
-Total de livros do cluster 465: 11
+Total de livros do cluster 465: 8
 
-Total de livros do cluster 466: 15
+Total de livros do cluster 466: 11
 
-Total de livros do cluster 467: 6
+Total de livros do cluster 467: 14
 
-Total de livros do cluster 468: 8
+Total de livros do cluster 468: 6
 
-Total de livros do cluster 469: 11
+Total de livros do cluster 469: 10
 
-Total de livros do cluster 470: 14
+Total de livros do cluster 470: 11
 
-Total de livros do cluster 471: 6
+Total de livros do cluster 471: 3
 
-Total de livros do cluster 472: 10
+Total de livros do cluster 472: 29
 
-Total de livros do cluster 473: 11
+Total de livros do cluster 473: 3
 
-Total de livros do cluster 474: 3
+Total de livros do cluster 474: 19
 
-Total de livros do cluster 475: 29
+Total de livros do cluster 475: 4
 
-Total de livros do cluster 476: 19
+Total de livros do cluster 476: 3
 
-Total de livros do cluster 477: 4
+Total de livros do cluster 477: 5
 
-Total de livros do cluster 478: 3
+Total de livros do cluster 478: 4
 
-Total de livros do cluster 479: 5
+Total de livros do cluster 479: 2
 
-Total de livros do cluster 480: 4
+Total de livros do cluster 480: 3
 
-Total de livros do cluster 481: 2
+Total de livros do cluster 481: 3
 
-Total de livros do cluster 482: 3
+Total de livros do cluster 482: 15
 
-Total de livros do cluster 483: 3
+Total de livros do cluster 483: 6
 
-Total de livros do cluster 484: 15
+Total de livros do cluster 484: 2
 
-Total de livros do cluster 485: 6
+Total de livros do cluster 485: 4
 
 Total de livros do cluster 486: 2
 
-Total de livros do cluster 487: 4
+Total de livros do cluster 487: 12
 
-Total de livros do cluster 488: 12
+Total de livros do cluster 488: 3
 
-Total de livros do cluster 489: 3
+Total de livros do cluster 489: 18
 
-Total de livros do cluster 490: 18
+Total de livros do cluster 490: 9
 
-Total de livros do cluster 491: 6
+Total de livros do cluster 491: 8
 
-Total de livros do cluster 492: 9
+Total de livros do cluster 492: 6
 
 Total de livros do cluster 493: 6
 
@@ -994,123 +994,123 @@ Total de livros do cluster 494: 18
 
 Total de livros do cluster 495: 5
 
-Total de livros do cluster 496: 9
+Total de livros do cluster 496: 7
 
 Total de livros do cluster 497: 7
 
-Total de livros do cluster 498: 10
+Total de livros do cluster 498: 3
 
-Total de livros do cluster 499: 3
+Total de livros do cluster 499: 15
 
-Total de livros do cluster 500: 2
+Total de livros do cluster 500: 9
 
-Total de livros do cluster 501: 2
+Total de livros do cluster 501: 6
 
-Total de livros do cluster 502: 5
+Total de livros do cluster 502: 2
 
-Total de livros do cluster 503: 3
+Total de livros do cluster 503: 2
 
-Total de livros do cluster 504: 15
+Total de livros do cluster 504: 5
 
-Total de livros do cluster 505: 6
+Total de livros do cluster 505: 5
 
-Total de livros do cluster 506: 9
+Total de livros do cluster 506: 6
 
-Total de livros do cluster 507: 2
+Total de livros do cluster 507: 6
 
-Total de livros do cluster 508: 7
+Total de livros do cluster 508: 10
 
-Total de livros do cluster 509: 5
+Total de livros do cluster 509: 3
 
-Total de livros do cluster 510: 5
+Total de livros do cluster 510: 3
 
-Total de livros do cluster 511: 6
+Total de livros do cluster 511: 8
 
-Total de livros do cluster 512: 6
+Total de livros do cluster 512: 4
 
 Total de livros do cluster 513: 3
 
-Total de livros do cluster 514: 3
+Total de livros do cluster 514: 4
 
-Total de livros do cluster 515: 8
+Total de livros do cluster 515: 4
 
-Total de livros do cluster 516: 4
+Total de livros do cluster 516: 3
 
-Total de livros do cluster 517: 4
+Total de livros do cluster 517: 7
 
-Total de livros do cluster 518: 8
+Total de livros do cluster 518: 19
 
-Total de livros do cluster 519: 4
+Total de livros do cluster 519: 11
 
-Total de livros do cluster 520: 10
+Total de livros do cluster 520: 2
 
-Total de livros do cluster 521: 3
+Total de livros do cluster 521: 15
 
 Total de livros do cluster 522: 7
 
-Total de livros do cluster 523: 19
+Total de livros do cluster 523: 8
 
-Total de livros do cluster 524: 11
+Total de livros do cluster 524: 6
 
-Total de livros do cluster 525: 15
+Total de livros do cluster 525: 18
 
-Total de livros do cluster 526: 8
+Total de livros do cluster 526: 9
 
-Total de livros do cluster 527: 6
+Total de livros do cluster 527: 8
 
-Total de livros do cluster 528: 18
+Total de livros do cluster 528: 5
 
-Total de livros do cluster 529: 9
+Total de livros do cluster 529: 6
 
-Total de livros do cluster 530: 6
+Total de livros do cluster 530: 3
 
 Total de livros do cluster 531: 2
 
 Total de livros do cluster 532: 12
 
-Total de livros do cluster 533: 3
+Total de livros do cluster 533: 10
 
 Total de livros do cluster 534: 10
 
-Total de livros do cluster 535: 10
+Total de livros do cluster 535: 3
 
-Total de livros do cluster 536: 3
+Total de livros do cluster 536: 4
 
-Total de livros do cluster 537: 4
+Total de livros do cluster 537: 3
 
-Total de livros do cluster 538: 5
+Total de livros do cluster 538: 4
 
 Total de livros do cluster 539: 4
 
-Total de livros do cluster 540: 4
+Total de livros do cluster 540: 7
 
-Total de livros do cluster 541: 7
+Total de livros do cluster 541: 5
 
-Total de livros do cluster 542: 6
+Total de livros do cluster 542: 5
 
-Total de livros do cluster 543: 5
+Total de livros do cluster 543: 7
 
-Total de livros do cluster 544: 5
+Total de livros do cluster 544: 6
 
 Total de livros do cluster 545: 3
 
-Total de livros do cluster 546: 7
+Total de livros do cluster 546: 10
 
-Total de livros do cluster 547: 3
+Total de livros do cluster 547: 4
 
 Total de livros do cluster 548: 3
 
-Total de livros do cluster 549: 10
+Total de livros do cluster 549: 2
 
-Total de livros do cluster 550: 4
+Total de livros do cluster 550: 3
 
-Total de livros do cluster 551: 3
+Total de livros do cluster 551: 4
 
 Total de livros do cluster 552: 4
 
-Total de livros do cluster 553: 4
+Total de livros do cluster 553: 5
 
-Total de livros do cluster 554: 5
+Total de livros do cluster 554: 10
 
 Total de livros do cluster 555: 5
 
@@ -1122,25 +1122,25 @@ Total de livros do cluster 558: 4
 
 Total de livros do cluster 559: 4
 
-Total de livros do cluster 560: 12
+Total de livros do cluster 560: 5
 
-Total de livros do cluster 561: 5
+Total de livros do cluster 561: 2
 
-Total de livros do cluster 562: 7
+Total de livros do cluster 562: 12
 
-Total de livros do cluster 563: 4
+Total de livros do cluster 563: 5
 
-Total de livros do cluster 564: 3
+Total de livros do cluster 564: 7
 
-Total de livros do cluster 565: 3
+Total de livros do cluster 565: 4
 
-Total de livros do cluster 566: 2
+Total de livros do cluster 566: 3
 
-Total de livros do cluster 567: 6
+Total de livros do cluster 567: 3
 
-Total de livros do cluster 568: 7
+Total de livros do cluster 568: 6
 
-Total de livros do cluster 569: 11
+Total de livros do cluster 569: 7
 
 Total de livros do cluster 570: 4
 
@@ -1148,19 +1148,19 @@ Total de livros do cluster 571: 3
 
 Total de livros do cluster 572: 4
 
-Total de livros do cluster 573: 4
+Total de livros do cluster 573: 3
 
 Total de livros do cluster 574: 10
 
 Total de livros do cluster 575: 4
 
-Total de livros do cluster 576: 8
+Total de livros do cluster 576: 11
 
 Total de livros do cluster 577: 4
 
 Total de livros do cluster 578: 4
 
-Total de livros do cluster 579: 2
+Total de livros do cluster 579: 3
 
 Total de livros do cluster 580: 7
 
@@ -1172,41 +1172,41 @@ Total de livros do cluster 583: 4
 
 Total de livros do cluster 584: 12
 
-Total de livros do cluster 585: 3
+Total de livros do cluster 585: 11
 
-Total de livros do cluster 586: 11
+Total de livros do cluster 586: 9
 
-Total de livros do cluster 587: 9
+Total de livros do cluster 587: 4
 
 Total de livros do cluster 588: 4
 
-Total de livros do cluster 589: 4
+Total de livros do cluster 589: 8
 
-Total de livros do cluster 590: 8
+Total de livros do cluster 590: 2
 
 Total de livros do cluster 591: 4
 
-Total de livros do cluster 592: 2
+Total de livros do cluster 592: 3
 
-Total de livros do cluster 593: 3
+Total de livros do cluster 593: 5
 
-Total de livros do cluster 594: 5
+Total de livros do cluster 594: 2
 
-Total de livros do cluster 595: 9
+Total de livros do cluster 595: 6
 
-Total de livros do cluster 596: 6
+Total de livros do cluster 596: 9
 
 Total de livros do cluster 597: 5
 
-Total de livros do cluster 598: 2
+Total de livros do cluster 598: 4
 
-Total de livros do cluster 599: 4
+Total de livros do cluster 599: 5
 
-Total de livros do cluster 600: 3
+Total de livros do cluster 600: 7
 
-Total de livros do cluster 601: 7
+Total de livros do cluster 601: 8
 
-Total de livros do cluster 602: 8
+Total de livros do cluster 602: 3
 
 Total de livros do cluster 603: 3
 
@@ -1214,1264 +1214,1258 @@ Total de livros do cluster 604: 6
 
 Total de livros do cluster 605: 3
 
-Total de livros do cluster 606: 4
+Total de livros do cluster 606: 3
 
-Total de livros do cluster 607: 10
+Total de livros do cluster 607: 4
 
-Total de livros do cluster 608: 6
+Total de livros do cluster 608: 10
 
-Total de livros do cluster 609: 3
+Total de livros do cluster 609: 6
 
-Total de livros do cluster 610: 2
+Total de livros do cluster 610: 3
 
-Total de livros do cluster 611: 4
+Total de livros do cluster 611: 2
 
 Total de livros do cluster 612: 4
 
-Total de livros do cluster 613: 3
+Total de livros do cluster 613: 4
 
-Total de livros do cluster 614: 6
+Total de livros do cluster 614: 4
 
-Total de livros do cluster 615: 3
+Total de livros do cluster 615: 6
 
-Total de livros do cluster 616: 3
+Total de livros do cluster 616: 5
 
-Total de livros do cluster 617: 5
+Total de livros do cluster 617: 3
 
-Total de livros do cluster 618: 3
+Total de livros do cluster 618: 4
 
-Total de livros do cluster 619: 4
+Total de livros do cluster 619: 5
 
 Total de livros do cluster 620: 5
 
-Total de livros do cluster 621: 4
+Total de livros do cluster 621: 2
 
-Total de livros do cluster 622: 5
+Total de livros do cluster 622: 3
 
-Total de livros do cluster 623: 2
+Total de livros do cluster 623: 4
 
-Total de livros do cluster 624: 2
+Total de livros do cluster 624: 3
 
-Total de livros do cluster 625: 3
+Total de livros do cluster 625: 12
 
-Total de livros do cluster 626: 4
+Total de livros do cluster 626: 12
 
-Total de livros do cluster 627: 3
+Total de livros do cluster 627: 6
 
-Total de livros do cluster 628: 12
+Total de livros do cluster 628: 6
 
-Total de livros do cluster 629: 12
+Total de livros do cluster 629: 5
 
-Total de livros do cluster 630: 6
+Total de livros do cluster 630: 10
 
-Total de livros do cluster 631: 6
+Total de livros do cluster 631: 4
 
-Total de livros do cluster 632: 5
+Total de livros do cluster 632: 4
 
-Total de livros do cluster 633: 10
+Total de livros do cluster 633: 4
 
-Total de livros do cluster 634: 4
+Total de livros do cluster 634: 30
 
-Total de livros do cluster 635: 4
+Total de livros do cluster 635: 10
 
-Total de livros do cluster 636: 4
+Total de livros do cluster 636: 9
 
-Total de livros do cluster 637: 30
+Total de livros do cluster 637: 16
 
 Total de livros do cluster 638: 10
 
 Total de livros do cluster 639: 9
 
-Total de livros do cluster 640: 16
+Total de livros do cluster 640: 9
 
-Total de livros do cluster 641: 10
+Total de livros do cluster 641: 3
 
-Total de livros do cluster 642: 9
+Total de livros do cluster 642: 4
 
-Total de livros do cluster 643: 9
+Total de livros do cluster 643: 6
 
 Total de livros do cluster 644: 3
 
-Total de livros do cluster 645: 4
+Total de livros do cluster 645: 3
 
-Total de livros do cluster 646: 6
+Total de livros do cluster 646: 7
 
 Total de livros do cluster 647: 3
 
-Total de livros do cluster 648: 3
+Total de livros do cluster 648: 19
 
-Total de livros do cluster 649: 7
+Total de livros do cluster 649: 3
 
-Total de livros do cluster 650: 3
+Total de livros do cluster 650: 2
 
-Total de livros do cluster 651: 19
+Total de livros do cluster 651: 18
 
-Total de livros do cluster 652: 3
+Total de livros do cluster 652: 4
 
-Total de livros do cluster 653: 2
+Total de livros do cluster 653: 8
 
-Total de livros do cluster 654: 2
+Total de livros do cluster 654: 5
 
-Total de livros do cluster 655: 18
+Total de livros do cluster 655: 5
 
 Total de livros do cluster 656: 5
 
-Total de livros do cluster 657: 8
+Total de livros do cluster 657: 5
 
-Total de livros do cluster 658: 5
+Total de livros do cluster 658: 3
 
-Total de livros do cluster 659: 5
+Total de livros do cluster 659: 10
 
-Total de livros do cluster 660: 3
+Total de livros do cluster 660: 5
 
-Total de livros do cluster 661: 10
+Total de livros do cluster 661: 6
 
 Total de livros do cluster 662: 5
 
-Total de livros do cluster 663: 6
+Total de livros do cluster 663: 11
 
-Total de livros do cluster 664: 5
+Total de livros do cluster 664: 8
 
-Total de livros do cluster 665: 11
+Total de livros do cluster 665: 6
 
-Total de livros do cluster 666: 9
+Total de livros do cluster 666: 7
 
-Total de livros do cluster 667: 6
+Total de livros do cluster 667: 5
 
-Total de livros do cluster 668: 7
+Total de livros do cluster 668: 8
 
-Total de livros do cluster 669: 5
+Total de livros do cluster 669: 9
 
-Total de livros do cluster 670: 5
+Total de livros do cluster 670: 16
 
-Total de livros do cluster 671: 8
+Total de livros do cluster 671: 18
 
-Total de livros do cluster 672: 2
+Total de livros do cluster 672: 23
 
-Total de livros do cluster 673: 9
+Total de livros do cluster 673: 31
 
-Total de livros do cluster 674: 3
+Total de livros do cluster 674: 5
 
-Total de livros do cluster 675: 2
+Total de livros do cluster 675: 3
 
-Total de livros do cluster 676: 16
+Total de livros do cluster 676: 4
 
-Total de livros do cluster 677: 18
+Total de livros do cluster 677: 4
 
-Total de livros do cluster 678: 23
+Total de livros do cluster 678: 8
 
-Total de livros do cluster 679: 31
+Total de livros do cluster 679: 6
 
-Total de livros do cluster 680: 5
+Total de livros do cluster 680: 6
 
-Total de livros do cluster 681: 3
+Total de livros do cluster 681: 7
 
-Total de livros do cluster 682: 4
+Total de livros do cluster 682: 10
 
-Total de livros do cluster 683: 4
+Total de livros do cluster 683: 11
 
-Total de livros do cluster 684: 8
+Total de livros do cluster 684: 11
 
-Total de livros do cluster 685: 6
+Total de livros do cluster 685: 10
 
-Total de livros do cluster 686: 6
+Total de livros do cluster 686: 5
 
-Total de livros do cluster 687: 7
+Total de livros do cluster 687: 6
 
 Total de livros do cluster 688: 10
 
-Total de livros do cluster 689: 9
+Total de livros do cluster 689: 16
 
-Total de livros do cluster 690: 11
+Total de livros do cluster 690: 6
 
-Total de livros do cluster 691: 10
+Total de livros do cluster 691: 42
 
-Total de livros do cluster 692: 5
+Total de livros do cluster 692: 25
 
 Total de livros do cluster 693: 6
 
-Total de livros do cluster 694: 16
+Total de livros do cluster 694: 11
 
-Total de livros do cluster 695: 6
+Total de livros do cluster 695: 4
 
-Total de livros do cluster 696: 42
+Total de livros do cluster 696: 6
 
-Total de livros do cluster 697: 25
+Total de livros do cluster 697: 10
 
 Total de livros do cluster 698: 6
 
-Total de livros do cluster 699: 11
+Total de livros do cluster 699: 10
 
-Total de livros do cluster 700: 4
+Total de livros do cluster 700: 5
 
-Total de livros do cluster 701: 6
+Total de livros do cluster 701: 4
 
-Total de livros do cluster 702: 10
+Total de livros do cluster 702: 9
 
-Total de livros do cluster 703: 6
+Total de livros do cluster 703: 18
 
-Total de livros do cluster 704: 10
+Total de livros do cluster 704: 6
 
-Total de livros do cluster 705: 4
+Total de livros do cluster 705: 11
 
-Total de livros do cluster 706: 9
+Total de livros do cluster 706: 11
 
-Total de livros do cluster 707: 18
+Total de livros do cluster 707: 6
 
-Total de livros do cluster 708: 6
+Total de livros do cluster 708: 5
 
-Total de livros do cluster 709: 11
+Total de livros do cluster 709: 35
 
-Total de livros do cluster 710: 11
+Total de livros do cluster 710: 4
 
-Total de livros do cluster 711: 6
+Total de livros do cluster 711: 3
 
-Total de livros do cluster 712: 5
+Total de livros do cluster 712: 2
 
-Total de livros do cluster 713: 35
+Total de livros do cluster 713: 7
 
-Total de livros do cluster 714: 4
+Total de livros do cluster 714: 14
 
-Total de livros do cluster 715: 2
+Total de livros do cluster 715: 6
 
-Total de livros do cluster 716: 7
+Total de livros do cluster 716: 9
 
-Total de livros do cluster 717: 14
+Total de livros do cluster 717: 3
 
-Total de livros do cluster 718: 6
+Total de livros do cluster 718: 3
 
-Total de livros do cluster 719: 9
+Total de livros do cluster 719: 4
 
-Total de livros do cluster 720: 3
+Total de livros do cluster 720: 12
 
-Total de livros do cluster 721: 3
+Total de livros do cluster 721: 13
 
 Total de livros do cluster 722: 4
 
-Total de livros do cluster 723: 12
+Total de livros do cluster 723: 3
 
-Total de livros do cluster 724: 11
+Total de livros do cluster 724: 9
 
 Total de livros do cluster 725: 4
 
-Total de livros do cluster 726: 3
+Total de livros do cluster 726: 17
 
-Total de livros do cluster 727: 9
+Total de livros do cluster 727: 3
 
-Total de livros do cluster 728: 4
+Total de livros do cluster 728: 17
 
-Total de livros do cluster 729: 17
+Total de livros do cluster 729: 9
 
-Total de livros do cluster 730: 4
+Total de livros do cluster 730: 28
 
-Total de livros do cluster 731: 3
+Total de livros do cluster 731: 2
 
-Total de livros do cluster 732: 17
+Total de livros do cluster 732: 23
 
 Total de livros do cluster 733: 9
 
-Total de livros do cluster 734: 28
+Total de livros do cluster 734: 22
 
-Total de livros do cluster 735: 23
+Total de livros do cluster 735: 4
 
-Total de livros do cluster 736: 9
+Total de livros do cluster 736: 15
 
-Total de livros do cluster 737: 2
+Total de livros do cluster 737: 7
 
-Total de livros do cluster 738: 22
+Total de livros do cluster 738: 20
 
-Total de livros do cluster 739: 4
+Total de livros do cluster 739: 6
 
-Total de livros do cluster 740: 15
+Total de livros do cluster 740: 11
 
-Total de livros do cluster 741: 7
+Total de livros do cluster 741: 8
 
-Total de livros do cluster 742: 20
+Total de livros do cluster 742: 7
 
-Total de livros do cluster 743: 6
+Total de livros do cluster 743: 11
 
-Total de livros do cluster 744: 11
+Total de livros do cluster 744: 12
 
-Total de livros do cluster 745: 8
+Total de livros do cluster 745: 19
 
-Total de livros do cluster 746: 7
+Total de livros do cluster 746: 4
 
-Total de livros do cluster 747: 11
+Total de livros do cluster 747: 3
 
-Total de livros do cluster 748: 12
+Total de livros do cluster 748: 14
 
-Total de livros do cluster 749: 19
+Total de livros do cluster 749: 4
 
 Total de livros do cluster 750: 4
 
-Total de livros do cluster 751: 3
+Total de livros do cluster 751: 2
 
-Total de livros do cluster 752: 14
+Total de livros do cluster 752: 8
 
-Total de livros do cluster 753: 4
+Total de livros do cluster 753: 10
 
-Total de livros do cluster 754: 4
+Total de livros do cluster 754: 8
 
-Total de livros do cluster 755: 10
+Total de livros do cluster 755: 19
 
-Total de livros do cluster 756: 4
+Total de livros do cluster 756: 24
 
-Total de livros do cluster 757: 8
+Total de livros do cluster 757: 7
 
-Total de livros do cluster 758: 10
+Total de livros do cluster 758: 12
 
 Total de livros do cluster 759: 5
 
-Total de livros do cluster 760: 8
+Total de livros do cluster 760: 5
 
-Total de livros do cluster 761: 19
+Total de livros do cluster 761: 20
 
-Total de livros do cluster 762: 24
+Total de livros do cluster 762: 7
 
-Total de livros do cluster 763: 7
+Total de livros do cluster 763: 25
 
-Total de livros do cluster 764: 12
+Total de livros do cluster 764: 14
 
-Total de livros do cluster 765: 5
+Total de livros do cluster 765: 12
 
 Total de livros do cluster 766: 5
 
-Total de livros do cluster 767: 20
+Total de livros do cluster 767: 15
 
-Total de livros do cluster 768: 7
+Total de livros do cluster 768: 5
 
-Total de livros do cluster 769: 25
+Total de livros do cluster 769: 12
 
-Total de livros do cluster 770: 14
+Total de livros do cluster 770: 13
 
-Total de livros do cluster 771: 12
+Total de livros do cluster 771: 5
 
-Total de livros do cluster 772: 15
+Total de livros do cluster 772: 17
 
-Total de livros do cluster 773: 5
+Total de livros do cluster 773: 17
 
-Total de livros do cluster 774: 12
+Total de livros do cluster 774: 19
 
-Total de livros do cluster 775: 13
+Total de livros do cluster 775: 3
 
-Total de livros do cluster 776: 5
+Total de livros do cluster 776: 3
 
-Total de livros do cluster 777: 17
+Total de livros do cluster 777: 5
 
-Total de livros do cluster 778: 17
+Total de livros do cluster 778: 28
 
 Total de livros do cluster 779: 5
 
-Total de livros do cluster 780: 19
+Total de livros do cluster 780: 12
 
-Total de livros do cluster 781: 3
+Total de livros do cluster 781: 6
 
-Total de livros do cluster 782: 3
+Total de livros do cluster 782: 27
 
-Total de livros do cluster 783: 5
+Total de livros do cluster 783: 6
 
-Total de livros do cluster 784: 28
+Total de livros do cluster 784: 4
 
-Total de livros do cluster 785: 5
+Total de livros do cluster 785: 19
 
 Total de livros do cluster 786: 12
 
-Total de livros do cluster 787: 6
+Total de livros do cluster 787: 4
 
-Total de livros do cluster 788: 27
+Total de livros do cluster 788: 10
 
 Total de livros do cluster 789: 6
 
-Total de livros do cluster 790: 4
+Total de livros do cluster 790: 5
 
-Total de livros do cluster 791: 19
+Total de livros do cluster 791: 4
 
-Total de livros do cluster 792: 12
+Total de livros do cluster 792: 5
 
-Total de livros do cluster 793: 4
+Total de livros do cluster 793: 2
 
-Total de livros do cluster 794: 10
+Total de livros do cluster 794: 11
 
-Total de livros do cluster 795: 6
+Total de livros do cluster 795: 17
 
-Total de livros do cluster 796: 5
+Total de livros do cluster 796: 26
 
-Total de livros do cluster 797: 4
+Total de livros do cluster 797: 7
 
-Total de livros do cluster 798: 5
+Total de livros do cluster 798: 10
 
-Total de livros do cluster 799: 11
+Total de livros do cluster 799: 10
 
-Total de livros do cluster 800: 17
+Total de livros do cluster 800: 3
 
-Total de livros do cluster 801: 26
+Total de livros do cluster 801: 8
 
 Total de livros do cluster 802: 7
 
-Total de livros do cluster 803: 10
+Total de livros do cluster 803: 4
 
-Total de livros do cluster 804: 10
+Total de livros do cluster 804: 7
 
-Total de livros do cluster 805: 3
+Total de livros do cluster 805: 9
 
-Total de livros do cluster 806: 8
+Total de livros do cluster 806: 3
 
-Total de livros do cluster 807: 7
+Total de livros do cluster 807: 8
 
-Total de livros do cluster 808: 7
+Total de livros do cluster 808: 26
 
-Total de livros do cluster 809: 9
+Total de livros do cluster 809: 4
 
-Total de livros do cluster 810: 3
+Total de livros do cluster 810: 10
 
-Total de livros do cluster 811: 8
+Total de livros do cluster 811: 3
 
-Total de livros do cluster 812: 26
+Total de livros do cluster 812: 4
 
-Total de livros do cluster 813: 4
+Total de livros do cluster 813: 3
 
-Total de livros do cluster 814: 7
+Total de livros do cluster 814: 9
 
-Total de livros do cluster 815: 3
+Total de livros do cluster 815: 9
 
-Total de livros do cluster 816: 4
+Total de livros do cluster 816: 7
 
-Total de livros do cluster 817: 3
+Total de livros do cluster 817: 6
 
-Total de livros do cluster 818: 9
+Total de livros do cluster 818: 4
 
-Total de livros do cluster 819: 9
+Total de livros do cluster 819: 8
 
-Total de livros do cluster 820: 7
+Total de livros do cluster 820: 8
 
-Total de livros do cluster 821: 6
+Total de livros do cluster 821: 15
 
-Total de livros do cluster 822: 4
+Total de livros do cluster 822: 7
 
-Total de livros do cluster 823: 8
+Total de livros do cluster 823: 7
 
-Total de livros do cluster 824: 8
+Total de livros do cluster 824: 4
 
-Total de livros do cluster 825: 15
+Total de livros do cluster 825: 10
 
-Total de livros do cluster 826: 7
+Total de livros do cluster 826: 5
 
-Total de livros do cluster 827: 7
+Total de livros do cluster 827: 10
 
-Total de livros do cluster 828: 4
+Total de livros do cluster 828: 5
 
-Total de livros do cluster 829: 10
+Total de livros do cluster 829: 11
 
-Total de livros do cluster 830: 5
+Total de livros do cluster 830: 17
 
-Total de livros do cluster 831: 10
+Total de livros do cluster 831: 4
 
-Total de livros do cluster 832: 5
+Total de livros do cluster 832: 6
 
-Total de livros do cluster 833: 11
+Total de livros do cluster 833: 7
 
-Total de livros do cluster 834: 17
+Total de livros do cluster 834: 3
 
-Total de livros do cluster 835: 4
+Total de livros do cluster 835: 5
 
-Total de livros do cluster 836: 6
+Total de livros do cluster 836: 9
 
-Total de livros do cluster 837: 7
+Total de livros do cluster 837: 5
 
-Total de livros do cluster 838: 3
+Total de livros do cluster 838: 11
 
 Total de livros do cluster 839: 5
 
 Total de livros do cluster 840: 9
 
-Total de livros do cluster 841: 5
+Total de livros do cluster 841: 8
 
-Total de livros do cluster 842: 11
+Total de livros do cluster 842: 16
 
-Total de livros do cluster 843: 5
+Total de livros do cluster 843: 7
 
-Total de livros do cluster 844: 3
+Total de livros do cluster 844: 2
 
-Total de livros do cluster 845: 9
+Total de livros do cluster 845: 5
 
-Total de livros do cluster 846: 8
+Total de livros do cluster 846: 15
 
-Total de livros do cluster 847: 16
+Total de livros do cluster 847: 23
 
 Total de livros do cluster 848: 7
 
-Total de livros do cluster 849: 5
+Total de livros do cluster 849: 11
 
-Total de livros do cluster 850: 15
+Total de livros do cluster 850: 6
 
-Total de livros do cluster 851: 23
+Total de livros do cluster 851: 9
 
-Total de livros do cluster 852: 7
+Total de livros do cluster 852: 20
 
-Total de livros do cluster 853: 11
+Total de livros do cluster 853: 8
 
-Total de livros do cluster 854: 6
+Total de livros do cluster 854: 9
 
-Total de livros do cluster 855: 9
+Total de livros do cluster 855: 10
 
-Total de livros do cluster 856: 20
+Total de livros do cluster 856: 14
 
-Total de livros do cluster 857: 8
+Total de livros do cluster 857: 3
 
-Total de livros do cluster 858: 9
+Total de livros do cluster 858: 3
 
-Total de livros do cluster 859: 10
+Total de livros do cluster 859: 7
 
-Total de livros do cluster 860: 14
+Total de livros do cluster 860: 6
 
-Total de livros do cluster 861: 3
+Total de livros do cluster 861: 11
 
-Total de livros do cluster 862: 3
+Total de livros do cluster 862: 15
 
-Total de livros do cluster 863: 7
+Total de livros do cluster 863: 9
 
-Total de livros do cluster 864: 6
+Total de livros do cluster 864: 9
 
-Total de livros do cluster 865: 11
+Total de livros do cluster 865: 6
 
-Total de livros do cluster 866: 15
+Total de livros do cluster 866: 12
 
-Total de livros do cluster 867: 2
+Total de livros do cluster 867: 5
 
-Total de livros do cluster 868: 9
+Total de livros do cluster 868: 3
 
-Total de livros do cluster 869: 9
+Total de livros do cluster 869: 22
 
-Total de livros do cluster 870: 6
+Total de livros do cluster 870: 7
 
-Total de livros do cluster 871: 12
+Total de livros do cluster 871: 24
 
-Total de livros do cluster 872: 5
+Total de livros do cluster 872: 8
 
-Total de livros do cluster 873: 3
+Total de livros do cluster 873: 17
 
-Total de livros do cluster 874: 22
+Total de livros do cluster 874: 14
 
-Total de livros do cluster 875: 7
+Total de livros do cluster 875: 6
 
-Total de livros do cluster 876: 24
+Total de livros do cluster 876: 5
 
-Total de livros do cluster 877: 8
+Total de livros do cluster 877: 28
 
-Total de livros do cluster 878: 17
+Total de livros do cluster 878: 9
 
-Total de livros do cluster 879: 14
+Total de livros do cluster 879: 8
 
-Total de livros do cluster 880: 6
+Total de livros do cluster 880: 9
 
-Total de livros do cluster 881: 5
+Total de livros do cluster 881: 7
 
-Total de livros do cluster 882: 28
+Total de livros do cluster 882: 23
 
-Total de livros do cluster 883: 9
+Total de livros do cluster 883: 12
 
-Total de livros do cluster 884: 8
+Total de livros do cluster 884: 3
 
-Total de livros do cluster 885: 9
+Total de livros do cluster 885: 5
 
-Total de livros do cluster 886: 7
+Total de livros do cluster 886: 11
 
-Total de livros do cluster 887: 23
+Total de livros do cluster 887: 12
 
-Total de livros do cluster 888: 12
+Total de livros do cluster 888: 13
 
-Total de livros do cluster 889: 5
+Total de livros do cluster 889: 51
 
-Total de livros do cluster 890: 2
+Total de livros do cluster 890: 10
 
-Total de livros do cluster 891: 11
+Total de livros do cluster 891: 15
 
-Total de livros do cluster 892: 12
+Total de livros do cluster 892: 9
 
-Total de livros do cluster 893: 13
+Total de livros do cluster 893: 7
 
-Total de livros do cluster 894: 51
+Total de livros do cluster 894: 6
 
-Total de livros do cluster 895: 10
+Total de livros do cluster 895: 4
 
-Total de livros do cluster 896: 13
+Total de livros do cluster 896: 8
 
-Total de livros do cluster 897: 9
+Total de livros do cluster 897: 6
 
-Total de livros do cluster 898: 7
+Total de livros do cluster 898: 8
 
-Total de livros do cluster 899: 6
+Total de livros do cluster 899: 9
 
-Total de livros do cluster 900: 4
+Total de livros do cluster 900: 6
 
-Total de livros do cluster 901: 8
+Total de livros do cluster 901: 16
 
-Total de livros do cluster 902: 6
+Total de livros do cluster 902: 3
 
-Total de livros do cluster 903: 8
+Total de livros do cluster 903: 7
 
-Total de livros do cluster 904: 9
+Total de livros do cluster 904: 4
 
 Total de livros do cluster 905: 6
 
-Total de livros do cluster 906: 16
+Total de livros do cluster 906: 2
 
-Total de livros do cluster 907: 3
+Total de livros do cluster 907: 4
 
-Total de livros do cluster 908: 7
+Total de livros do cluster 908: 6
 
-Total de livros do cluster 909: 4
+Total de livros do cluster 909: 10
 
-Total de livros do cluster 910: 6
+Total de livros do cluster 910: 18
 
-Total de livros do cluster 911: 3
+Total de livros do cluster 911: 10
 
-Total de livros do cluster 912: 4
+Total de livros do cluster 912: 9
 
-Total de livros do cluster 913: 2
+Total de livros do cluster 913: 14
 
-Total de livros do cluster 914: 6
+Total de livros do cluster 914: 8
 
-Total de livros do cluster 915: 10
+Total de livros do cluster 915: 3
 
-Total de livros do cluster 916: 18
+Total de livros do cluster 916: 14
 
-Total de livros do cluster 917: 2
+Total de livros do cluster 917: 3
 
-Total de livros do cluster 918: 10
+Total de livros do cluster 918: 5
 
 Total de livros do cluster 919: 9
 
-Total de livros do cluster 920: 14
+Total de livros do cluster 920: 4
 
-Total de livros do cluster 921: 8
+Total de livros do cluster 921: 20
 
-Total de livros do cluster 922: 3
+Total de livros do cluster 922: 6
 
-Total de livros do cluster 923: 14
+Total de livros do cluster 923: 11
 
 Total de livros do cluster 924: 3
 
-Total de livros do cluster 925: 5
+Total de livros do cluster 925: 3
 
-Total de livros do cluster 926: 9
+Total de livros do cluster 926: 5
 
-Total de livros do cluster 927: 4
+Total de livros do cluster 927: 23
 
-Total de livros do cluster 928: 20
+Total de livros do cluster 928: 5
 
-Total de livros do cluster 929: 6
+Total de livros do cluster 929: 4
 
-Total de livros do cluster 930: 11
+Total de livros do cluster 930: 5
 
-Total de livros do cluster 931: 3
+Total de livros do cluster 931: 4
 
-Total de livros do cluster 932: 3
+Total de livros do cluster 932: 5
 
-Total de livros do cluster 933: 5
+Total de livros do cluster 933: 10
 
-Total de livros do cluster 934: 23
+Total de livros do cluster 934: 2
 
-Total de livros do cluster 935: 5
+Total de livros do cluster 935: 8
 
-Total de livros do cluster 936: 4
+Total de livros do cluster 936: 3
 
-Total de livros do cluster 937: 5
+Total de livros do cluster 937: 9
 
 Total de livros do cluster 938: 4
 
-Total de livros do cluster 939: 5
+Total de livros do cluster 939: 19
 
-Total de livros do cluster 940: 10
+Total de livros do cluster 940: 3
 
-Total de livros do cluster 941: 8
+Total de livros do cluster 941: 17
 
-Total de livros do cluster 942: 3
+Total de livros do cluster 942: 8
 
-Total de livros do cluster 943: 9
+Total de livros do cluster 943: 4
 
-Total de livros do cluster 944: 4
+Total de livros do cluster 944: 12
 
-Total de livros do cluster 945: 19
+Total de livros do cluster 945: 7
 
-Total de livros do cluster 946: 3
+Total de livros do cluster 946: 4
 
-Total de livros do cluster 947: 17
+Total de livros do cluster 947: 5
 
-Total de livros do cluster 948: 8
+Total de livros do cluster 948: 9
 
-Total de livros do cluster 949: 4
+Total de livros do cluster 949: 5
 
-Total de livros do cluster 950: 12
+Total de livros do cluster 950: 16
 
 Total de livros do cluster 951: 7
 
-Total de livros do cluster 952: 4
+Total de livros do cluster 952: 8
 
-Total de livros do cluster 953: 5
+Total de livros do cluster 953: 6
 
-Total de livros do cluster 954: 9
+Total de livros do cluster 954: 10
 
-Total de livros do cluster 955: 5
+Total de livros do cluster 955: 8
 
-Total de livros do cluster 956: 16
+Total de livros do cluster 956: 4
 
-Total de livros do cluster 957: 7
+Total de livros do cluster 957: 18
 
-Total de livros do cluster 958: 8
+Total de livros do cluster 958: 3
 
-Total de livros do cluster 959: 6
+Total de livros do cluster 959: 14
 
-Total de livros do cluster 960: 10
+Total de livros do cluster 960: 6
 
 Total de livros do cluster 961: 8
 
-Total de livros do cluster 962: 4
+Total de livros do cluster 962: 10
 
-Total de livros do cluster 963: 18
+Total de livros do cluster 963: 24
 
-Total de livros do cluster 964: 3
+Total de livros do cluster 964: 4
 
-Total de livros do cluster 965: 14
+Total de livros do cluster 965: 5
 
-Total de livros do cluster 966: 6
+Total de livros do cluster 966: 5
 
-Total de livros do cluster 967: 8
+Total de livros do cluster 967: 10
 
-Total de livros do cluster 968: 10
+Total de livros do cluster 968: 4
 
-Total de livros do cluster 969: 24
+Total de livros do cluster 969: 44
 
-Total de livros do cluster 970: 4
+Total de livros do cluster 970: 16
 
 Total de livros do cluster 971: 5
 
-Total de livros do cluster 972: 5
+Total de livros do cluster 972: 8
 
 Total de livros do cluster 973: 10
 
-Total de livros do cluster 974: 4
+Total de livros do cluster 974: 18
 
-Total de livros do cluster 975: 44
+Total de livros do cluster 975: 2
 
-Total de livros do cluster 976: 16
+Total de livros do cluster 976: 18
 
-Total de livros do cluster 977: 5
+Total de livros do cluster 977: 10
 
-Total de livros do cluster 978: 8
+Total de livros do cluster 978: 3
 
-Total de livros do cluster 979: 10
+Total de livros do cluster 979: 20
 
-Total de livros do cluster 980: 18
+Total de livros do cluster 980: 3
 
-Total de livros do cluster 981: 18
+Total de livros do cluster 981: 8
 
-Total de livros do cluster 982: 10
+Total de livros do cluster 982: 13
 
-Total de livros do cluster 983: 20
+Total de livros do cluster 983: 8
 
 Total de livros do cluster 984: 3
 
 Total de livros do cluster 985: 8
 
-Total de livros do cluster 986: 13
+Total de livros do cluster 986: 10
 
-Total de livros do cluster 987: 8
+Total de livros do cluster 987: 34
 
 Total de livros do cluster 988: 3
 
-Total de livros do cluster 989: 8
+Total de livros do cluster 989: 9
 
-Total de livros do cluster 990: 10
+Total de livros do cluster 990: 13
 
-Total de livros do cluster 991: 34
+Total de livros do cluster 991: 11
 
-Total de livros do cluster 992: 3
+Total de livros do cluster 992: 32
 
-Total de livros do cluster 993: 9
+Total de livros do cluster 993: 16
 
-Total de livros do cluster 994: 13
+Total de livros do cluster 994: 5
 
-Total de livros do cluster 995: 11
+Total de livros do cluster 995: 9
 
-Total de livros do cluster 996: 32
+Total de livros do cluster 996: 4
 
-Total de livros do cluster 997: 16
+Total de livros do cluster 997: 13
 
-Total de livros do cluster 998: 5
+Total de livros do cluster 998: 9
 
-Total de livros do cluster 999: 9
+Total de livros do cluster 999: 12
 
-Total de livros do cluster 1000: 4
+Total de livros do cluster 1000: 6
 
-Total de livros do cluster 1001: 9
+Total de livros do cluster 1001: 10
 
-Total de livros do cluster 1002: 12
+Total de livros do cluster 1002: 15
 
-Total de livros do cluster 1003: 6
+Total de livros do cluster 1003: 17
 
-Total de livros do cluster 1004: 10
+Total de livros do cluster 1004: 38
 
-Total de livros do cluster 1005: 15
+Total de livros do cluster 1005: 5
 
-Total de livros do cluster 1006: 17
+Total de livros do cluster 1006: 3
 
-Total de livros do cluster 1007: 38
+Total de livros do cluster 1007: 8
 
-Total de livros do cluster 1008: 5
+Total de livros do cluster 1008: 8
 
 Total de livros do cluster 1009: 3
 
-Total de livros do cluster 1010: 8
+Total de livros do cluster 1010: 13
 
-Total de livros do cluster 1011: 8
+Total de livros do cluster 1011: 6
 
-Total de livros do cluster 1012: 3
+Total de livros do cluster 1012: 6
 
-Total de livros do cluster 1013: 13
+Total de livros do cluster 1013: 9
 
-Total de livros do cluster 1014: 6
+Total de livros do cluster 1014: 13
 
-Total de livros do cluster 1015: 6
+Total de livros do cluster 1015: 10
 
-Total de livros do cluster 1016: 9
+Total de livros do cluster 1016: 18
 
-Total de livros do cluster 1017: 13
+Total de livros do cluster 1017: 7
 
 Total de livros do cluster 1018: 10
 
-Total de livros do cluster 1019: 18
+Total de livros do cluster 1019: 12
 
-Total de livros do cluster 1020: 7
+Total de livros do cluster 1020: 5
 
-Total de livros do cluster 1021: 10
+Total de livros do cluster 1021: 9
 
-Total de livros do cluster 1022: 12
+Total de livros do cluster 1022: 4
 
-Total de livros do cluster 1023: 5
+Total de livros do cluster 1023: 11
 
-Total de livros do cluster 1024: 9
+Total de livros do cluster 1024: 7
 
-Total de livros do cluster 1025: 4
+Total de livros do cluster 1025: 7
 
-Total de livros do cluster 1026: 11
+Total de livros do cluster 1026: 5
 
-Total de livros do cluster 1027: 7
+Total de livros do cluster 1027: 8
 
 Total de livros do cluster 1028: 7
 
 Total de livros do cluster 1029: 5
 
-Total de livros do cluster 1030: 8
+Total de livros do cluster 1030: 13
 
-Total de livros do cluster 1031: 7
+Total de livros do cluster 1031: 16
 
-Total de livros do cluster 1032: 5
+Total de livros do cluster 1032: 19
 
-Total de livros do cluster 1033: 13
+Total de livros do cluster 1033: 7
 
-Total de livros do cluster 1034: 16
+Total de livros do cluster 1034: 7
 
-Total de livros do cluster 1035: 19
+Total de livros do cluster 1035: 7
 
 Total de livros do cluster 1036: 7
 
-Total de livros do cluster 1037: 7
+Total de livros do cluster 1037: 21
 
-Total de livros do cluster 1038: 7
+Total de livros do cluster 1038: 6
 
-Total de livros do cluster 1039: 7
+Total de livros do cluster 1039: 17
 
-Total de livros do cluster 1040: 21
+Total de livros do cluster 1040: 16
 
-Total de livros do cluster 1041: 6
+Total de livros do cluster 1041: 8
 
-Total de livros do cluster 1042: 17
+Total de livros do cluster 1042: 9
 
-Total de livros do cluster 1043: 16
+Total de livros do cluster 1043: 7
 
 Total de livros do cluster 1044: 8
 
-Total de livros do cluster 1045: 9
+Total de livros do cluster 1045: 14
 
 Total de livros do cluster 1046: 7
 
-Total de livros do cluster 1047: 13
+Total de livros do cluster 1047: 8
 
-Total de livros do cluster 1048: 8
+Total de livros do cluster 1048: 4
 
-Total de livros do cluster 1049: 14
+Total de livros do cluster 1049: 10
 
-Total de livros do cluster 1050: 7
+Total de livros do cluster 1050: 10
 
-Total de livros do cluster 1051: 8
+Total de livros do cluster 1051: 6
 
-Total de livros do cluster 1052: 4
+Total de livros do cluster 1052: 5
 
-Total de livros do cluster 1053: 10
+Total de livros do cluster 1053: 9
 
-Total de livros do cluster 1054: 10
+Total de livros do cluster 1054: 7
 
-Total de livros do cluster 1055: 6
+Total de livros do cluster 1055: 5
 
 Total de livros do cluster 1056: 5
 
-Total de livros do cluster 1057: 9
+Total de livros do cluster 1057: 6
 
-Total de livros do cluster 1058: 7
+Total de livros do cluster 1058: 23
 
-Total de livros do cluster 1059: 5
+Total de livros do cluster 1059: 11
 
-Total de livros do cluster 1060: 5
+Total de livros do cluster 1060: 13
 
-Total de livros do cluster 1061: 6
+Total de livros do cluster 1061: 10
 
-Total de livros do cluster 1062: 23
+Total de livros do cluster 1062: 4
 
-Total de livros do cluster 1063: 11
+Total de livros do cluster 1063: 4
 
-Total de livros do cluster 1064: 13
+Total de livros do cluster 1064: 6
 
 Total de livros do cluster 1065: 10
 
-Total de livros do cluster 1066: 4
+Total de livros do cluster 1066: 20
 
-Total de livros do cluster 1067: 4
+Total de livros do cluster 1067: 3
 
-Total de livros do cluster 1068: 6
+Total de livros do cluster 1068: 5
 
 Total de livros do cluster 1069: 10
 
-Total de livros do cluster 1070: 20
+Total de livros do cluster 1070: 11
 
-Total de livros do cluster 1071: 3
+Total de livros do cluster 1071: 6
 
-Total de livros do cluster 1072: 5
+Total de livros do cluster 1072: 7
 
-Total de livros do cluster 1073: 10
+Total de livros do cluster 1073: 4
 
-Total de livros do cluster 1074: 11
+Total de livros do cluster 1074: 10
 
-Total de livros do cluster 1075: 6
+Total de livros do cluster 1075: 17
 
-Total de livros do cluster 1076: 4
+Total de livros do cluster 1076: 14
 
-Total de livros do cluster 1077: 10
+Total de livros do cluster 1077: 4
 
-Total de livros do cluster 1078: 17
+Total de livros do cluster 1078: 4
 
-Total de livros do cluster 1079: 14
+Total de livros do cluster 1079: 5
 
-Total de livros do cluster 1080: 4
+Total de livros do cluster 1080: 19
 
-Total de livros do cluster 1081: 4
+Total de livros do cluster 1081: 3
 
 Total de livros do cluster 1082: 5
 
-Total de livros do cluster 1083: 19
+Total de livros do cluster 1083: 10
 
-Total de livros do cluster 1084: 3
+Total de livros do cluster 1084: 8
 
-Total de livros do cluster 1085: 5
+Total de livros do cluster 1085: 9
 
-Total de livros do cluster 1086: 10
+Total de livros do cluster 1086: 3
 
-Total de livros do cluster 1087: 8
+Total de livros do cluster 1087: 6
 
-Total de livros do cluster 1088: 2
+Total de livros do cluster 1088: 6
 
-Total de livros do cluster 1089: 9
+Total de livros do cluster 1089: 3
 
-Total de livros do cluster 1090: 3
+Total de livros do cluster 1090: 4
 
-Total de livros do cluster 1091: 6
+Total de livros do cluster 1091: 12
 
-Total de livros do cluster 1092: 6
+Total de livros do cluster 1092: 4
 
 Total de livros do cluster 1093: 3
 
-Total de livros do cluster 1094: 4
+Total de livros do cluster 1094: 2
 
-Total de livros do cluster 1095: 12
+Total de livros do cluster 1095: 6
 
 Total de livros do cluster 1096: 2
 
-Total de livros do cluster 1097: 4
+Total de livros do cluster 1097: 6
 
-Total de livros do cluster 1098: 3
+Total de livros do cluster 1098: 5
 
-Total de livros do cluster 1099: 2
+Total de livros do cluster 1099: 7
 
 Total de livros do cluster 1100: 6
 
-Total de livros do cluster 1101: 6
+Total de livros do cluster 1101: 2
 
-Total de livros do cluster 1102: 5
+Total de livros do cluster 1102: 4
 
-Total de livros do cluster 1103: 7
+Total de livros do cluster 1103: 2
 
-Total de livros do cluster 1104: 2
+Total de livros do cluster 1104: 12
 
-Total de livros do cluster 1105: 6
+Total de livros do cluster 1105: 9
 
-Total de livros do cluster 1106: 4
+Total de livros do cluster 1106: 11
 
-Total de livros do cluster 1107: 12
+Total de livros do cluster 1107: 3
 
-Total de livros do cluster 1108: 9
+Total de livros do cluster 1108: 7
 
-Total de livros do cluster 1109: 11
+Total de livros do cluster 1109: 9
 
-Total de livros do cluster 1110: 3
+Total de livros do cluster 1110: 7
 
-Total de livros do cluster 1111: 7
+Total de livros do cluster 1111: 6
 
-Total de livros do cluster 1112: 9
+Total de livros do cluster 1112: 12
 
-Total de livros do cluster 1113: 7
+Total de livros do cluster 1113: 2
 
-Total de livros do cluster 1114: 6
+Total de livros do cluster 1114: 4
 
-Total de livros do cluster 1115: 12
+Total de livros do cluster 1115: 13
 
-Total de livros do cluster 1116: 2
+Total de livros do cluster 1116: 5
 
-Total de livros do cluster 1117: 4
+Total de livros do cluster 1117: 11
 
-Total de livros do cluster 1118: 10
+Total de livros do cluster 1118: 8
 
-Total de livros do cluster 1119: 13
+Total de livros do cluster 1119: 6
 
-Total de livros do cluster 1120: 5
+Total de livros do cluster 1120: 6
 
-Total de livros do cluster 1121: 11
+Total de livros do cluster 1121: 5
 
-Total de livros do cluster 1122: 8
+Total de livros do cluster 1122: 3
 
-Total de livros do cluster 1123: 6
+Total de livros do cluster 1123: 5
 
-Total de livros do cluster 1124: 6
+Total de livros do cluster 1124: 27
 
-Total de livros do cluster 1125: 5
+Total de livros do cluster 1125: 6
 
-Total de livros do cluster 1126: 5
+Total de livros do cluster 1126: 4
 
-Total de livros do cluster 1127: 27
+Total de livros do cluster 1127: 33
 
-Total de livros do cluster 1128: 6
+Total de livros do cluster 1128: 7
 
-Total de livros do cluster 1129: 4
+Total de livros do cluster 1129: 25
 
-Total de livros do cluster 1130: 33
+Total de livros do cluster 1130: 3
 
 Total de livros do cluster 1131: 7
 
-Total de livros do cluster 1132: 25
+Total de livros do cluster 1132: 3
 
-Total de livros do cluster 1133: 3
+Total de livros do cluster 1133: 4
 
-Total de livros do cluster 1134: 7
+Total de livros do cluster 1134: 4
 
-Total de livros do cluster 1135: 3
+Total de livros do cluster 1135: 7
 
-Total de livros do cluster 1136: 4
+Total de livros do cluster 1136: 8
 
-Total de livros do cluster 1137: 4
+Total de livros do cluster 1137: 13
 
-Total de livros do cluster 1138: 7
+Total de livros do cluster 1138: 4
 
-Total de livros do cluster 1139: 8
+Total de livros do cluster 1139: 4
 
-Total de livros do cluster 1140: 13
+Total de livros do cluster 1140: 3
 
-Total de livros do cluster 1141: 4
+Total de livros do cluster 1141: 20
 
-Total de livros do cluster 1142: 4
+Total de livros do cluster 1142: 3
 
-Total de livros do cluster 1143: 3
+Total de livros do cluster 1143: 4
 
-Total de livros do cluster 1144: 22
+Total de livros do cluster 1144: 6
 
 Total de livros do cluster 1145: 3
 
-Total de livros do cluster 1146: 4
+Total de livros do cluster 1146: 7
 
-Total de livros do cluster 1147: 3
+Total de livros do cluster 1147: 7
 
 Total de livros do cluster 1148: 7
 
-Total de livros do cluster 1149: 7
+Total de livros do cluster 1149: 2
 
-Total de livros do cluster 1150: 7
+Total de livros do cluster 1150: 13
 
-Total de livros do cluster 1151: 2
+Total de livros do cluster 1151: 6
 
-Total de livros do cluster 1152: 2
+Total de livros do cluster 1152: 3
 
-Total de livros do cluster 1153: 13
+Total de livros do cluster 1153: 8
 
-Total de livros do cluster 1154: 6
+Total de livros do cluster 1154: 3
 
-Total de livros do cluster 1155: 3
+Total de livros do cluster 1155: 6
 
-Total de livros do cluster 1156: 8
+Total de livros do cluster 1156: 7
 
-Total de livros do cluster 1157: 3
+Total de livros do cluster 1157: 10
 
-Total de livros do cluster 1158: 6
+Total de livros do cluster 1158: 16
 
 Total de livros do cluster 1159: 7
 
-Total de livros do cluster 1160: 10
+Total de livros do cluster 1160: 12
 
-Total de livros do cluster 1161: 16
+Total de livros do cluster 1161: 7
 
-Total de livros do cluster 1162: 7
+Total de livros do cluster 1162: 14
 
-Total de livros do cluster 1163: 12
+Total de livros do cluster 1163: 11
 
-Total de livros do cluster 1164: 7
+Total de livros do cluster 1164: 12
 
-Total de livros do cluster 1165: 14
+Total de livros do cluster 1165: 7
 
-Total de livros do cluster 1166: 11
+Total de livros do cluster 1166: 3
 
-Total de livros do cluster 1167: 12
+Total de livros do cluster 1167: 11
 
-Total de livros do cluster 1168: 7
+Total de livros do cluster 1168: 6
 
-Total de livros do cluster 1169: 3
+Total de livros do cluster 1169: 7
 
-Total de livros do cluster 1170: 11
+Total de livros do cluster 1170: 7
 
-Total de livros do cluster 1171: 6
+Total de livros do cluster 1171: 16
 
-Total de livros do cluster 1172: 7
+Total de livros do cluster 1172: 17
 
-Total de livros do cluster 1173: 7
+Total de livros do cluster 1173: 9
 
-Total de livros do cluster 1174: 16
+Total de livros do cluster 1174: 2
 
-Total de livros do cluster 1175: 17
+Total de livros do cluster 1175: 7
 
 Total de livros do cluster 1176: 2
 
-Total de livros do cluster 1177: 9
+Total de livros do cluster 1177: 12
 
-Total de livros do cluster 1178: 2
+Total de livros do cluster 1178: 4
 
-Total de livros do cluster 1179: 7
+Total de livros do cluster 1179: 2
 
-Total de livros do cluster 1180: 2
+Total de livros do cluster 1180: 6
 
-Total de livros do cluster 1181: 12
+Total de livros do cluster 1181: 8
 
-Total de livros do cluster 1182: 4
+Total de livros do cluster 1182: 2
 
-Total de livros do cluster 1183: 6
+Total de livros do cluster 1183: 7
 
-Total de livros do cluster 1184: 8
+Total de livros do cluster 1184: 4
 
-Total de livros do cluster 1185: 7
+Total de livros do cluster 1185: 2
 
-Total de livros do cluster 1186: 4
+Total de livros do cluster 1186: 5
 
-Total de livros do cluster 1187: 5
+Total de livros do cluster 1187: 3
 
-Total de livros do cluster 1188: 3
+Total de livros do cluster 1188: 6
 
-Total de livros do cluster 1189: 6
+Total de livros do cluster 1189: 5
 
-Total de livros do cluster 1190: 2
+Total de livros do cluster 1190: 6
 
-Total de livros do cluster 1191: 5
+Total de livros do cluster 1191: 7
 
 Total de livros do cluster 1192: 6
 
-Total de livros do cluster 1193: 7
+Total de livros do cluster 1193: 22
 
-Total de livros do cluster 1194: 6
+Total de livros do cluster 1194: 4
 
-Total de livros do cluster 1195: 22
+Total de livros do cluster 1195: 8
 
-Total de livros do cluster 1196: 4
+Total de livros do cluster 1196: 14
 
 Total de livros do cluster 1197: 8
 
-Total de livros do cluster 1198: 14
+Total de livros do cluster 1198: 13
 
-Total de livros do cluster 1199: 8
+Total de livros do cluster 1199: 17
 
-Total de livros do cluster 1200: 13
+Total de livros do cluster 1200: 28
 
-Total de livros do cluster 1201: 17
+Total de livros do cluster 1201: 3
 
-Total de livros do cluster 1202: 28
+Total de livros do cluster 1202: 7
 
-Total de livros do cluster 1203: 3
+Total de livros do cluster 1203: 11
 
-Total de livros do cluster 1204: 7
+Total de livros do cluster 1204: 8
 
-Total de livros do cluster 1205: 11
+Total de livros do cluster 1205: 6
 
-Total de livros do cluster 1206: 8
+Total de livros do cluster 1206: 6
 
-Total de livros do cluster 1207: 6
+Total de livros do cluster 1207: 5
 
-Total de livros do cluster 1208: 6
+Total de livros do cluster 1208: 4
 
-Total de livros do cluster 1209: 2
+Total de livros do cluster 1209: 16
 
 Total de livros do cluster 1210: 5
 
-Total de livros do cluster 1211: 4
+Total de livros do cluster 1211: 8
 
-Total de livros do cluster 1212: 16
+Total de livros do cluster 1212: 10
 
-Total de livros do cluster 1213: 5
+Total de livros do cluster 1213: 6
 
-Total de livros do cluster 1214: 8
+Total de livros do cluster 1214: 3
 
-Total de livros do cluster 1215: 10
+Total de livros do cluster 1215: 14
 
-Total de livros do cluster 1216: 6
+Total de livros do cluster 1216: 20
 
-Total de livros do cluster 1217: 3
+Total de livros do cluster 1217: 6
 
-Total de livros do cluster 1218: 14
+Total de livros do cluster 1218: 20
 
-Total de livros do cluster 1219: 20
+Total de livros do cluster 1219: 7
 
-Total de livros do cluster 1220: 6
+Total de livros do cluster 1220: 10
 
-Total de livros do cluster 1221: 20
+Total de livros do cluster 1221: 4
 
-Total de livros do cluster 1222: 7
+Total de livros do cluster 1222: 5
 
-Total de livros do cluster 1223: 10
+Total de livros do cluster 1223: 18
 
-Total de livros do cluster 1224: 4
+Total de livros do cluster 1224: 7
 
-Total de livros do cluster 1225: 5
+Total de livros do cluster 1225: 10
 
-Total de livros do cluster 1226: 18
+Total de livros do cluster 1226: 4
 
-Total de livros do cluster 1227: 7
+Total de livros do cluster 1227: 3
 
-Total de livros do cluster 1228: 10
-
-Total de livros do cluster 1229: 4
-
-Total de livros do cluster 1230: 3
-
-Total de livros do cluster 1231: 9
+Total de livros do cluster 1228: 9
 
 
-Índice Silhueta: 0.03873282687471983
+Índice Silhueta: 0.03821549091268845
 
-Índice Davies-Bouldin: 3.201935171910307
+Índice Davies-Bouldin: 3.2088663071183428
 
-Índice Calinski-Harabasz: 2.3011374278817187
+Índice Calinski-Harabasz: 2.300547937340344
 
 Arquivo: resultado-Affinity-Propagation.png
 
