@@ -11,16 +11,16 @@ Arquivo: ward-linkage-Calinski-Harabaz.png
 
 Quantidade ideal de clusters para o ward linkage: 2
 
-Total de livros do cluster 0: 4161
+Total de livros do cluster 0: 5827
 
-Total de livros do cluster 1: 6061
+Total de livros do cluster 1: 4343
 
 
-Índice Silhueta: 0.0019624216195155727
+Índice Silhueta: 0.002649591935945398
 
-Índice Davies-Bouldin: 21.368553559545287
+Índice Davies-Bouldin: 18.14119121474622
 
-Índice Calinski-Harabasz: 21.600841225401382
+Índice Calinski-Harabasz: 30.215793388565128
 
 Arquivo: resultado-ward-linkage.png
 
