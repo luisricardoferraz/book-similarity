@@ -1,166 +1,166 @@
 Statistics of Dataset - Stemmed Synopsis without accents
 
-Shape of Dataset: 10170 rows and 18 columns
+Shape of Dataset: 9336 rows and 18 columns
 
 Statistics of Synopsis Length (Characters):
-	Arithmetic Mean: 280.74936086529004
-	Median: 244.0
+	Arithmetic Mean: 280.0852613538989
+	Median: 242.0
 	Highest Value: 1264
 	Lowest Value: 15
 	Mid-range: 624.5
-	Variance: 29370.89056159363
-	Standard Deviation: 171.37937612674878
+	Variance: 30123.310780070948
+	Standard Deviation: 173.56068327841692
 	
 Percentiles: 
-	Percentile 0.5: 46.845
-	Percentile 1.0: 56.0
-	Percentile 1.5: 61.535
-	Percentile 2.0: 67.0
-	Percentile 2.5: 71.0
-	Percentile 3.0: 75.0
-	Percentile 3.5: 78.0
-	Percentile 4.0: 81.0
-	Percentile 4.5: 84.0
-	Percentile 5.0: 87.0
-	Percentile 5.5: 89.0
-	Percentile 6.0: 92.0
-	Percentile 6.5: 94.0
-	Percentile 7.0: 96.0
-	Percentile 7.5: 98.0
-	Percentile 8.0: 101.0
-	Percentile 8.5: 103.0
-	Percentile 9.0: 105.0
-	Percentile 9.5: 107.0
-	Percentile 10.0: 109.0
-	Percentile 10.5: 110.74499999999989
-	Percentile 11.0: 112.58999999999992
-	Percentile 11.5: 114.0
-	Percentile 12.0: 116.27999999999997
-	Percentile 12.5: 118.0
-	Percentile 13.0: 120.0
-	Percentile 13.5: 123.0
-	Percentile 14.0: 125.0
-	Percentile 14.5: 126.0
-	Percentile 15.0: 128.0
-	Percentile 15.5: 129.0
-	Percentile 16.0: 131.0
-	Percentile 16.5: 133.0
-	Percentile 17.0: 134.0
-	Percentile 17.5: 136.0
-	Percentile 18.0: 137.0
-	Percentile 18.5: 139.0
-	Percentile 19.0: 140.0
-	Percentile 19.5: 142.0
-	Percentile 20.0: 143.80000000000018
-	Percentile 20.5: 146.0
-	Percentile 21.0: 147.0
-	Percentile 21.5: 149.0
-	Percentile 22.0: 150.0
-	Percentile 22.5: 152.0
-	Percentile 23.0: 153.0
-	Percentile 23.5: 155.0
-	Percentile 24.0: 157.0
-	Percentile 24.5: 158.0
-	Percentile 25.0: 159.0
-	Percentile 25.5: 161.09500000000025
-	Percentile 26.0: 163.0
-	Percentile 26.5: 164.0
-	Percentile 27.0: 166.0
-	Percentile 27.5: 167.47500000000036
-	Percentile 28.0: 169.0
-	Percentile 28.5: 171.0
-	Percentile 29.0: 173.0
-	Percentile 29.5: 174.0
-	Percentile 30.0: 176.0
-	Percentile 30.5: 178.0
-	Percentile 31.0: 180.0
-	Percentile 31.5: 182.0
-	Percentile 32.0: 183.0
-	Percentile 32.5: 185.0
-	Percentile 33.0: 187.0
-	Percentile 33.5: 188.0
-	Percentile 34.0: 190.0
-	Percentile 34.5: 192.0
-	Percentile 35.0: 193.0
-	Percentile 35.5: 195.0
-	Percentile 36.0: 197.0
-	Percentile 36.5: 198.0
-	Percentile 37.0: 200.0
-	Percentile 37.5: 201.0
-	Percentile 38.0: 203.22000000000025
-	Percentile 38.5: 205.0
-	Percentile 39.0: 207.0
-	Percentile 39.5: 208.0
-	Percentile 40.0: 210.0
-	Percentile 40.5: 212.0
-	Percentile 41.0: 213.0
-	Percentile 41.5: 215.0
-	Percentile 42.0: 217.0
-	Percentile 42.5: 218.0
-	Percentile 43.0: 220.0
-	Percentile 43.5: 222.0
-	Percentile 44.0: 224.0
-	Percentile 44.5: 226.0
-	Percentile 45.0: 228.0
-	Percentile 45.5: 229.89500000000044
-	Percentile 46.0: 231.0
-	Percentile 46.5: 233.0
-	Percentile 47.0: 235.0
-	Percentile 47.5: 236.0
-	Percentile 48.0: 238.0
-	Percentile 48.5: 239.0
-	Percentile 49.0: 241.0
-	Percentile 49.5: 242.65499999999975
-	Percentile 50.0: 244.0
-	Percentile 50.5: 246.0
-	Percentile 51.0: 247.0
-	Percentile 51.5: 249.0
-	Percentile 52.0: 251.0
-	Percentile 52.5: 253.0
-	Percentile 53.0: 255.0
-	Percentile 53.5: 257.0
-	Percentile 54.0: 258.0
-	Percentile 54.5: 260.0
-	Percentile 55.0: 262.0
-	Percentile 55.5: 264.0
-	Percentile 56.0: 266.0
-	Percentile 56.5: 268.0
-	Percentile 57.0: 270.0
-	Percentile 57.5: 271.0
-	Percentile 58.0: 273.0
-	Percentile 58.5: 274.0
-	Percentile 59.0: 276.0
-	Percentile 59.5: 278.0
-	Percentile 60.0: 280.0
-	Percentile 60.5: 282.0
-	Percentile 61.0: 284.0
-	Percentile 61.5: 286.0
-	Percentile 62.0: 288.0
-	Percentile 62.5: 290.0
-	Percentile 63.0: 293.0
-	Percentile 63.5: 294.3150000000005
-	Percentile 64.0: 296.15999999999985
-	Percentile 64.5: 299.0
-	Percentile 65.0: 301.0
-	Percentile 65.5: 303.0
-	Percentile 66.0: 304.0
-	Percentile 66.5: 307.0
-	Percentile 67.0: 309.0
-	Percentile 67.5: 311.0
-	Percentile 68.0: 314.0
-	Percentile 68.5: 316.0
-	Percentile 69.0: 319.0
-	Percentile 69.5: 322.0
-	Percentile 70.0: 325.0
-	Percentile 70.5: 327.0
-	Percentile 71.0: 329.0
-	Percentile 71.5: 332.0
-	Percentile 72.0: 335.0
-	Percentile 72.5: 338.0
-	Percentile 73.0: 342.0
-	Percentile 73.5: 344.0
-	Percentile 74.0: 347.0
-	Percentile 74.5: 349.90499999999975
+	Percentile 0.5: 46.0
+	Percentile 1.0: 55.0
+	Percentile 1.5: 61.0
+	Percentile 2.0: 66.0
+	Percentile 2.5: 70.0
+	Percentile 3.0: 74.0
+	Percentile 3.5: 77.0
+	Percentile 4.0: 79.0
+	Percentile 4.5: 83.0
+	Percentile 5.0: 86.0
+	Percentile 5.5: 88.0
+	Percentile 6.0: 91.0
+	Percentile 6.5: 93.0
+	Percentile 7.0: 95.0
+	Percentile 7.5: 97.0
+	Percentile 8.0: 99.0
+	Percentile 8.5: 102.0
+	Percentile 9.0: 104.0
+	Percentile 9.5: 105.0
+	Percentile 10.0: 107.0
+	Percentile 10.5: 109.0
+	Percentile 11.0: 111.0
+	Percentile 11.5: 113.0
+	Percentile 12.0: 115.0
+	Percentile 12.5: 117.0
+	Percentile 13.0: 119.0
+	Percentile 13.5: 121.0
+	Percentile 14.0: 124.0
+	Percentile 14.5: 125.0
+	Percentile 15.0: 127.0
+	Percentile 15.5: 128.0
+	Percentile 16.0: 130.0
+	Percentile 16.5: 131.0
+	Percentile 17.0: 133.0
+	Percentile 17.5: 135.0
+	Percentile 18.0: 136.0
+	Percentile 18.5: 138.0
+	Percentile 19.0: 139.0
+	Percentile 19.5: 140.0
+	Percentile 20.0: 142.0
+	Percentile 20.5: 144.0
+	Percentile 21.0: 146.0
+	Percentile 21.5: 147.0
+	Percentile 22.0: 149.0
+	Percentile 22.5: 150.0
+	Percentile 23.0: 152.0
+	Percentile 23.5: 153.0
+	Percentile 24.0: 155.0
+	Percentile 24.5: 156.0
+	Percentile 25.0: 157.0
+	Percentile 25.5: 159.0
+	Percentile 26.0: 161.0
+	Percentile 26.5: 163.0
+	Percentile 27.0: 164.0
+	Percentile 27.5: 166.0
+	Percentile 28.0: 167.0
+	Percentile 28.5: 169.0
+	Percentile 29.0: 171.0
+	Percentile 29.5: 172.0
+	Percentile 30.0: 174.0
+	Percentile 30.5: 176.0
+	Percentile 31.0: 177.0
+	Percentile 31.5: 179.0
+	Percentile 32.0: 181.0
+	Percentile 32.5: 183.0
+	Percentile 33.0: 184.0
+	Percentile 33.5: 186.0
+	Percentile 34.0: 188.0
+	Percentile 34.5: 190.0
+	Percentile 35.0: 191.0
+	Percentile 35.5: 192.92499999999973
+	Percentile 36.0: 194.0
+	Percentile 36.5: 196.0
+	Percentile 37.0: 198.0
+	Percentile 37.5: 199.0
+	Percentile 38.0: 201.0
+	Percentile 38.5: 202.0
+	Percentile 39.0: 204.6500000000001
+	Percentile 39.5: 206.0
+	Percentile 40.0: 208.0
+	Percentile 40.5: 209.0
+	Percentile 41.0: 211.0
+	Percentile 41.5: 213.0
+	Percentile 42.0: 214.0
+	Percentile 42.5: 216.0
+	Percentile 43.0: 218.0
+	Percentile 43.5: 219.0
+	Percentile 44.0: 221.0
+	Percentile 44.5: 223.0
+	Percentile 45.0: 225.75
+	Percentile 45.5: 227.0
+	Percentile 46.0: 229.0
+	Percentile 46.5: 231.0
+	Percentile 47.0: 232.0
+	Percentile 47.5: 234.0
+	Percentile 48.0: 236.0
+	Percentile 48.5: 237.0
+	Percentile 49.0: 239.0
+	Percentile 49.5: 240.0
+	Percentile 50.0: 242.0
+	Percentile 50.5: 244.0
+	Percentile 51.0: 245.0
+	Percentile 51.5: 247.0
+	Percentile 52.0: 249.0
+	Percentile 52.5: 250.0
+	Percentile 53.0: 252.0
+	Percentile 53.5: 254.0
+	Percentile 54.0: 255.0
+	Percentile 54.5: 257.0
+	Percentile 55.0: 259.0
+	Percentile 55.5: 261.0
+	Percentile 56.0: 263.0
+	Percentile 56.5: 265.0
+	Percentile 57.0: 267.0
+	Percentile 57.5: 269.0
+	Percentile 58.0: 271.0
+	Percentile 58.5: 272.0
+	Percentile 59.0: 274.0
+	Percentile 59.5: 275.0
+	Percentile 60.0: 278.0
+	Percentile 60.5: 280.0
+	Percentile 61.0: 282.0
+	Percentile 61.5: 284.0
+	Percentile 62.0: 286.0
+	Percentile 62.5: 288.0
+	Percentile 63.0: 290.0
+	Percentile 63.5: 293.0
+	Percentile 64.0: 295.0
+	Percentile 64.5: 297.0
+	Percentile 65.0: 299.0
+	Percentile 65.5: 301.0
+	Percentile 66.0: 303.0
+	Percentile 66.5: 305.0
+	Percentile 67.0: 308.0
+	Percentile 67.5: 310.0
+	Percentile 68.0: 313.0
+	Percentile 68.5: 315.0
+	Percentile 69.0: 318.0
+	Percentile 69.5: 320.0
+	Percentile 70.0: 323.0
+	Percentile 70.5: 326.0
+	Percentile 71.0: 328.0
+	Percentile 71.5: 331.0
+	Percentile 72.0: 334.0
+	Percentile 72.5: 336.0
+	Percentile 73.0: 340.0
+	Percentile 73.5: 343.0
+	Percentile 74.0: 346.0
+	Percentile 74.5: 349.0
 	Percentile 75.0: 353.0
 	Percentile 75.5: 356.0
 	Percentile 76.0: 358.0
@@ -170,83 +170,83 @@ Percentiles:
 	Percentile 78.0: 371.0
 	Percentile 78.5: 374.0
 	Percentile 79.0: 379.0
-	Percentile 79.5: 382.0
+	Percentile 79.5: 383.0
 	Percentile 80.0: 386.0
 	Percentile 80.5: 389.0
 	Percentile 81.0: 393.0
-	Percentile 81.5: 397.0
-	Percentile 82.0: 401.5799999999999
-	Percentile 82.5: 405.0
-	Percentile 83.0: 410.0
-	Percentile 83.5: 416.0
-	Percentile 84.0: 420.0
-	Percentile 84.5: 426.0
-	Percentile 85.0: 431.0
-	Percentile 85.5: 437.0
-	Percentile 86.0: 441.0
-	Percentile 86.5: 446.0
-	Percentile 87.0: 452.03000000000065
-	Percentile 87.5: 458.0
+	Percentile 81.5: 398.0
+	Percentile 82.0: 402.0
+	Percentile 82.5: 406.0
+	Percentile 83.0: 410.0499999999993
+	Percentile 83.5: 417.0
+	Percentile 84.0: 421.39999999999964
+	Percentile 84.5: 427.0
+	Percentile 85.0: 432.0
+	Percentile 85.5: 437.4250000000002
+	Percentile 86.0: 442.0
+	Percentile 86.5: 447.0
+	Percentile 87.0: 453.0
+	Percentile 87.5: 459.0
 	Percentile 88.0: 464.0
-	Percentile 88.5: 470.0
-	Percentile 89.0: 477.0
-	Percentile 89.5: 484.0
-	Percentile 90.0: 493.0
-	Percentile 90.5: 502.9449999999997
-	Percentile 91.0: 509.0
-	Percentile 91.5: 519.0
-	Percentile 92.0: 531.0
-	Percentile 92.5: 543.0
-	Percentile 93.0: 555.1700000000001
-	Percentile 93.5: 568.0
-	Percentile 94.0: 584.8599999999988
-	Percentile 94.5: 601.0
-	Percentile 95.0: 619.5499999999993
-	Percentile 95.5: 644.0
-	Percentile 96.0: 665.4799999999996
-	Percentile 96.5: 690.0849999999991
-	Percentile 97.0: 724.0
-	Percentile 97.5: 752.0
-	Percentile 98.0: 790.239999999998
-	Percentile 98.5: 835.4650000000001
-	Percentile 99.0: 908.3099999999995
-	Percentile 99.5: 990.465000000002
+	Percentile 88.5: 470.47500000000036
+	Percentile 89.0: 478.0
+	Percentile 89.5: 484.8250000000007
+	Percentile 90.0: 493.5
+	Percentile 90.5: 503.0
+	Percentile 91.0: 509.85000000000036
+	Percentile 91.5: 520.5249999999996
+	Percentile 92.0: 535.0
+	Percentile 92.5: 547.875
+	Percentile 93.0: 560.0
+	Percentile 93.5: 574.0
+	Percentile 94.0: 589.0
+	Percentile 94.5: 606.1499999999978
+	Percentile 95.0: 626.5
+	Percentile 95.5: 648.0
+	Percentile 96.0: 674.6000000000004
+	Percentile 96.5: 697.8249999999989
+	Percentile 97.0: 733.9499999999989
+	Percentile 97.5: 765.625
+	Percentile 98.0: 805.0
+	Percentile 98.5: 844.0
+	Percentile 99.0: 914.0
+	Percentile 99.5: 996.3250000000007
 	Percentile 100.0: 1264.0
 	
 Statistics of Synopsis Length (Words):
-	Arithmetic Mean: 47.99744346116027
+	Arithmetic Mean: 47.865038560411314
 	Median: 42.0
 	Highest Value: 214
 	Lowest Value: 3
 	Mid-range: 105.5
-	Variance: 823.0708952237184
-	Standard Deviation: 28.689212175027016
+	Variance: 843.5040116321499
+	Standard Deviation: 29.043140526329964
 	
 Percentiles: 
-	Percentile 0.5: 8.844999999999999
+	Percentile 0.5: 8.0
 	Percentile 1.0: 10.0
 	Percentile 1.5: 11.0
 	Percentile 2.0: 12.0
-	Percentile 2.5: 13.0
+	Percentile 2.5: 12.0
 	Percentile 3.0: 13.0
 	Percentile 3.5: 14.0
 	Percentile 4.0: 14.0
 	Percentile 4.5: 15.0
 	Percentile 5.0: 15.0
-	Percentile 5.5: 16.0
+	Percentile 5.5: 15.0
 	Percentile 6.0: 16.0
-	Percentile 6.5: 17.0
+	Percentile 6.5: 16.0
 	Percentile 7.0: 17.0
 	Percentile 7.5: 17.0
-	Percentile 8.0: 18.0
+	Percentile 8.0: 17.0
 	Percentile 8.5: 18.0
 	Percentile 9.0: 18.0
 	Percentile 9.5: 19.0
 	Percentile 10.0: 19.0
-	Percentile 10.5: 20.0
+	Percentile 10.5: 19.0
 	Percentile 11.0: 20.0
 	Percentile 11.5: 20.0
-	Percentile 12.0: 21.0
+	Percentile 12.0: 20.0
 	Percentile 12.5: 21.0
 	Percentile 13.0: 21.0
 	Percentile 13.5: 21.0
@@ -257,121 +257,121 @@ Percentiles:
 	Percentile 16.0: 23.0
 	Percentile 16.5: 23.0
 	Percentile 17.0: 23.0
-	Percentile 17.5: 24.0
+	Percentile 17.5: 23.625
 	Percentile 18.0: 24.0
 	Percentile 18.5: 24.0
-	Percentile 19.0: 25.0
+	Percentile 19.0: 24.0
 	Percentile 19.5: 25.0
 	Percentile 20.0: 25.0
 	Percentile 20.5: 25.0
-	Percentile 21.0: 26.0
+	Percentile 21.0: 25.0
 	Percentile 21.5: 26.0
 	Percentile 22.0: 26.0
 	Percentile 22.5: 26.0
-	Percentile 23.0: 27.0
+	Percentile 23.0: 26.0
 	Percentile 23.5: 27.0
 	Percentile 24.0: 27.0
 	Percentile 24.5: 27.0
-	Percentile 25.0: 28.0
+	Percentile 25.0: 27.0
 	Percentile 25.5: 28.0
 	Percentile 26.0: 28.0
-	Percentile 26.5: 29.0
+	Percentile 26.5: 28.0
 	Percentile 27.0: 29.0
 	Percentile 27.5: 29.0
-	Percentile 28.0: 30.0
-	Percentile 28.5: 30.0
+	Percentile 28.0: 29.0
+	Percentile 28.5: 29.0
 	Percentile 29.0: 30.0
 	Percentile 29.5: 30.0
-	Percentile 30.0: 31.0
+	Percentile 30.0: 30.0
 	Percentile 30.5: 31.0
 	Percentile 31.0: 31.0
 	Percentile 31.5: 31.0
-	Percentile 32.0: 32.0
+	Percentile 32.0: 31.0
 	Percentile 32.5: 32.0
 	Percentile 33.0: 32.0
-	Percentile 33.5: 33.0
-	Percentile 34.0: 33.0
+	Percentile 33.5: 32.0
+	Percentile 34.0: 32.0
 	Percentile 34.5: 33.0
 	Percentile 35.0: 33.0
-	Percentile 35.5: 34.0
-	Percentile 36.0: 34.0
+	Percentile 35.5: 33.0
+	Percentile 36.0: 33.0
 	Percentile 36.5: 34.0
-	Percentile 37.0: 35.0
-	Percentile 37.5: 35.0
+	Percentile 37.0: 34.0
+	Percentile 37.5: 34.0
 	Percentile 38.0: 35.0
 	Percentile 38.5: 35.0
-	Percentile 39.0: 36.0
+	Percentile 39.0: 35.0
 	Percentile 39.5: 36.0
 	Percentile 40.0: 36.0
 	Percentile 40.5: 36.0
-	Percentile 41.0: 37.0
+	Percentile 41.0: 36.0
 	Percentile 41.5: 37.0
 	Percentile 42.0: 37.0
-	Percentile 42.5: 38.0
-	Percentile 43.0: 38.0
+	Percentile 42.5: 37.0
+	Percentile 43.0: 37.0
 	Percentile 43.5: 38.0
-	Percentile 44.0: 39.0
-	Percentile 44.5: 39.0
+	Percentile 44.0: 38.0
+	Percentile 44.5: 38.0
 	Percentile 45.0: 39.0
 	Percentile 45.5: 39.0
-	Percentile 46.0: 40.0
+	Percentile 46.0: 39.0
 	Percentile 46.5: 40.0
 	Percentile 47.0: 40.0
-	Percentile 47.5: 41.0
+	Percentile 47.5: 40.0
 	Percentile 48.0: 41.0
 	Percentile 48.5: 41.0
 	Percentile 49.0: 41.0
-	Percentile 49.5: 42.0
+	Percentile 49.5: 41.0
 	Percentile 50.0: 42.0
 	Percentile 50.5: 42.0
-	Percentile 51.0: 43.0
-	Percentile 51.5: 43.0
+	Percentile 51.0: 42.0
+	Percentile 51.5: 42.0
 	Percentile 52.0: 43.0
 	Percentile 52.5: 43.0
-	Percentile 53.0: 44.0
+	Percentile 53.0: 43.0
 	Percentile 53.5: 44.0
 	Percentile 54.0: 44.0
-	Percentile 54.5: 45.0
+	Percentile 54.5: 44.0
 	Percentile 55.0: 45.0
 	Percentile 55.5: 45.0
-	Percentile 56.0: 46.0
-	Percentile 56.5: 46.0
+	Percentile 56.0: 45.0
+	Percentile 56.5: 45.0
 	Percentile 57.0: 46.0
 	Percentile 57.5: 46.0
-	Percentile 58.0: 47.0
+	Percentile 58.0: 46.0
 	Percentile 58.5: 47.0
 	Percentile 59.0: 47.0
-	Percentile 59.5: 48.0
+	Percentile 59.5: 47.0
 	Percentile 60.0: 48.0
 	Percentile 60.5: 48.0
-	Percentile 61.0: 49.0
+	Percentile 61.0: 48.0
 	Percentile 61.5: 49.0
 	Percentile 62.0: 49.0
-	Percentile 62.5: 50.0
+	Percentile 62.5: 49.0
 	Percentile 63.0: 50.0
 	Percentile 63.5: 50.0
-	Percentile 64.0: 51.0
+	Percentile 64.0: 50.0
 	Percentile 64.5: 51.0
 	Percentile 65.0: 51.0
-	Percentile 65.5: 52.0
+	Percentile 65.5: 51.0
 	Percentile 66.0: 52.0
-	Percentile 66.5: 53.0
+	Percentile 66.5: 52.0
 	Percentile 67.0: 53.0
 	Percentile 67.5: 53.0
-	Percentile 68.0: 54.0
+	Percentile 68.0: 53.0
 	Percentile 68.5: 54.0
 	Percentile 69.0: 54.0
 	Percentile 69.5: 55.0
 	Percentile 70.0: 55.0
-	Percentile 70.5: 56.0
+	Percentile 70.5: 55.0
 	Percentile 71.0: 56.0
-	Percentile 71.5: 57.0
+	Percentile 71.5: 56.0
 	Percentile 72.0: 57.0
 	Percentile 72.5: 57.0
 	Percentile 73.0: 58.0
-	Percentile 73.5: 59.0
+	Percentile 73.5: 58.0
 	Percentile 74.0: 59.0
-	Percentile 74.5: 59.904999999999745
+	Percentile 74.5: 59.0
 	Percentile 75.0: 60.0
 	Percentile 75.5: 61.0
 	Percentile 76.0: 61.0
@@ -386,7 +386,7 @@ Percentiles:
 	Percentile 80.5: 66.0
 	Percentile 81.0: 67.0
 	Percentile 81.5: 68.0
-	Percentile 82.0: 68.0
+	Percentile 82.0: 68.69999999999982
 	Percentile 82.5: 69.0
 	Percentile 83.0: 70.0
 	Percentile 83.5: 71.0
@@ -401,7 +401,7 @@ Percentiles:
 	Percentile 88.0: 78.0
 	Percentile 88.5: 79.0
 	Percentile 89.0: 80.0
-	Percentile 89.5: 81.0
+	Percentile 89.5: 82.0
 	Percentile 90.0: 83.0
 	Percentile 90.5: 84.0
 	Percentile 91.0: 86.0
@@ -409,18 +409,18 @@ Percentiles:
 	Percentile 92.0: 90.0
 	Percentile 92.5: 92.0
 	Percentile 93.0: 94.0
-	Percentile 93.5: 96.0
-	Percentile 94.0: 98.0
-	Percentile 94.5: 102.0
-	Percentile 95.0: 104.0
-	Percentile 95.5: 108.0
-	Percentile 96.0: 113.0
-	Percentile 96.5: 117.0
-	Percentile 97.0: 123.0
-	Percentile 97.5: 127.77499999999964
-	Percentile 98.0: 134.0
-	Percentile 98.5: 143.0
-	Percentile 99.0: 152.0
-	Percentile 99.5: 167.0
+	Percentile 93.5: 97.0
+	Percentile 94.0: 99.0
+	Percentile 94.5: 103.0
+	Percentile 95.0: 106.0
+	Percentile 95.5: 110.0
+	Percentile 96.0: 114.0
+	Percentile 96.5: 118.0
+	Percentile 97.0: 124.0
+	Percentile 97.5: 130.0
+	Percentile 98.0: 136.0
+	Percentile 98.5: 144.0
+	Percentile 99.0: 153.64999999999964
+	Percentile 99.5: 168.0
 	Percentile 100.0: 214.0
 	
