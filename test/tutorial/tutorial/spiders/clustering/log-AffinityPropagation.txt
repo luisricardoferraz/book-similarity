@@ -4,2419 +4,4835 @@ Total de iterações: 205
 
 Total de livros do cluster 0: 14
 
+Centroide do cluster 0: 33 - Diário de uma Garota Nada Popular
+
 Total de livros do cluster 1: 16
+
+Centroide do cluster 1: 34 - O Encantador de Cães
 
 Total de livros do cluster 2: 13
 
+Centroide do cluster 2: 40 - Auto estima chave para a felicidade
+
 Total de livros do cluster 3: 4
+
+Centroide do cluster 3: 49 - O bem que você planta, você colhe
 
 Total de livros do cluster 4: 12
 
+Centroide do cluster 4: 67 - Conversa com Versos
+
 Total de livros do cluster 5: 18
+
+Centroide do cluster 5: 70 - O Meu Primeiro Fernando Pessoa
 
 Total de livros do cluster 6: 11
 
+Centroide do cluster 6: 76 - O Orfanato da Srta. Peregrine Para Crianças Peculiares
+
 Total de livros do cluster 7: 16
+
+Centroide do cluster 7: 94 - SuperPocoyo
 
 Total de livros do cluster 8: 7
 
+Centroide do cluster 8: 102 - O Diário de um Mago
+
 Total de livros do cluster 9: 8
+
+Centroide do cluster 9: 106 - Estrela Oculta
 
 Total de livros do cluster 10: 16
 
+Centroide do cluster 10: 124 - O MEU PRIMEIRO LIVRO
+
 Total de livros do cluster 11: 4
+
+Centroide do cluster 11: 133 - Código da Vida
 
 Total de livros do cluster 12: 7
 
+Centroide do cluster 12: 136 - Cavalo de Tróia 4
+
 Total de livros do cluster 13: 5
+
+Centroide do cluster 13: 137 - Paixão e Pureza
 
 Total de livros do cluster 14: 7
 
+Centroide do cluster 14: 143 - Encantos Sensuais
+
 Total de livros do cluster 15: 7
+
+Centroide do cluster 15: 149 - Cativa do Deserto
 
 Total de livros do cluster 16: 15
 
+Centroide do cluster 16: 156 - Aprenda a Comunicar-se Melhor no Trabalho: em uma Semana
+
 Total de livros do cluster 17: 6
+
+Centroide do cluster 17: 159 - A Fúria do Desejo
 
 Total de livros do cluster 18: 5
 
+Centroide do cluster 18: 160 - Voz do Coração
+
 Total de livros do cluster 19: 4
+
+Centroide do cluster 19: 184 - Escandaloso e Sedutor
 
 Total de livros do cluster 20: 4
 
+Centroide do cluster 20: 186 - Matarazzo Vol. 1
+
 Total de livros do cluster 21: 11
+
+Centroide do cluster 21: 188 - Concerto Inacabado
 
 Total de livros do cluster 22: 3
 
+Centroide do cluster 22: 207 - Tainá 2
+
 Total de livros do cluster 23: 4
+
+Centroide do cluster 23: 218 - Desafio do Desejo
 
 Total de livros do cluster 24: 5
 
+Centroide do cluster 24: 219 - Inferno
+
 Total de livros do cluster 25: 2
+
+Centroide do cluster 25: 231 - A Praça do Diamante
 
 Total de livros do cluster 26: 8
 
+Centroide do cluster 26: 233 - Verão no lago
+
 Total de livros do cluster 27: 12
+
+Centroide do cluster 27: 252 - Paixão Indomável
 
 Total de livros do cluster 28: 6
 
+Centroide do cluster 28: 256 - Renascer Da Esperança
+
 Total de livros do cluster 29: 5
+
+Centroide do cluster 29: 258 - Desejo e Obsessão
 
 Total de livros do cluster 30: 3
 
+Centroide do cluster 30: 259 - Sedução Fatal
+
 Total de livros do cluster 31: 26
+
+Centroide do cluster 31: 260 - Mercadora de Ilusões
 
 Total de livros do cluster 32: 13
 
+Centroide do cluster 32: 263 - Caminhos do Coração
+
 Total de livros do cluster 33: 14
+
+Centroide do cluster 33: 273 - A Escolha do Amor
 
 Total de livros do cluster 34: 7
 
+Centroide do cluster 34: 274 - O Limite Do Desejo
+
 Total de livros do cluster 35: 19
+
+Centroide do cluster 35: 275 - A NOIVA DO NORMANDO
 
 Total de livros do cluster 36: 3
 
+Centroide do cluster 36: 282 - Avassalador
+
 Total de livros do cluster 37: 12
+
+Centroide do cluster 37: 298 - O Príncipe Herdeiro (The Future King’s Pregnant Mistress)
 
 Total de livros do cluster 38: 18
 
+Centroide do cluster 38: 301 - Poder de Sedução
+
 Total de livros do cluster 39: 8
+
+Centroide do cluster 39: 312 - Ao Sabor da Sedução
 
 Total de livros do cluster 40: 6
 
+Centroide do cluster 40: 321 - Um Cantinho no Coração
+
 Total de livros do cluster 41: 10
+
+Centroide do cluster 41: 339 - Vidas Secretas
 
 Total de livros do cluster 42: 8
 
+Centroide do cluster 42: 341 - Amor por Conveniência
+
 Total de livros do cluster 43: 20
+
+Centroide do cluster 43: 365 - Um Casamento Diferente
 
 Total de livros do cluster 44: 6
 
+Centroide do cluster 44: 415 - Doce mistério
+
 Total de livros do cluster 45: 12
+
+Centroide do cluster 45: 418 - Two to Tangle
 
 Total de livros do cluster 46: 6
 
+Centroide do cluster 46: 437 - O Casamento Ideal
+
 Total de livros do cluster 47: 13
+
+Centroide do cluster 47: 438 - Quer casar comigo?
 
 Total de livros do cluster 48: 6
 
+Centroide do cluster 48: 439 - Louca Paixão
+
 Total de livros do cluster 49: 13
+
+Centroide do cluster 49: 447 - O Amor Não Está a Venda
 
 Total de livros do cluster 50: 20
 
+Centroide do cluster 50: 453 - O Prazer de Amar
+
 Total de livros do cluster 51: 18
+
+Centroide do cluster 51: 456 - O Pai Perfeito
 
 Total de livros do cluster 52: 12
 
+Centroide do cluster 52: 460 - Um Amor Eterno
+
 Total de livros do cluster 53: 7
+
+Centroide do cluster 53: 469 - Cherokee Baby
 
 Total de livros do cluster 54: 6
 
+Centroide do cluster 54: 473 - No calor da Paixão (Bedding His Virgin Mistress)
+
 Total de livros do cluster 55: 13
+
+Centroide do cluster 55: 486 - O Senhor da Paixão
 
 Total de livros do cluster 56: 2
 
+Centroide do cluster 56: 490 - Indiscreta
+
 Total de livros do cluster 57: 39
+
+Centroide do cluster 57: 494 - Em Nome do Amor
 
 Total de livros do cluster 58: 8
 
+Centroide do cluster 58: 499 - Perigo
+
 Total de livros do cluster 59: 29
+
+Centroide do cluster 59: 505 - A Descoberta do Amor
 
 Total de livros do cluster 60: 11
 
+Centroide do cluster 60: 518 - Casamento na Cidade do Prazer
+
 Total de livros do cluster 61: 10
+
+Centroide do cluster 61: 543 - A Amante Real
 
 Total de livros do cluster 62: 9
 
+Centroide do cluster 62: 559 - Coração Roubado
+
 Total de livros do cluster 63: 16
+
+Centroide do cluster 63: 560 - O Senhor dos Corações (The Sicilian's Bought Bride)
 
 Total de livros do cluster 64: 17
 
+Centroide do cluster 64: 570 - Magia do Deserto
+
 Total de livros do cluster 65: 4
+
+Centroide do cluster 65: 579 - Encontros
 
 Total de livros do cluster 66: 14
 
+Centroide do cluster 66: 584 - Domada pelo Sheik (Taken by the Sheikh)
+
 Total de livros do cluster 67: 7
+
+Centroide do cluster 67: 604 - Uma Noiva Especial
 
 Total de livros do cluster 68: 3
 
+Centroide do cluster 68: 613 - A Noite dos Amantes
+
 Total de livros do cluster 69: 5
+
+Centroide do cluster 69: 618 - A Aventura
 
 Total de livros do cluster 70: 6
 
+Centroide do cluster 70: 619 - Segundas Chances
+
 Total de livros do cluster 71: 13
+
+Centroide do cluster 71: 626 - Um sonho real
 
 Total de livros do cluster 72: 6
 
+Centroide do cluster 72: 643 - Quando o Inverno Chegar / Coração Desafiado
+
 Total de livros do cluster 73: 18
+
+Centroide do cluster 73: 646 - Sedução Natural
 
 Total de livros do cluster 74: 16
 
+Centroide do cluster 74: 664 - Juntos Para Sempre
+
 Total de livros do cluster 75: 3
+
+Centroide do cluster 75: 668 - A Sorte Grande
 
 Total de livros do cluster 76: 9
 
+Centroide do cluster 76: 671 - Quase um Estranho
+
 Total de livros do cluster 77: 31
+
+Centroide do cluster 77: 679 - Desejos Perigosos
 
 Total de livros do cluster 78: 5
 
+Centroide do cluster 78: 684 - Irresistível Atração
+
 Total de livros do cluster 79: 12
+
+Centroide do cluster 79: 688 - Noite de Núpcias
 
 Total de livros do cluster 80: 5
 
+Centroide do cluster 80: 690 - Jóia Da Coroa & Acordo Nupcial
+
 Total de livros do cluster 81: 10
+
+Centroide do cluster 81: 696 - Domínios da Paixão
 
 Total de livros do cluster 82: 15
 
+Centroide do cluster 82: 710 - O Desafio da Noiva
+
 Total de livros do cluster 83: 6
+
+Centroide do cluster 83: 721 - Doce Desejo de Amar
 
 Total de livros do cluster 84: 8
 
+Centroide do cluster 84: 726 - A Selva do Desejo
+
 Total de livros do cluster 85: 23
+
+Centroide do cluster 85: 733 - Sombras do passado
 
 Total de livros do cluster 86: 4
 
+Centroide do cluster 86: 739 - Em Nome do Amor (Bride by Royal Appoitment)
+
 Total de livros do cluster 87: 9
+
+Centroide do cluster 87: 744 - Guerreiro Escravo
 
 Total de livros do cluster 88: 5
 
+Centroide do cluster 88: 750 - O Segredo de John
+
 Total de livros do cluster 89: 8
+
+Centroide do cluster 89: 755 - Uma Noite no Deserto
 
 Total de livros do cluster 90: 10
 
+Centroide do cluster 90: 756 - Poder & Sedução
+
 Total de livros do cluster 91: 43
+
+Centroide do cluster 91: 778 - Seduzida Por Vingança
 
 Total de livros do cluster 92: 3
 
+Centroide do cluster 92: 803 - A Flor Da Pele
+
 Total de livros do cluster 93: 5
+
+Centroide do cluster 93: 805 - Amor Cigano
 
 Total de livros do cluster 94: 4
 
+Centroide do cluster 94: 806 - Dever & Desejo
+
 Total de livros do cluster 95: 10
+
+Centroide do cluster 95: 807 - Amor de Caubói
 
 Total de livros do cluster 96: 8
 
+Centroide do cluster 96: 814 - Escândalo na Corte
+
 Total de livros do cluster 97: 4
+
+Centroide do cluster 97: 815 - O Diário Secreto de Ana Bolena (The secret diary of Anne Boleyn)
 
 Total de livros do cluster 98: 6
 
+Centroide do cluster 98: 823 - Pena Capital
+
 Total de livros do cluster 99: 17
+
+Centroide do cluster 99: 826 - Amor a forca
 
 Total de livros do cluster 100: 14
 
+Centroide do cluster 100: 832 - Sonhos Realizados
+
 Total de livros do cluster 101: 6
+
+Centroide do cluster 101: 844 - Sem Lei / Lawless
 
 Total de livros do cluster 102: 3
 
+Centroide do cluster 102: 858 - manual do mané
+
 Total de livros do cluster 103: 13
+
+Centroide do cluster 103: 860 - A Ilha do Tesouro
 
 Total de livros do cluster 104: 20
 
+Centroide do cluster 104: 862 - Rose Madder
+
 Total de livros do cluster 105: 13
+
+Centroide do cluster 105: 867 - Memórias Inventadas - A Infância
 
 Total de livros do cluster 106: 7
 
+Centroide do cluster 106: 877 - O fogo da paixão
+
 Total de livros do cluster 107: 16
+
+Centroide do cluster 107: 888 - Um Milionario Desumano
 
 Total de livros do cluster 108: 6
 
+Centroide do cluster 108: 895 - Romance Grego
+
 Total de livros do cluster 109: 6
+
+Centroide do cluster 109: 926 - Cicatrizes da Alma
 
 Total de livros do cluster 110: 46
 
+Centroide do cluster 110: 932 - O Filho Secreto do Grego
+
 Total de livros do cluster 111: 3
+
+Centroide do cluster 111: 950 - Desespero
 
 Total de livros do cluster 112: 4
 
+Centroide do cluster 112: 973 - Vikings
+
 Total de livros do cluster 113: 6
+
+Centroide do cluster 113: 1009 - Micos e Outros Bichos
 
 Total de livros do cluster 114: 4
 
+Centroide do cluster 114: 1011 - O talismã
+
 Total de livros do cluster 115: 4
+
+Centroide do cluster 115: 1012 - Serpente encantadora
 
 Total de livros do cluster 116: 3
 
+Centroide do cluster 116: 1016 - Saco de ossos - V.1
+
 Total de livros do cluster 117: 4
+
+Centroide do cluster 117: 1068 - A Trégua
 
 Total de livros do cluster 118: 10
 
+Centroide do cluster 118: 1079 - Aventura secreta
+
 Total de livros do cluster 119: 9
+
+Centroide do cluster 119: 1080 - Leilão do Amor
 
 Total de livros do cluster 120: 13
 
+Centroide do cluster 120: 1085 - Desejo Indomado
+
 Total de livros do cluster 121: 4
+
+Centroide do cluster 121: 1086 - Herança Familiar
 
 Total de livros do cluster 122: 29
 
+Centroide do cluster 122: 1087 - Recordações de um amor
+
 Total de livros do cluster 123: 15
+
+Centroide do cluster 123: 1088 - Três semanas em Atenas
 
 Total de livros do cluster 124: 4
 
+Centroide do cluster 124: 1089 - Uma Amante Temporária
+
 Total de livros do cluster 125: 3
+
+Centroide do cluster 125: 1144 - Tempo de Paixão
 
 Total de livros do cluster 126: 10
 
+Centroide do cluster 126: 1156 - Em nome do Bem
+
 Total de livros do cluster 127: 7
+
+Centroide do cluster 127: 1167 - A paixão de Maria Madalena
 
 Total de livros do cluster 128: 8
 
+Centroide do cluster 128: 1168 - A Expedição Esquecida de Shackleton
+
 Total de livros do cluster 129: 17
+
+Centroide do cluster 129: 1170 - As Lições de Chico Xavier
 
 Total de livros do cluster 130: 3
 
+Centroide do cluster 130: 1184 - Uma Noite... Um Segredo...
+
 Total de livros do cluster 131: 6
+
+Centroide do cluster 131: 1240 - Kama Sutra para lésbicas
 
 Total de livros do cluster 132: 5
 
+Centroide do cluster 132: 1241 - Paixoes Romanas
+
 Total de livros do cluster 133: 5
+
+Centroide do cluster 133: 1242 - Sem Promessas, Sem Compromissos
 
 Total de livros do cluster 134: 5
 
+Centroide do cluster 134: 1267 - Maktub
+
 Total de livros do cluster 135: 3
+
+Centroide do cluster 135: 1272 - As Valkírias
 
 Total de livros do cluster 136: 15
 
+Centroide do cluster 136: 1276 - Na Margem do Rio Piedra Eu Sentei e Chorei
+
 Total de livros do cluster 137: 5
+
+Centroide do cluster 137: 1315 - Aprenda a Redigir Relatórios
 
 Total de livros do cluster 138: 2
 
+Centroide do cluster 138: 1333 - Escravos do Desejo
+
 Total de livros do cluster 139: 12
+
+Centroide do cluster 139: 1343 - Tentação Grega
 
 Total de livros do cluster 140: 5
 
+Centroide do cluster 140: 1347 - Recordações de um Beijo
+
 Total de livros do cluster 141: 3
+
+Centroide do cluster 141: 1353 - Angus - As Cruzadas
 
 Total de livros do cluster 142: 14
 
+Centroide do cluster 142: 1366 - A ilha dos 5 faróis
+
 Total de livros do cluster 143: 3
+
+Centroide do cluster 143: 1379 - O Filho Oculto do Magnata
 
 Total de livros do cluster 144: 7
 
+Centroide do cluster 144: 1381 - Amante Por Dinheiro
+
 Total de livros do cluster 145: 5
+
+Centroide do cluster 145: 1387 - Uma Paixão no Esquecimento
 
 Total de livros do cluster 146: 4
 
+Centroide do cluster 146: 1405 - O Estaleiro
+
 Total de livros do cluster 147: 6
+
+Centroide do cluster 147: 1407 - O lado profundo da vida
 
 Total de livros do cluster 148: 3
 
+Centroide do cluster 148: 1415 - Onze minutos
+
 Total de livros do cluster 149: 4
+
+Centroide do cluster 149: 1429 - Enigma do Amor
 
 Total de livros do cluster 150: 12
 
+Centroide do cluster 150: 1430 - Herdeira do Escândalo & Herdeira do Orgulho
+
 Total de livros do cluster 151: 19
+
+Centroide do cluster 151: 1439 - Amante Para Se Vingar
 
 Total de livros do cluster 152: 3
 
+Centroide do cluster 152: 1452 - Cenário De Sedução
+
 Total de livros do cluster 153: 16
+
+Centroide do cluster 153: 1453 - Fica Comigo!
 
 Total de livros do cluster 154: 5
 
+Centroide do cluster 154: 1454 - Amor, maior que Tudo
+
 Total de livros do cluster 155: 3
+
+Centroide do cluster 155: 1470 - Kama sutra XXX
 
 Total de livros do cluster 156: 7
 
+Centroide do cluster 156: 1479 - 1808
+
 Total de livros do cluster 157: 4
+
+Centroide do cluster 157: 1493 - Dois Corações
 
 Total de livros do cluster 158: 4
 
+Centroide do cluster 158: 1498 - Segredos de Amantes
+
 Total de livros do cluster 159: 4
+
+Centroide do cluster 159: 1510 - A Princesa e o Seu Chefe
 
 Total de livros do cluster 160: 10
 
+Centroide do cluster 160: 1535 - Mariah Mundi
+
 Total de livros do cluster 161: 3
+
+Centroide do cluster 161: 1541 - A Escolha Honrada & Desejo Sagrado
 
 Total de livros do cluster 162: 19
 
+Centroide do cluster 162: 1550 - Amantes Nas Sombras
+
 Total de livros do cluster 163: 16
+
+Centroide do cluster 163: 1553 - O Dono do Seu Coração
 
 Total de livros do cluster 164: 3
 
+Centroide do cluster 164: 1558 - Chantagear Uma Inocente
+
 Total de livros do cluster 165: 4
+
+Centroide do cluster 165: 1567 - 1968: O Ano que Não Terminou
 
 Total de livros do cluster 166: 3
 
+Centroide do cluster 166: 1571 - O Vendedor de Sonhos
+
 Total de livros do cluster 167: 11
+
+Centroide do cluster 167: 1615 - No Divã com Adão
 
 Total de livros do cluster 168: 6
 
+Centroide do cluster 168: 1617 - O Lobo de Wall Street
+
 Total de livros do cluster 169: 12
+
+Centroide do cluster 169: 1622 - Firmin
 
 Total de livros do cluster 170: 8
 
+Centroide do cluster 170: 1630 - Pocoyo e a Lagarta Valentina
+
 Total de livros do cluster 171: 5
+
+Centroide do cluster 171: 1632 - O CICLO DA AGUA
 
 Total de livros do cluster 172: 4
 
+Centroide do cluster 172: 1638 - Bendito Maldito
+
 Total de livros do cluster 173: 5
+
+Centroide do cluster 173: 1642 - Corações de Neve
 
 Total de livros do cluster 174: 6
 
+Centroide do cluster 174: 1646 - O Rastro do Jaguar
+
 Total de livros do cluster 175: 4
+
+Centroide do cluster 175: 1647 - Poesia completa
 
 Total de livros do cluster 176: 6
 
+Centroide do cluster 176: 1677 - Segredo do Amor
+
 Total de livros do cluster 177: 3
+
+Centroide do cluster 177: 1696 - Deus Existe?
 
 Total de livros do cluster 178: 3
 
+Centroide do cluster 178: 1712 - Desculpa Se Te Chamo de Amor
+
 Total de livros do cluster 179: 8
+
+Centroide do cluster 179: 1714 - Contra Um Mundo Melhor
 
 Total de livros do cluster 180: 3
 
+Centroide do cluster 180: 1716 - A menina que não sabia ler
+
 Total de livros do cluster 181: 9
+
+Centroide do cluster 181: 1730 - Ensaios
 
 Total de livros do cluster 182: 4
 
+Centroide do cluster 182: 1731 - A Guerra dos Tronos
+
 Total de livros do cluster 183: 6
+
+Centroide do cluster 183: 1737 - Tudo O Que É Sólido Pode Derreter
 
 Total de livros do cluster 184: 24
 
+Centroide do cluster 184: 1746 - Herdeiros do Deserto
+
 Total de livros do cluster 185: 12
+
+Centroide do cluster 185: 1760 - Um Homem Impiedoso
 
 Total de livros do cluster 186: 4
 
+Centroide do cluster 186: 1779 - Corra
+
 Total de livros do cluster 187: 4
+
+Centroide do cluster 187: 1781 - Ecopiratas: Uma aventura ecológica em Fernando de Noronha
 
 Total de livros do cluster 188: 11
 
+Centroide do cluster 188: 1819 - Palavras de poder
+
 Total de livros do cluster 189: 12
+
+Centroide do cluster 189: 1820 - Promessa de Compromisso
 
 Total de livros do cluster 190: 7
 
+Centroide do cluster 190: 1824 - O Festim dos Corvos
+
 Total de livros do cluster 191: 9
+
+Centroide do cluster 191: 1830 - Tudo por uma Família
 
 Total de livros do cluster 192: 14
 
+Centroide do cluster 192: 1852 - Corações em guerra
+
 Total de livros do cluster 193: 9
+
+Centroide do cluster 193: 1856 - O Sapo Que Queria Ser Príncipe
 
 Total de livros do cluster 194: 9
 
+Centroide do cluster 194: 1887 - Tudo E Mais Um Pouco: Volume 1
+
 Total de livros do cluster 195: 2
+
+Centroide do cluster 195: 1890 - A Fúria dos Reis
 
 Total de livros do cluster 196: 4
 
+Centroide do cluster 196: 1898 - Salinger
+
 Total de livros do cluster 197: 11
+
+Centroide do cluster 197: 1900 - Guia Politicamente Incorreto da América Latina
 
 Total de livros do cluster 198: 2
 
+Centroide do cluster 198: 1908 - Um Beijo, um toque, uma vida
+
 Total de livros do cluster 199: 4
+
+Centroide do cluster 199: 1910 - Romance Real
 
 Total de livros do cluster 200: 10
 
+Centroide do cluster 200: 1919 - Celebração do Amor
+
 Total de livros do cluster 201: 4
+
+Centroide do cluster 201: 1925 - A Arte da Tentação/Herança preciosa
 
 Total de livros do cluster 202: 2
 
+Centroide do cluster 202: 1945 - O Vendedor de Sonhos
+
 Total de livros do cluster 203: 8
+
+Centroide do cluster 203: 1950 - O Tempo Entre Costuras
 
 Total de livros do cluster 204: 9
 
+Centroide do cluster 204: 1963 - Metrô 2033
+
 Total de livros do cluster 205: 12
+
+Centroide do cluster 205: 1973 - Citações e Pensamentos de Nietzsche
 
 Total de livros do cluster 206: 5
 
+Centroide do cluster 206: 1983 - O Circo do Dr. Lao
+
 Total de livros do cluster 207: 6
+
+Centroide do cluster 207: 1993 - Dez Anos Que Encolheram o Mundo
 
 Total de livros do cluster 208: 11
 
+Centroide do cluster 208: 1996 - O Ano da Leitura Mágica
+
 Total de livros do cluster 209: 9
+
+Centroide do cluster 209: 1998 - O Zen e a Arte da Escrita
 
 Total de livros do cluster 210: 6
 
+Centroide do cluster 210: 2005 - Fator de Atração
+
 Total de livros do cluster 211: 5
+
+Centroide do cluster 211: 2023 - Os Irmãos Landis
 
 Total de livros do cluster 212: 3
 
+Centroide do cluster 212: 2028 - Um lugar no coração
+
 Total de livros do cluster 213: 3
+
+Centroide do cluster 213: 2033 - Hoje e Sempre
 
 Total de livros do cluster 214: 2
 
+Centroide do cluster 214: 2041 - O Vendedor de Armas
+
 Total de livros do cluster 215: 5
+
+Centroide do cluster 215: 2062 - Pocoyo. Aprende a Reciclar
 
 Total de livros do cluster 216: 7
 
+Centroide do cluster 216: 2064 - A esperança tem muitas faces
+
 Total de livros do cluster 217: 7
+
+Centroide do cluster 217: 2066 - A Fúria dos Reis
 
 Total de livros do cluster 218: 8
 
+Centroide do cluster 218: 2086 - O Pequeno Príncipe e o Pássaro de Fogo
+
 Total de livros do cluster 219: 9
+
+Centroide do cluster 219: 2092 - A Bandeira Vermelha
 
 Total de livros do cluster 220: 5
 
+Centroide do cluster 220: 2095 - Escândalos no Palácio
+
 Total de livros do cluster 221: 3
+
+Centroide do cluster 221: 2107 - Quente como o Verão
 
 Total de livros do cluster 222: 5
 
+Centroide do cluster 222: 2115 - Batalhas do Amor
+
 Total de livros do cluster 223: 21
+
+Centroide do cluster 223: 2140 - Diário da Carol
 
 Total de livros do cluster 224: 13
 
+Centroide do cluster 224: 2141 - Toupeira
+
 Total de livros do cluster 225: 13
+
+Centroide do cluster 225: 2179 - Herdeiros do Trono de Kyr
 
 Total de livros do cluster 226: 9
 
+Centroide do cluster 226: 2181 - Sua Santidade
+
 Total de livros do cluster 227: 8
+
+Centroide do cluster 227: 2183 - A Dança dos Dragões
 
 Total de livros do cluster 228: 10
 
+Centroide do cluster 228: 2188 - Inesperado
+
 Total de livros do cluster 229: 13
+
+Centroide do cluster 229: 2211 - Jesus de Nazaré
 
 Total de livros do cluster 230: 16
 
+Centroide do cluster 230: 2220 - O Sári Vermelho
+
 Total de livros do cluster 231: 10
+
+Centroide do cluster 231: 2221 - Amor
 
 Total de livros do cluster 232: 4
 
+Centroide do cluster 232: 2222 - O Enviado
+
 Total de livros do cluster 233: 8
+
+Centroide do cluster 233: 2225 - Destino, liberdade e alma
 
 Total de livros do cluster 234: 7
 
+Centroide do cluster 234: 2240 - Cervejas, Brejas & Birras
+
 Total de livros do cluster 235: 14
+
+Centroide do cluster 235: 2248 - Histórias de canções: Tom Jobim
 
 Total de livros do cluster 236: 8
 
+Centroide do cluster 236: 2249 - Almanaque das Drogas
+
 Total de livros do cluster 237: 6
+
+Centroide do cluster 237: 2257 - O Pequeno Príncipe - O Segredo da Eufonia
 
 Total de livros do cluster 238: 5
 
+Centroide do cluster 238: 2269 - Minha Dupla Vida
+
 Total de livros do cluster 239: 7
+
+Centroide do cluster 239: 2273 - Sedução entre Amantes
 
 Total de livros do cluster 240: 2
 
+Centroide do cluster 240: 2277 - Névoa Noturna
+
 Total de livros do cluster 241: 2
+
+Centroide do cluster 241: 2320 - O Colecionador de Lágrimas
 
 Total de livros do cluster 242: 7
 
+Centroide do cluster 242: 2328 - Clube da luta
+
 Total de livros do cluster 243: 8
+
+Centroide do cluster 243: 2329 - História Da Literatura Ocidental
 
 Total de livros do cluster 244: 10
 
+Centroide do cluster 244: 2338 - O Poder da Consciência
+
 Total de livros do cluster 245: 8
+
+Centroide do cluster 245: 2367 - Brincando com Fogo
 
 Total de livros do cluster 246: 6
 
+Centroide do cluster 246: 2388 - Beijo fatal & Razões do coração
+
 Total de livros do cluster 247: 6
+
+Centroide do cluster 247: 2407 - O Pequeno Príncipe e os Eolianos
 
 Total de livros do cluster 248: 15
 
+Centroide do cluster 248: 2416 - Dinheiro que dorme a onda leva
+
 Total de livros do cluster 249: 5
+
+Centroide do cluster 249: 2473 - Civilização - Ocidente x Oriente
 
 Total de livros do cluster 250: 13
 
+Centroide do cluster 250: 2482 - Lendas Urbanas 2
+
 Total de livros do cluster 251: 28
+
+Centroide do cluster 251: 2496 - Volta ao mundo
 
 Total de livros do cluster 252: 10
 
+Centroide do cluster 252: 2498 - Entendendo Economia
+
 Total de livros do cluster 253: 31
+
+Centroide do cluster 253: 2501 - O negociador é você
 
 Total de livros do cluster 254: 5
 
+Centroide do cluster 254: 2502 - A Propaganda Brasileira Depois de Washington Olivetto
+
 Total de livros do cluster 255: 10
+
+Centroide do cluster 255: 2506 - Procuram-se Super-heróis
 
 Total de livros do cluster 256: 4
 
+Centroide do cluster 256: 2509 - O Pequeno Príncipe
+
 Total de livros do cluster 257: 7
+
+Centroide do cluster 257: 2523 - Encontro de Almas
 
 Total de livros do cluster 258: 10
 
+Centroide do cluster 258: 2535 - Temporada de Escândalos
+
 Total de livros do cluster 259: 4
+
+Centroide do cluster 259: 2546 - A Infância de Jesus
 
 Total de livros do cluster 260: 20
 
+Centroide do cluster 260: 2547 - A Casa Real de Cacciatore
+
 Total de livros do cluster 261: 15
+
+Centroide do cluster 261: 2553 - Garotas Sérias
 
 Total de livros do cluster 262: 7
 
+Centroide do cluster 262: 2554 - Nossas fantasias mais íntimas
+
 Total de livros do cluster 263: 5
+
+Centroide do cluster 263: 2564 - A Chegada do Terceiro Reich
 
 Total de livros do cluster 264: 5
 
+Centroide do cluster 264: 2566 - Meus filhos Minotauro e Minotouro
+
 Total de livros do cluster 265: 9
+
+Centroide do cluster 265: 2575 - 50 noites em tons de cinza
 
 Total de livros do cluster 266: 7
 
+Centroide do cluster 266: 2577 - Mayombe
+
 Total de livros do cluster 267: 6
+
+Centroide do cluster 267: 2593 - Guia Politicamente Incorreto da História do Mundo
 
 Total de livros do cluster 268: 3
 
+Centroide do cluster 268: 2594 - Condenada
+
 Total de livros do cluster 269: 6
+
+Centroide do cluster 269: 2599 - Pura Picaretagem
 
 Total de livros do cluster 270: 4
 
+Centroide do cluster 270: 2612 - Armadilha para um amante
+
 Total de livros do cluster 271: 7
+
+Centroide do cluster 271: 2623 - Cativa do Inimigo & Somente a Negócios
 
 Total de livros do cluster 272: 8
 
+Centroide do cluster 272: 2624 - Doce Inocência & Amor Eterno
+
 Total de livros do cluster 273: 6
+
+Centroide do cluster 273: 2627 - Teia de traição & Nova missão
 
 Total de livros do cluster 274: 9
 
+Centroide do cluster 274: 2643 - A viagem proibida: Nas trilhas do ouro
+
 Total de livros do cluster 275: 3
+
+Centroide do cluster 275: 2661 - Iron Man
 
 Total de livros do cluster 276: 3
 
+Centroide do cluster 276: 2673 - Juliette Society
+
 Total de livros do cluster 277: 3
+
+Centroide do cluster 277: 2674 - Singular - O Poder de Ser Diferente
 
 Total de livros do cluster 278: 2
 
+Centroide do cluster 278: 2680 - Marvel Comics: A História Secreta
+
 Total de livros do cluster 279: 9
+
+Centroide do cluster 279: 2683 - O Começo de Tudo
 
 Total de livros do cluster 280: 8
 
+Centroide do cluster 280: 2686 - Game of Thrones
+
 Total de livros do cluster 281: 10
+
+Centroide do cluster 281: 2689 - Noites de Esperança
 
 Total de livros do cluster 282: 5
 
+Centroide do cluster 282: 2701 - Tempo de Amor
+
 Total de livros do cluster 283: 4
+
+Centroide do cluster 283: 2705 - Artimanhas do Destino (Bought: Destitute Yet Defiant)
 
 Total de livros do cluster 284: 11
 
+Centroide do cluster 284: 2710 - Revelações do Amor
+
 Total de livros do cluster 285: 11
+
+Centroide do cluster 285: 2713 - Voz do Coração
 
 Total de livros do cluster 286: 6
 
+Centroide do cluster 286: 2722 - O Terceiro Reich no Poder
+
 Total de livros do cluster 287: 8
+
+Centroide do cluster 287: 2725 - A Década Roubada
 
 Total de livros do cluster 288: 20
 
+Centroide do cluster 288: 2733 - O Horror da Guerra
+
 Total de livros do cluster 289: 3
+
+Centroide do cluster 289: 2749 - Você Não é Tão Esperto Quanto Pensa
 
 Total de livros do cluster 290: 4
 
+Centroide do cluster 290: 2750 - Tentação
+
 Total de livros do cluster 291: 5
+
+Centroide do cluster 291: 2764 - UM PRAZER FUGAZ
 
 Total de livros do cluster 292: 3
 
+Centroide do cluster 292: 2766 - Amy e o Clube dos 27
+
 Total de livros do cluster 293: 15
+
+Centroide do cluster 293: 2801 - Once upon a time
 
 Total de livros do cluster 294: 4
 
+Centroide do cluster 294: 2813 - Dexter
+
 Total de livros do cluster 295: 10
+
+Centroide do cluster 295: 2826 - O Nome de Deus É Misericórdia
 
 Total de livros do cluster 296: 4
 
+Centroide do cluster 296: 2839 - Conversas Sobre Politica
+
 Total de livros do cluster 297: 4
+
+Centroide do cluster 297: 2844 - Espelho, espelho meu, quem sou eu?
 
 Total de livros do cluster 298: 4
 
+Centroide do cluster 298: 2853 - Ponto De Impacto
+
 Total de livros do cluster 299: 8
+
+Centroide do cluster 299: 2863 - Fortaleza Digital
 
 Total de livros do cluster 300: 4
 
+Centroide do cluster 300: 2865 - O Símbolo Perdido
+
 Total de livros do cluster 301: 4
+
+Centroide do cluster 301: 2866 - O Guardião de Memórias
 
 Total de livros do cluster 302: 5
 
+Centroide do cluster 302: 2874 - Julieta
+
 Total de livros do cluster 303: 15
+
+Centroide do cluster 303: 2879 - O Dia da Caça
 
 Total de livros do cluster 304: 9
 
+Centroide do cluster 304: 2880 - 4 de Julho
+
 Total de livros do cluster 305: 11
+
+Centroide do cluster 305: 2887 - A Maldição do Tigre
 
 Total de livros do cluster 306: 4
 
+Centroide do cluster 306: 2891 - A Linguagem das Flores
+
 Total de livros do cluster 307: 2
+
+Centroide do cluster 307: 2896 - Dragões de Éter
 
 Total de livros do cluster 308: 6
 
+Centroide do cluster 308: 2903 - O Mundo de Gelo e Fogo
+
 Total de livros do cluster 309: 9
+
+Centroide do cluster 309: 2904 - O Cavaleiro dos Sete Reinos
 
 Total de livros do cluster 310: 7
 
+Centroide do cluster 310: 2913 - O Dragão de Gelo
+
 Total de livros do cluster 311: 7
+
+Centroide do cluster 311: 2914 - Box - As crônicas de gelo e fogo
 
 Total de livros do cluster 312: 10
 
+Centroide do cluster 312: 2926 - Mestres do Comando
+
 Total de livros do cluster 313: 4
+
+Centroide do cluster 313: 2931 - A Canção do Sangue
 
 Total de livros do cluster 314: 10
 
+Centroide do cluster 314: 2935 - Os Diários Secretos de Agatha Christie
+
 Total de livros do cluster 315: 2
+
+Centroide do cluster 315: 2962 - Pablo Escobar: Meu Pai
 
 Total de livros do cluster 316: 13
 
+Centroide do cluster 316: 2979 - Nany People - Ser Mulher Não É Para Qualquer Um
+
 Total de livros do cluster 317: 4
+
+Centroide do cluster 317: 2986 - Tempo de Esperas
 
 Total de livros do cluster 318: 6
 
+Centroide do cluster 318: 2997 - Educação dos Sentidos e mais ...
+
 Total de livros do cluster 319: 6
+
+Centroide do cluster 319: 3000 - A Magia da Camisa 10
 
 Total de livros do cluster 320: 22
 
+Centroide do cluster 320: 3008 - 8 Minutos de Meditação
+
 Total de livros do cluster 321: 14
+
+Centroide do cluster 321: 3017 - Feche Bem os Olhos
 
 Total de livros do cluster 322: 22
 
+Centroide do cluster 322: 3022 - Pequeno Livro do Vinho
+
 Total de livros do cluster 323: 21
+
+Centroide do cluster 323: 3023 - O Casamento
 
 Total de livros do cluster 324: 7
 
+Centroide do cluster 324: 3026 - O Melhor de Mim
+
 Total de livros do cluster 325: 1
+
+Centroide do cluster 325: 3035 - A Travessia
 
 Total de livros do cluster 326: 5
 
+Centroide do cluster 326: 3037 - Private - Agência Internacional de Investigações
+
 Total de livros do cluster 327: 5
+
+Centroide do cluster 327: 3040 - O caminho para casa
 
 Total de livros do cluster 328: 13
 
+Centroide do cluster 328: 3048 - Inverno do Mundo
+
 Total de livros do cluster 329: 6
+
+Centroide do cluster 329: 3066 - Eduardo Campos
 
 Total de livros do cluster 330: 2
 
+Centroide do cluster 330: 3070 - Willow
+
 Total de livros do cluster 331: 9
+
+Centroide do cluster 331: 3075 - Entendendo Inteligência Artificial
 
 Total de livros do cluster 332: 4
 
+Centroide do cluster 332: 3077 - O Aprendiz de Assassino
+
 Total de livros do cluster 333: 2
+
+Centroide do cluster 333: 3081 - Horizonte (Horizon)
 
 Total de livros do cluster 334: 3
 
+Centroide do cluster 334: 3087 - A Menina Que Não Sabia Ler
+
 Total de livros do cluster 335: 11
+
+Centroide do cluster 335: 3108 - Tudo por um Cowboy
 
 Total de livros do cluster 336: 15
 
+Centroide do cluster 336: 3115 - Moda Intuitiva
+
 Total de livros do cluster 337: 13
+
+Centroide do cluster 337: 3130 - Os Judeus Que Construíram O Brasil
 
 Total de livros do cluster 338: 3
 
+Centroide do cluster 338: 3138 - Cavalo de Troia 5
+
 Total de livros do cluster 339: 2
+
+Centroide do cluster 339: 3152 - Over the rainbow
 
 Total de livros do cluster 340: 6
 
+Centroide do cluster 340: 3156 - O Mundo Num Grão de Areia
+
 Total de livros do cluster 341: 5
+
+Centroide do cluster 341: 3157 - Pequeno Livro de Estilo
 
 Total de livros do cluster 342: 7
 
+Centroide do cluster 342: 3165 - 50 clássicos que não podem faltar na sua biblioteca
+
 Total de livros do cluster 343: 14
+
+Centroide do cluster 343: 3167 - Pequeno livro de cozinha
 
 Total de livros do cluster 344: 21
 
+Centroide do cluster 344: 3173 - Criança Tem Cada Uma
+
 Total de livros do cluster 345: 5
+
+Centroide do cluster 345: 3175 - O que é Zen ?
 
 Total de livros do cluster 346: 7
 
+Centroide do cluster 346: 3180 - Sobre Demônios e Pecados
+
 Total de livros do cluster 347: 4
+
+Centroide do cluster 347: 3193 - Inferno
 
 Total de livros do cluster 348: 2
 
+Centroide do cluster 348: 3206 - O Guardião
+
 Total de livros do cluster 349: 11
+
+Centroide do cluster 349: 3208 - Uma Longa Jornada
 
 Total de livros do cluster 350: 4
 
+Centroide do cluster 350: 3220 - Os Doze
+
 Total de livros do cluster 351: 4
+
+Centroide do cluster 351: 3221 - Uma Questão de Segundos
 
 Total de livros do cluster 352: 3
 
+Centroide do cluster 352: 3224 - O Trono do Sol - A Magia da Aurora
+
 Total de livros do cluster 353: 8
+
+Centroide do cluster 353: 3227 - 50 Pensadores que Formam o Mundo Moderno
 
 Total de livros do cluster 354: 7
 
+Centroide do cluster 354: 3228 - Fogo
+
 Total de livros do cluster 355: 6
+
+Centroide do cluster 355: 3233 - Guia Politicamente Incorreto do Futebol
 
 Total de livros do cluster 356: 8
 
+Centroide do cluster 356: 3235 - Pegasus e as Origens do Olimpo
+
 Total de livros do cluster 357: 3
+
+Centroide do cluster 357: 3249 - A Dança dos Dragões
 
 Total de livros do cluster 358: 8
 
+Centroide do cluster 358: 3252 - Tentação Proibida
+
 Total de livros do cluster 359: 16
+
+Centroide do cluster 359: 3260 - Ousada Debutante
 
 Total de livros do cluster 360: 4
 
+Centroide do cluster 360: 3266 - Sangue de Guerreiro
+
 Total de livros do cluster 361: 6
+
+Centroide do cluster 361: 3267 - Noiva e Inocente & Novo Destino
 
 Total de livros do cluster 362: 3
 
+Centroide do cluster 362: 3277 - Paixão Índia
+
 Total de livros do cluster 363: 9
+
+Centroide do cluster 363: 3280 - As Grandes Mentiras Sobre A Igreja Católica
 
 Total de livros do cluster 364: 5
 
+Centroide do cluster 364: 3289 - O Órfão de Hitler
+
 Total de livros do cluster 365: 8
+
+Centroide do cluster 365: 3291 - Trabalhe 4 Horas por Semana (ampliado e atualizado)
 
 Total de livros do cluster 366: 6
 
+Centroide do cluster 366: 3299 - Ao professor, com o meu carinho
+
 Total de livros do cluster 367: 6
+
+Centroide do cluster 367: 3301 - A Batalha do Apocalipse
 
 Total de livros do cluster 368: 11
 
+Centroide do cluster 368: 3303 - Pequeno Livro de Cruzeiros
+
 Total de livros do cluster 369: 7
+
+Centroide do cluster 369: 3314 - Piadas Nerds
 
 Total de livros do cluster 370: 9
 
+Centroide do cluster 370: 3329 - Roleta Russa
+
 Total de livros do cluster 371: 6
+
+Centroide do cluster 371: 3350 - Perdido em Marte
 
 Total de livros do cluster 372: 7
 
+Centroide do cluster 372: 3353 - O Desertor
+
 Total de livros do cluster 373: 3
+
+Centroide do cluster 373: 3355 - Uma Carta de Amor
 
 Total de livros do cluster 374: 7
 
+Centroide do cluster 374: 3358 - A Tormenta de Espadas
+
 Total de livros do cluster 375: 2
+
+Centroide do cluster 375: 3359 - Guia politicamente incorreto da filosofia
 
 Total de livros do cluster 376: 7
 
+Centroide do cluster 376: 3365 - INVEJA: COMO ELA MUDOU A HISTORIA DO MUNDO
+
 Total de livros do cluster 377: 6
+
+Centroide do cluster 377: 3377 - Jogador Nº 1
 
 Total de livros do cluster 378: 11
 
+Centroide do cluster 378: 3378 - Cinderela
+
 Total de livros do cluster 379: 6
+
+Centroide do cluster 379: 3380 - A Fúria Dos Reis
 
 Total de livros do cluster 380: 22
 
+Centroide do cluster 380: 3381 - A Guerra dos Tronos
+
 Total de livros do cluster 381: 6
+
+Centroide do cluster 381: 3391 - Devoção
 
 Total de livros do cluster 382: 5
 
+Centroide do cluster 382: 3392 - Cinema no Divã
+
 Total de livros do cluster 383: 15
+
+Centroide do cluster 383: 3409 - Valor da Inocência
 
 Total de livros do cluster 384: 13
 
+Centroide do cluster 384: 3420 - Profissão Repórter 10 Anos
+
 Total de livros do cluster 385: 5
+
+Centroide do cluster 385: 3421 - Inocência, conhecimento e encantamento
 
 Total de livros do cluster 386: 10
 
+Centroide do cluster 386: 3427 - Império
+
 Total de livros do cluster 387: 3
+
+Centroide do cluster 387: 3440 - Pequeno Livro de Maquiagem
 
 Total de livros do cluster 388: 4
 
+Centroide do cluster 388: 3456 - Se eu pudesse viver minha vida novamente...
+
 Total de livros do cluster 389: 7
+
+Centroide do cluster 389: 3467 - Os Assassinos do Cartão-Postal
 
 Total de livros do cluster 390: 3
 
+Centroide do cluster 390: 3477 - Amaldiçoadas
+
 Total de livros do cluster 391: 15
+
+Centroide do cluster 391: 3483 - Noites de Tormenta
 
 Total de livros do cluster 392: 4
 
+Centroide do cluster 392: 3484 - Amaldiçoado
+
 Total de livros do cluster 393: 20
+
+Centroide do cluster 393: 3519 - A Melhor Coisa Que Nunca Aconteceu na Minha Vida
 
 Total de livros do cluster 394: 5
 
+Centroide do cluster 394: 3525 - O Pequeno Príncipe
+
 Total de livros do cluster 395: 3
+
+Centroide do cluster 395: 3529 - Crash - Uma Breve História da Economia
 
 Total de livros do cluster 396: 13
 
+Centroide do cluster 396: 3537 - Mapa Para a Sedução
+
 Total de livros do cluster 397: 10
+
+Centroide do cluster 397: 3558 - Extremos do Amor
 
 Total de livros do cluster 398: 4
 
+Centroide do cluster 398: 3570 - Momentos de Reflexão
+
 Total de livros do cluster 399: 7
+
+Centroide do cluster 399: 3571 - O Princípio do Fim
 
 Total de livros do cluster 400: 3
 
+Centroide do cluster 400: 3573 - Outros Jeitos de Usar a Boca
+
 Total de livros do cluster 401: 4
+
+Centroide do cluster 401: 3575 - O Tempo Entre Costuras
 
 Total de livros do cluster 402: 4
 
+Centroide do cluster 402: 3578 - Bem Profundo
+
 Total de livros do cluster 403: 4
+
+Centroide do cluster 403: 3580 - Saga Três Luas. Lua Azul - Livro 1
 
 Total de livros do cluster 404: 8
 
+Centroide do cluster 404: 3593 - O Sorriso das Mulheres
+
 Total de livros do cluster 405: 1
+
+Centroide do cluster 405: 3597 - Filhos do Éden
 
 Total de livros do cluster 406: 3
 
+Centroide do cluster 406: 3601 - Viagem ao Fundo do Mar
+
 Total de livros do cluster 407: 4
+
+Centroide do cluster 407: 3613 - Andando Nas Nuvens
 
 Total de livros do cluster 408: 7
 
+Centroide do cluster 408: 3617 - Rush Sem Limites
+
 Total de livros do cluster 409: 5
+
+Centroide do cluster 409: 3624 - Lições do Desejo
 
 Total de livros do cluster 410: 6
 
+Centroide do cluster 410: 3625 - As Regras da Sedução
+
 Total de livros do cluster 411: 5
+
+Centroide do cluster 411: 3648 - O Príncipe das Sombras
 
 Total de livros do cluster 412: 10
 
+Centroide do cluster 412: 3652 - O Manuscrito
+
 Total de livros do cluster 413: 33
+
+Centroide do cluster 413: 3656 - 101 Maneiras Infalíveis de Dizer Eu Te Amo - Com Cartões Descartáveis!
 
 Total de livros do cluster 414: 5
 
+Centroide do cluster 414: 3660 - Livro - Box - Wayne de Gotham, Os Últimos Dias de Krypton
+
 Total de livros do cluster 415: 2
+
+Centroide do cluster 415: 3667 - Sorvete & Depressão
 
 Total de livros do cluster 416: 6
 
+Centroide do cluster 416: 3676 - Zangado
+
 Total de livros do cluster 417: 5
+
+Centroide do cluster 417: 3682 - Scrum. A Arte de Fazer o Trabalho na Metade do Tempo
 
 Total de livros do cluster 418: 6
 
+Centroide do cluster 418: 3697 - Sr. G
+
 Total de livros do cluster 419: 6
+
+Centroide do cluster 419: 3720 - História Bizarra da Literatura Brasileira
 
 Total de livros do cluster 420: 4
 
+Centroide do cluster 420: 3730 - Silêncio
+
 Total de livros do cluster 421: 9
+
+Centroide do cluster 421: 3731 - Deu bolo
 
 Total de livros do cluster 422: 5
 
+Centroide do cluster 422: 3735 - No Limite da Ousadia
+
 Total de livros do cluster 423: 1
+
+Centroide do cluster 423: 3737 - Filhos do Éden
 
 Total de livros do cluster 424: 12
 
+Centroide do cluster 424: 3741 - De Menina a Mulher
+
 Total de livros do cluster 425: 3
+
+Centroide do cluster 425: 3750 - Perdidos Na Babilônia
 
 Total de livros do cluster 426: 11
 
+Centroide do cluster 426: 3756 - Diário de Uma Garota Nada Popular - Vol. 6,5
+
 Total de livros do cluster 427: 15
+
+Centroide do cluster 427: 3761 - O Guia do Herói Para Invadir O Castelo
 
 Total de livros do cluster 428: 7
 
+Centroide do cluster 428: 3763 - Culture Smart! Alemanha
+
 Total de livros do cluster 429: 7
+
+Centroide do cluster 429: 3767 - A Viajante do Tempo
 
 Total de livros do cluster 430: 1
 
+Centroide do cluster 430: 3779 - A Travessia
+
 Total de livros do cluster 431: 8
+
+Centroide do cluster 431: 3793 - A Irmã da Tempestade
 
 Total de livros do cluster 432: 11
 
+Centroide do cluster 432: 3800 - O Guia Definitivo do Mochileiro das Galáxias
+
 Total de livros do cluster 433: 3
+
+Centroide do cluster 433: 3803 - Guia Politicamente Incorreto dos Presidentes da República
 
 Total de livros do cluster 434: 4
 
+Centroide do cluster 434: 3807 - Alien
+
 Total de livros do cluster 435: 8
+
+Centroide do cluster 435: 3808 - Churchill - Uma Vida
 
 Total de livros do cluster 436: 40
 
+Centroide do cluster 436: 3815 - 1965
+
 Total de livros do cluster 437: 7
+
+Centroide do cluster 437: 3817 - BOX Espadachim de Carvão
 
 Total de livros do cluster 438: 6
 
+Centroide do cluster 438: 3827 - A Rosa Branca
+
 Total de livros do cluster 439: 12
+
+Centroide do cluster 439: 3828 - COLÔNIA
 
 Total de livros do cluster 440: 8
 
+Centroide do cluster 440: 3843 - Amor Profundo
+
 Total de livros do cluster 441: 7
+
+Centroide do cluster 441: 3844 - Troca de Aliança & Dois Amores, Uma Vida
 
 Total de livros do cluster 442: 7
 
+Centroide do cluster 442: 3856 - Por que fazemos o que fazemos?
+
 Total de livros do cluster 443: 6
+
+Centroide do cluster 443: 3860 - Eric Clapton: a autobiografia
 
 Total de livros do cluster 444: 4
 
+Centroide do cluster 444: 3867 - Astrofísica Para Apressados
+
 Total de livros do cluster 445: 3
+
+Centroide do cluster 445: 3871 - Cantos do pássaro encantado
 
 Total de livros do cluster 446: 2
 
+Centroide do cluster 446: 3876 - Quem me roubou de mim?
+
 Total de livros do cluster 447: 8
+
+Centroide do cluster 447: 3886 - Doce Perdão
 
 Total de livros do cluster 448: 4
 
+Centroide do cluster 448: 3891 - Uma Chama Entre As Cinzas
+
 Total de livros do cluster 449: 4
+
+Centroide do cluster 449: 3911 - Volta Para Mim
 
 Total de livros do cluster 450: 3
 
+Centroide do cluster 450: 3918 - Depois Daquela Montanha
+
 Total de livros do cluster 451: 17
+
+Centroide do cluster 451: 3922 - As Cores Da Vida
 
 Total de livros do cluster 452: 5
 
+Centroide do cluster 452: 3927 - Os Tambores de Outono
+
 Total de livros do cluster 453: 7
+
+Centroide do cluster 453: 3938 - Um Novo Amanhã
 
 Total de livros do cluster 454: 3
 
+Centroide do cluster 454: 3941 - Sedução da Seda
+
 Total de livros do cluster 455: 3
+
+Centroide do cluster 455: 3947 - À Primeira Vista
 
 Total de livros do cluster 456: 28
 
+Centroide do cluster 456: 3953 - Os Filhos da Mãe
+
 Total de livros do cluster 457: 8
+
+Centroide do cluster 457: 3967 - Superman. Os Arquivos Secretos do Homem de Aço
 
 Total de livros do cluster 458: 6
 
+Centroide do cluster 458: 3971 - A autobiografia de Fidel Castro
+
 Total de livros do cluster 459: 3
+
+Centroide do cluster 459: 3990 - O que o sol faz com as flores
 
 Total de livros do cluster 460: 3
 
+Centroide do cluster 460: 3996 - Em Busca de Watership Down
+
 Total de livros do cluster 461: 3
+
+Centroide do cluster 461: 4000 - Renato Russo
 
 Total de livros do cluster 462: 16
 
+Centroide do cluster 462: 4007 - O diário de sonhos
+
 Total de livros do cluster 463: 14
+
+Centroide do cluster 463: 4009 - O Dilema do Porco-Espinho
 
 Total de livros do cluster 464: 5
 
+Centroide do cluster 464: 4021 - Bela Redenção
+
 Total de livros do cluster 465: 4
+
+Centroide do cluster 465: 4022 - A casa da floresta
 
 Total de livros do cluster 466: 14
 
+Centroide do cluster 466: 4023 - O Primeiro Último Beijo
+
 Total de livros do cluster 467: 14
+
+Centroide do cluster 467: 4033 - A Garota do Calendário - Maio
 
 Total de livros do cluster 468: 5
 
+Centroide do cluster 468: 4034 - As Épicas Aventuras de Lydia Bennet
+
 Total de livros do cluster 469: 8
+
+Centroide do cluster 469: 4055 - Como Se Casar Com Um Marquês
 
 Total de livros do cluster 470: 4
 
+Centroide do cluster 470: 4068 - Dois a Dois
+
 Total de livros do cluster 471: 5
+
+Centroide do cluster 471: 4096 - Pegando Fogo
 
 Total de livros do cluster 472: 4
 
+Centroide do cluster 472: 4102 - Às na manga
+
 Total de livros do cluster 473: 11
+
+Centroide do cluster 473: 4109 - A Lei da Atração
 
 Total de livros do cluster 474: 20
 
+Centroide do cluster 474: 4127 - Almanova
+
 Total de livros do cluster 475: 7
+
+Centroide do cluster 475: 4164 - O Destino de Um Sheik
 
 Total de livros do cluster 476: 9
 
+Centroide do cluster 476: 4170 - Nosso amor + Seu amor, sua vida
+
 Total de livros do cluster 477: 20
+
+Centroide do cluster 477: 4174 - Beijos de Um Grego
 
 Total de livros do cluster 478: 22
 
+Centroide do cluster 478: 4183 - O Tatuador de Auschwitz
+
 Total de livros do cluster 479: 10
+
+Centroide do cluster 479: 4187 - Espiritualidade para corajosos
 
 Total de livros do cluster 480: 11
 
+Centroide do cluster 480: 4189 - Cozinhe com os monges
+
 Total de livros do cluster 481: 3
+
+Centroide do cluster 481: 4210 - Tudo o que nunca contei
 
 Total de livros do cluster 482: 32
 
+Centroide do cluster 482: 4221 - Como combater a fúria de um dragão
+
 Total de livros do cluster 483: 3
+
+Centroide do cluster 483: 4224 - Os 27 Crushes de Molly
 
 Total de livros do cluster 484: 44
 
+Centroide do cluster 484: 4225 - Amor & Gelato
+
 Total de livros do cluster 485: 2
+
+Centroide do cluster 485: 4230 - Destrua Este Diário
 
 Total de livros do cluster 486: 4
 
+Centroide do cluster 486: 4232 - O Ego é Seu Inimigo
+
 Total de livros do cluster 487: 5
+
+Centroide do cluster 487: 4233 - Cinquenta Tons Mais Escuros
 
 Total de livros do cluster 488: 3
 
+Centroide do cluster 488: 4234 - Matéria Escura
+
 Total de livros do cluster 489: 3
+
+Centroide do cluster 489: 4240 - O Caminho da Porcelana
 
 Total de livros do cluster 490: 2
 
+Centroide do cluster 490: 4241 - Baseado em Fatos Reais
+
 Total de livros do cluster 491: 3
+
+Centroide do cluster 491: 4247 - Ilustre Poesia
 
 Total de livros do cluster 492: 3
 
+Centroide do cluster 492: 4248 - O Adulto
+
 Total de livros do cluster 493: 5
+
+Centroide do cluster 493: 4252 - Como Eu Era Antes de Você
 
 Total de livros do cluster 494: 4
 
+Centroide do cluster 494: 4253 - Depois de você
+
 Total de livros do cluster 495: 8
+
+Centroide do cluster 495: 4262 - F de falcão
 
 Total de livros do cluster 496: 8
 
+Centroide do cluster 496: 4263 - Box Coleção Ditadura
+
 Total de livros do cluster 497: 22
+
+Centroide do cluster 497: 4271 - Para Todos os Garotos que Já Amei
 
 Total de livros do cluster 498: 6
 
+Centroide do cluster 498: 4278 - História do Futuro
+
 Total de livros do cluster 499: 9
+
+Centroide do cluster 499: 4279 - Crepúsculo
 
 Total de livros do cluster 500: 5
 
+Centroide do cluster 500: 4293 - A Espada do Verão
+
 Total de livros do cluster 501: 13
+
+Centroide do cluster 501: 4294 - Percy Jackson e os Deuses Gregos
 
 Total de livros do cluster 502: 8
 
+Centroide do cluster 502: 4296 - Estrela da Noite
+
 Total de livros do cluster 503: 6
+
+Centroide do cluster 503: 4301 - Half Bad
 
 Total de livros do cluster 504: 10
 
+Centroide do cluster 504: 4316 - O Herói Perdido
+
 Total de livros do cluster 505: 2
+
+Centroide do cluster 505: 4327 - Ache Momo
 
 Total de livros do cluster 506: 3
 
+Centroide do cluster 506: 4335 - A Casa de Hades
+
 Total de livros do cluster 507: 2
+
+Centroide do cluster 507: 4339 - O Sinal e O Ruído
 
 Total de livros do cluster 508: 18
 
+Centroide do cluster 508: 4341 - Silêncio
+
 Total de livros do cluster 509: 6
+
+Centroide do cluster 509: 4342 - Inferno: O mundo em guerra 1939-1945
 
 Total de livros do cluster 510: 6
 
+Centroide do cluster 510: 4344 - Guia Definitivo
+
 Total de livros do cluster 511: 3
+
+Centroide do cluster 511: 4348 - No escuro
 
 Total de livros do cluster 512: 5
 
+Centroide do cluster 512: 4349 - A Menina que Roubava Livros
+
 Total de livros do cluster 513: 4
+
+Centroide do cluster 513: 4350 - Perdão, Leonard Peacock
 
 Total de livros do cluster 514: 2
 
+Centroide do cluster 514: 4357 - Selvagens
+
 Total de livros do cluster 515: 4
+
+Centroide do cluster 515: 4382 - Lua Nova
 
 Total de livros do cluster 516: 6
 
+Centroide do cluster 516: 4392 - Eclipse
+
 Total de livros do cluster 517: 6
+
+Centroide do cluster 517: 4400 - Crepúsculo
 
 Total de livros do cluster 518: 12
 
+Centroide do cluster 518: 4402 - O Ladrão de Raios
+
 Total de livros do cluster 519: 3
+
+Centroide do cluster 519: 4404 - Os forasteiros
 
 Total de livros do cluster 520: 14
 
+Centroide do cluster 520: 4418 - Em Defesa da Comida
+
 Total de livros do cluster 521: 7
+
+Centroide do cluster 521: 4425 - O Quadro Perdido
 
 Total de livros do cluster 522: 2
 
+Centroide do cluster 522: 4434 - Para Sempre
+
 Total de livros do cluster 523: 4
+
+Centroide do cluster 523: 4435 - COMO A GERAÇAO SEXO-DROGAS-E-ROCK'N'ROLL SALVOU HOLLYWOOD
 
 Total de livros do cluster 524: 5
 
+Centroide do cluster 524: 4438 - O Mar de Monstros
+
 Total de livros do cluster 525: 4
+
+Centroide do cluster 525: 4451 - A Maldição do Titã
 
 Total de livros do cluster 526: 2
 
+Centroide do cluster 526: 4460 - O Último Olimpiano
+
 Total de livros do cluster 527: 13
+
+Centroide do cluster 527: 4464 - A Pirâmide Vermelha
 
 Total de livros do cluster 528: 8
 
+Centroide do cluster 528: 4471 - Como falar dragonês
+
 Total de livros do cluster 529: 3
+
+Centroide do cluster 529: 4481 - Terra de Sombras
 
 Total de livros do cluster 530: 4
 
+Centroide do cluster 530: 4487 - O Hipnotista
+
 Total de livros do cluster 531: 8
+
+Centroide do cluster 531: 4496 - Chama Negra
 
 Total de livros do cluster 532: 10
 
+Centroide do cluster 532: 4497 - Crepúsculo: Guia Oficial Ilustrado da Série
+
 Total de livros do cluster 533: 5
+
+Centroide do cluster 533: 4498 - Dupla Falta
 
 Total de livros do cluster 534: 13
 
+Centroide do cluster 534: 4503 - O Poder dos Seis
+
 Total de livros do cluster 535: 11
+
+Centroide do cluster 535: 4504 - Antes Que Eu Vá
 
 Total de livros do cluster 536: 7
 
+Centroide do cluster 536: 4505 - Amanhecer
+
 Total de livros do cluster 537: 6
+
+Centroide do cluster 537: 4509 - Um Dia
 
 Total de livros do cluster 538: 8
 
+Centroide do cluster 538: 4514 - A Hospedeira
+
 Total de livros do cluster 539: 12
+
+Centroide do cluster 539: 4523 - Religião para Ateus
 
 Total de livros do cluster 540: 13
 
+Centroide do cluster 540: 4542 - Vaclav & Lena
+
 Total de livros do cluster 541: 10
+
+Centroide do cluster 541: 4554 - A Culpa é das Estrelas
 
 Total de livros do cluster 542: 2
 
+Centroide do cluster 542: 4559 - Precisamos Falar Sobre o Kevin
+
 Total de livros do cluster 543: 2
+
+Centroide do cluster 543: 4560 - O Circo da Noite
 
 Total de livros do cluster 544: 6
 
+Centroide do cluster 544: 4575 - Cinquenta Tons de Liberdade
+
 Total de livros do cluster 545: 3
+
+Centroide do cluster 545: 4584 - Argo
 
 Total de livros do cluster 546: 4
 
+Centroide do cluster 546: 4588 - Extraordinário
+
 Total de livros do cluster 547: 8
+
+Centroide do cluster 547: 4598 - Sal, um prólogo
 
 Total de livros do cluster 548: 4
 
+Centroide do cluster 548: 4600 - Vidas Provisórias
+
 Total de livros do cluster 549: 5
+
+Centroide do cluster 549: 4606 - A Caçada
 
 Total de livros do cluster 550: 5
 
+Centroide do cluster 550: 4613 - Minha Breve História
+
 Total de livros do cluster 551: 5
+
+Centroide do cluster 551: 4631 - A Nova Era Digital
 
 Total de livros do cluster 552: 8
 
+Centroide do cluster 552: 4635 - A Evolução de Bruno Littlemore
+
 Total de livros do cluster 553: 5
+
+Centroide do cluster 553: 4643 - Muncle Trogg e o Burro Voador
 
 Total de livros do cluster 554: 2
 
+Centroide do cluster 554: 4646 - Infinito
+
 Total de livros do cluster 555: 3
+
+Centroide do cluster 555: 4648 - O Lado Bom da Vida
 
 Total de livros do cluster 556: 3
 
+Centroide do cluster 556: 4652 - Garota Exemplar
+
 Total de livros do cluster 557: 7
+
+Centroide do cluster 557: 4662 - A Ditadura Escancarada
 
 Total de livros do cluster 558: 13
 
+Centroide do cluster 558: 4670 - Destrua Este Diário
+
 Total de livros do cluster 559: 6
+
+Centroide do cluster 559: 4671 - A Garota Que Você Deixou Para Trás
 
 Total de livros do cluster 560: 16
 
+Centroide do cluster 560: 4675 - Origens
+
 Total de livros do cluster 561: 4
+
+Centroide do cluster 561: 4677 - O Teorema Katherine
 
 Total de livros do cluster 562: 4
 
+Centroide do cluster 562: 4684 - Quem é Você, Alasca?
+
 Total de livros do cluster 563: 4
+
+Centroide do cluster 563: 4696 - Cidades de Papel
 
 Total de livros do cluster 564: 4
 
+Centroide do cluster 564: 4698 - Fantasma
+
 Total de livros do cluster 565: 2
+
+Centroide do cluster 565: 4699 - O Código Bro
 
 Total de livros do cluster 566: 13
 
+Centroide do cluster 566: 4703 - Arte Como Terapia
+
 Total de livros do cluster 567: 3
+
+Centroide do cluster 567: 4714 - The Leftovers
 
 Total de livros do cluster 568: 3
 
+Centroide do cluster 568: 4730 - Tempos Extremos
+
 Total de livros do cluster 569: 4
+
+Centroide do cluster 569: 4732 - O Rei de Amarelo
 
 Total de livros do cluster 570: 5
 
+Centroide do cluster 570: 4734 - O Ladrão de Raios
+
 Total de livros do cluster 571: 5
+
+Centroide do cluster 571: 4748 - Playbook - O Manual da Conquista
 
 Total de livros do cluster 572: 6
 
+Centroide do cluster 572: 4749 - Sharp Objects: Objetos Cortantes
+
 Total de livros do cluster 573: 10
+
+Centroide do cluster 573: 4764 - Shingaling
 
 Total de livros do cluster 574: 4
 
+Centroide do cluster 574: 4769 - Uma Breve História do Tempo
+
 Total de livros do cluster 575: 2
+
+Centroide do cluster 575: 4771 - Aliança do Crime
 
 Total de livros do cluster 576: 3
 
+Centroide do cluster 576: 4772 - Os dois terríveis
+
 Total de livros do cluster 577: 3
+
+Centroide do cluster 577: 4773 - Um Mais Um
 
 Total de livros do cluster 578: 3
 
+Centroide do cluster 578: 4784 - Não se apega, não
+
 Total de livros do cluster 579: 8
+
+Centroide do cluster 579: 4793 - Operação impensável
 
 Total de livros do cluster 580: 12
 
+Centroide do cluster 580: 4796 - Lugares escuros
+
 Total de livros do cluster 581: 2
+
+Centroide do cluster 581: 4800 - João e Maria
 
 Total de livros do cluster 582: 12
 
+Centroide do cluster 582: 4807 - O Destino da Número Dez
+
 Total de livros do cluster 583: 9
+
+Centroide do cluster 583: 4808 - A Economia da Desigualdade
 
 Total de livros do cluster 584: 6
 
+Centroide do cluster 584: 4812 - A sexta extinção
+
 Total de livros do cluster 585: 3
+
+Centroide do cluster 585: 4816 - Filhotes submarinos
 
 Total de livros do cluster 586: 12
 
+Centroide do cluster 586: 4820 - Dentista sinistra
+
 Total de livros do cluster 587: 2
+
+Centroide do cluster 587: 4832 - Cinquenta Tons de Cinza
 
 Total de livros do cluster 588: 7
 
+Centroide do cluster 588: 4840 - Sully
+
 Total de livros do cluster 589: 8
+
+Centroide do cluster 589: 4842 - A Última Carta de Amor
 
 Total de livros do cluster 590: 3
 
+Centroide do cluster 590: 4844 - O árabe do futuro 2
+
 Total de livros do cluster 591: 3
+
+Centroide do cluster 591: 4849 - Biblioteca de Almas
 
 Total de livros do cluster 592: 6
 
+Centroide do cluster 592: 4850 - No reino do gelo
+
 Total de livros do cluster 593: 2
+
+Centroide do cluster 593: 4852 - Grey
 
 Total de livros do cluster 594: 5
 
+Centroide do cluster 594: 4857 - Como Mentir com Estatistica
+
 Total de livros do cluster 595: 2
+
+Centroide do cluster 595: 4867 - O Lar da Srta. Peregrine para Crianças Peculiares
 
 Total de livros do cluster 596: 8
 
+Centroide do cluster 596: 4873 - Manual do usuário - A esposa
+
 Total de livros do cluster 597: 6
+
+Centroide do cluster 597: 4874 - Avanço
 
 Total de livros do cluster 598: 3
 
+Centroide do cluster 598: 4878 - Belgravia: O passado retorna (Capítulo 10)
+
 Total de livros do cluster 599: 5
+
+Centroide do cluster 599: 4880 - Cidade dos Etéreos
 
 Total de livros do cluster 600: 4
 
+Centroide do cluster 600: 4898 - Legado
+
 Total de livros do cluster 601: 4
+
+Centroide do cluster 601: 4914 - Simon vs. a agenda Homo Sapiens
 
 Total de livros do cluster 602: 7
 
+Centroide do cluster 602: 4918 - Robô Selvagem
+
 Total de livros do cluster 603: 3
+
+Centroide do cluster 603: 4923 - Eu Sei Onde Você Está
 
 Total de livros do cluster 604: 5
 
+Centroide do cluster 604: 4925 - A batalha por WondLa
+
 Total de livros do cluster 605: 2
+
+Centroide do cluster 605: 4928 - Sprint
 
 Total de livros do cluster 606: 2
 
+Centroide do cluster 606: 4929 - Hoje Vai Ser Diferente
+
 Total de livros do cluster 607: 6
+
+Centroide do cluster 607: 4930 - Ruby
 
 Total de livros do cluster 608: 2
 
+Centroide do cluster 608: 4931 - A Sutil Arte de Ligar o F*da-se
+
 Total de livros do cluster 609: 7
+
+Centroide do cluster 609: 4938 - Deixei Você Ir
 
 Total de livros do cluster 610: 5
 
+Centroide do cluster 610: 4940 - Olhos Prateados
+
 Total de livros do cluster 611: 2
+
+Centroide do cluster 611: 4942 - As Coisas que Perdemos no Fogo
 
 Total de livros do cluster 612: 2
 
+Centroide do cluster 612: 4948 - Tartarugas Até Lá Embaixo
+
 Total de livros do cluster 613: 11
+
+Centroide do cluster 613: 4956 - Em Busca de Abrigo
 
 Total de livros do cluster 614: 7
 
+Centroide do cluster 614: 4957 - Fantasma
+
 Total de livros do cluster 615: 2
+
+Centroide do cluster 615: 4963 - Até Que a Culpa Nos Separe
 
 Total de livros do cluster 616: 4
 
+Centroide do cluster 616: 4968 - Como as Crianças Aprendem
+
 Total de livros do cluster 617: 4
+
+Centroide do cluster 617: 4975 - Vovô deu no pé
 
 Total de livros do cluster 618: 4
 
+Centroide do cluster 618: 4977 - A Profecia das Sombras
+
 Total de livros do cluster 619: 4
+
+Centroide do cluster 619: 4984 - Paris para Um e Outros Contos
 
 Total de livros do cluster 620: 5
 
+Centroide do cluster 620: 4988 - As Garotas
+
 Total de livros do cluster 621: 3
+
+Centroide do cluster 621: 4989 - Me Chame Pelo Seu Nome
 
 Total de livros do cluster 622: 6
 
+Centroide do cluster 622: 4994 - O homem de giz
+
 Total de livros do cluster 623: 6
+
+Centroide do cluster 623: 5001 - Ainda Sou Eu
 
 Total de livros do cluster 624: 3
 
+Centroide do cluster 624: 5005 - A Catedral do Mar
+
 Total de livros do cluster 625: 5
+
+Centroide do cluster 625: 5006 - De volta para o futuro
 
 Total de livros do cluster 626: 11
 
+Centroide do cluster 626: 5013 - Dez argumentos para você deletar agora suas redes sociais
+
 Total de livros do cluster 627: 4
+
+Centroide do cluster 627: 5016 - Comer Para Não Morrer
 
 Total de livros do cluster 628: 2
 
+Centroide do cluster 628: 5018 - No Tempo dos Feiticeiros
+
 Total de livros do cluster 629: 3
+
+Centroide do cluster 629: 5019 - Deuses Americanos
 
 Total de livros do cluster 630: 12
 
+Centroide do cluster 630: 5021 - Mitologia Nórdica
+
 Total de livros do cluster 631: 7
+
+Centroide do cluster 631: 5023 - As Oito Montanhas
 
 Total de livros do cluster 632: 12
 
+Centroide do cluster 632: 5028 - Um Cavalheiro em Moscou
+
 Total de livros do cluster 633: 3
+
+Centroide do cluster 633: 5029 - Estúpida, eu?
 
 Total de livros do cluster 634: 4
 
+Centroide do cluster 634: 5032 - Aniquilação
+
 Total de livros do cluster 635: 9
+
+Centroide do cluster 635: 5051 - Casada Até Quarta
 
 Total de livros do cluster 636: 6
 
+Centroide do cluster 636: 5061 - Esposa Até Segunda
+
 Total de livros do cluster 637: 4
+
+Centroide do cluster 637: 5071 - A Maldição de Hollow
 
 Total de livros do cluster 638: 13
 
+Centroide do cluster 638: 5077 - A Cabana
+
 Total de livros do cluster 639: 5
+
+Centroide do cluster 639: 5092 - Baía dos Suspiros
 
 Total de livros do cluster 640: 5
 
+Centroide do cluster 640: 5105 - A Casa das Orquídeas
+
 Total de livros do cluster 641: 6
+
+Centroide do cluster 641: 5108 - O Poço da Ascensão
 
 Total de livros do cluster 642: 4
 
+Centroide do cluster 642: 5109 - Penumbra
+
 Total de livros do cluster 643: 3
+
+Centroide do cluster 643: 5112 - As Sombras de Si Mesmo
 
 Total de livros do cluster 644: 7
 
+Centroide do cluster 644: 5113 - A elite do atraso
+
 Total de livros do cluster 645: 3
+
+Centroide do cluster 645: 5130 - Por um Triz
 
 Total de livros do cluster 646: 17
 
+Centroide do cluster 646: 5141 - Não Fuja
+
 Total de livros do cluster 647: 25
+
+Centroide do cluster 647: 5142 - Pensei que Fosse Verdade
 
 Total de livros do cluster 648: 4
 
+Centroide do cluster 648: 5148 - A História da Ciência Para Quem Tem Pressa (e-book)
+
 Total de livros do cluster 649: 4
+
+Centroide do cluster 649: 5169 - A Grande Jogada
 
 Total de livros do cluster 650: 27
 
+Centroide do cluster 650: 5180 - Você foi enganado
+
 Total de livros do cluster 651: 7
+
+Centroide do cluster 651: 5189 - Misbehaving
 
 Total de livros do cluster 652: 3
 
+Centroide do cluster 652: 5192 - Sem você não é verão
+
 Total de livros do cluster 653: 3
+
+Centroide do cluster 653: 5195 - Arte de Viver
 
 Total de livros do cluster 654: 5
 
+Centroide do cluster 654: 5203 - A Transição Para o Oceano Azul
+
 Total de livros do cluster 655: 4
+
+Centroide do cluster 655: 5208 - Escolha sua vida
 
 Total de livros do cluster 656: 3
 
+Centroide do cluster 656: 5216 - A coragem de ser imperfeito
+
 Total de livros do cluster 657: 5
+
+Centroide do cluster 657: 5234 - Ligando os 1000 Pontos: Animais
 
 Total de livros do cluster 658: 7
 
+Centroide do cluster 658: 5240 - 1501 maneiras de premiar seus colaboradores
+
 Total de livros do cluster 659: 9
+
+Centroide do cluster 659: 5247 - Você pode falar com Deus
 
 Total de livros do cluster 660: 8
 
+Centroide do cluster 660: 5266 - Muitas Vidas, Muitos Mestres
+
 Total de livros do cluster 661: 8
+
+Centroide do cluster 661: 5270 - Tudo Sobre Fotografia
 
 Total de livros do cluster 662: 5
 
+Centroide do cluster 662: 5280 - A história
+
 Total de livros do cluster 663: 10
+
+Centroide do cluster 663: 5283 - Como Iniciar uma Conversa e Fazer Amigos
 
 Total de livros do cluster 664: 7
 
+Centroide do cluster 664: 5287 - Obrigado por existir
+
 Total de livros do cluster 665: 13
+
+Centroide do cluster 665: 5288 - O Poder do Charme
 
 Total de livros do cluster 666: 8
 
+Centroide do cluster 666: 5295 - The Lake of Dreams
+
 Total de livros do cluster 667: 3
+
+Centroide do cluster 667: 5304 - Assuntos Pendentes
 
 Total de livros do cluster 668: 13
 
+Centroide do cluster 668: 5329 - A Grandeza de Cada Dia
+
 Total de livros do cluster 669: 9
+
+Centroide do cluster 669: 5334 - Só o Amor é Real
 
 Total de livros do cluster 670: 5
 
+Centroide do cluster 670: 5340 - Amigos do oceano
+
 Total de livros do cluster 671: 6
+
+Centroide do cluster 671: 5341 - O Caminho da Tranqüilidade
 
 Total de livros do cluster 672: 3
 
+Centroide do cluster 672: 5348 - 100 Segredos das Pessoas Felizes
+
 Total de livros do cluster 673: 7
+
+Centroide do cluster 673: 5350 - O Poder da Gratidão
 
 Total de livros do cluster 674: 17
 
+Centroide do cluster 674: 5358 - Os sete níveis da intimidade
+
 Total de livros do cluster 675: 6
+
+Centroide do cluster 675: 5363 - Aprendendo a Conviver com Quem se Ama
 
 Total de livros do cluster 676: 8
 
+Centroide do cluster 676: 5366 - Conversando com os Espíritos
+
 Total de livros do cluster 677: 8
+
+Centroide do cluster 677: 5368 - Como administrar seu tempo
 
 Total de livros do cluster 678: 10
 
+Centroide do cluster 678: 5373 - Você é Insubstituível
+
 Total de livros do cluster 679: 6
+
+Centroide do cluster 679: 5380 - O Código Da Vinci
 
 Total de livros do cluster 680: 9
 
+Centroide do cluster 680: 5381 - Como sobreviver à perda de um amor
+
 Total de livros do cluster 681: 5
+
+Centroide do cluster 681: 5382 - O Monge e O Executivo
 
 Total de livros do cluster 682: 12
 
+Centroide do cluster 682: 5383 - Jesus, o maior psicólogo que já existiu
+
 Total de livros do cluster 683: 12
+
+Centroide do cluster 683: 5384 - Muitas Vidas, Uma Só Alma
 
 Total de livros do cluster 684: 6
 
+Centroide do cluster 684: 5399 - Seja Líder de Si Mesmo
+
 Total de livros do cluster 685: 7
+
+Centroide do cluster 685: 5401 - Um Dia Daqueles
 
 Total de livros do cluster 686: 32
 
+Centroide do cluster 686: 5404 - Corpo e Mente em Equilíbrio
+
 Total de livros do cluster 687: 16
+
+Centroide do cluster 687: 5406 - Dez Leis Para Ser Feliz
 
 Total de livros do cluster 688: 11
 
+Centroide do cluster 688: 5411 - Praticando o Poder do Agora
+
 Total de livros do cluster 689: 12
+
+Centroide do cluster 689: 5415 - Salvando meu filho
 
 Total de livros do cluster 690: 4
 
+Centroide do cluster 690: 5418 - A Economia do Ócio
+
 Total de livros do cluster 691: 13
+
+Centroide do cluster 691: 5422 - Histórias para Aquecer o Coração 2
 
 Total de livros do cluster 692: 6
 
+Centroide do cluster 692: 5423 - Palavras de Sabedoria
+
 Total de livros do cluster 693: 9
+
+Centroide do cluster 693: 5426 - Descobrindo a alegria de viver
 
 Total de livros do cluster 694: 9
 
+Centroide do cluster 694: 5430 - A Vida no Outro Lado
+
 Total de livros do cluster 695: 9
+
+Centroide do cluster 695: 5432 - Faça sua luz brilhar
 
 Total de livros do cluster 696: 4
 
+Centroide do cluster 696: 5435 - Meditando com Brian Weiss
+
 Total de livros do cluster 697: 4
+
+Centroide do cluster 697: 5443 - Pequenos Milagres
 
 Total de livros do cluster 698: 14
 
+Centroide do cluster 698: 5446 - Patch Adams: O Amor é Contagioso
+
 Total de livros do cluster 699: 6
+
+Centroide do cluster 699: 5462 - Como Fazer um Excelente Currículo
 
 Total de livros do cluster 700: 17
 
+Centroide do cluster 700: 5466 - Histórias para Aquecer o Coração
+
 Total de livros do cluster 701: 11
+
+Centroide do cluster 701: 5474 - O Mundo Mágico do Senhor dos Anéis
 
 Total de livros do cluster 702: 8
 
+Centroide do cluster 702: 5479 - O Sentido da Vida
+
 Total de livros do cluster 703: 18
+
+Centroide do cluster 703: 5493 - Levando a Vida Numa Boa
 
 Total de livros do cluster 704: 34
 
+Centroide do cluster 704: 5495 - Diário da Cidade Amada - Rio de Janeiro 1922 - 3 Vols
+
 Total de livros do cluster 705: 3
+
+Centroide do cluster 705: 5510 - Criatividade e Grupos Criativos
 
 Total de livros do cluster 706: 4
 
+Centroide do cluster 706: 5515 - Quando me amei de verdade
+
 Total de livros do cluster 707: 21
+
+Centroide do cluster 707: 5522 - Histórias para aquecer o coração dos pais
 
 Total de livros do cluster 708: 18
 
+Centroide do cluster 708: 5528 - A Boa Sorte
+
 Total de livros do cluster 709: 11
+
+Centroide do cluster 709: 5533 - As Cinco Pessoas que Você Encontra no Céu
 
 Total de livros do cluster 710: 6
 
+Centroide do cluster 710: 5539 - O Orgulho de Ser Mulher
+
 Total de livros do cluster 711: 4
+
+Centroide do cluster 711: 5544 - O Código Da Vinci
 
 Total de livros do cluster 712: 9
 
+Centroide do cluster 712: 5545 - Sei que vou sair dessa
+
 Total de livros do cluster 713: 2
+
+Centroide do cluster 713: 5569 - O Amor me Trouxe de Volta
 
 Total de livros do cluster 714: 3
 
+Centroide do cluster 714: 5573 - A Vida, o Universo e Tudo Mais
+
 Total de livros do cluster 715: 7
+
+Centroide do cluster 715: 5575 - Histórias para Aquecer o Coração dos Adolescentes
 
 Total de livros do cluster 716: 7
 
+Centroide do cluster 716: 5578 - O Poder que Vem do seu Nome
+
 Total de livros do cluster 717: 15
+
+Centroide do cluster 717: 5601 - O Que Toda Mulher Inteligente Deve Saber
 
 Total de livros do cluster 718: 9
 
+Centroide do cluster 718: 5607 - Como se tornar um líder servidor
+
 Total de livros do cluster 719: 3
+
+Centroide do cluster 719: 5608 - A Arte da Prudência
 
 Total de livros do cluster 720: 29
 
+Centroide do cluster 720: 5611 - Por que os clientes não fazem o que você espera?
+
 Total de livros do cluster 721: 2
+
+Centroide do cluster 721: 5612 - Praticamente Inofensiva
 
 Total de livros do cluster 722: 19
 
+Centroide do cluster 722: 5614 - Os Segredos da Mente Milionária
+
 Total de livros do cluster 723: 8
+
+Centroide do cluster 723: 5620 - O Poder da Paciência
 
 Total de livros do cluster 724: 4
 
+Centroide do cluster 724: 5622 - Uma ética para o novo milênio
+
 Total de livros do cluster 725: 19
+
+Centroide do cluster 725: 5631 - A dieta de Sonoma
 
 Total de livros do cluster 726: 4
 
+Centroide do cluster 726: 5633 - Posso conseguir o que desejo
+
 Total de livros do cluster 727: 5
+
+Centroide do cluster 727: 5637 - 1001 Discos Para Ouvir Antes de Morrer
 
 Total de livros do cluster 728: 10
 
+Centroide do cluster 728: 5640 - Siga seu Coração
+
 Total de livros do cluster 729: 11
+
+Centroide do cluster 729: 5642 - 25 maneiras de valorizar as pessoas
 
 Total de livros do cluster 730: 10
 
+Centroide do cluster 730: 5652 - A Escolha é Sua
+
 Total de livros do cluster 731: 4
+
+Centroide do cluster 731: 5655 - O despertar de uma nova consciência
 
 Total de livros do cluster 732: 12
 
+Centroide do cluster 732: 5664 - Desenvolva a sua Inteligencia Emocional
+
 Total de livros do cluster 733: 10
+
+Centroide do cluster 733: 5677 - Por que os homens mentem e as mulheres choram?
 
 Total de livros do cluster 734: 11
 
+Centroide do cluster 734: 5695 - A Dieta de South Beach
+
 Total de livros do cluster 735: 16
+
+Centroide do cluster 735: 5698 - 1001 Filmes para Ver Antes de Morrer
 
 Total de livros do cluster 736: 10
 
+Centroide do cluster 736: 5702 - A Arca de Noé e outras grandes histórias da Bília
+
 Total de livros do cluster 737: 13
+
+Centroide do cluster 737: 5703 - O Empreendedor-minuto
 
 Total de livros do cluster 738: 11
 
+Centroide do cluster 738: 5708 - Como curar a depressão
+
 Total de livros do cluster 739: 16
+
+Centroide do cluster 739: 5710 - Fantasmas do Século XX
 
 Total de livros do cluster 740: 3
 
+Centroide do cluster 740: 5727 - A Última Grande Lição
+
 Total de livros do cluster 741: 16
+
+Centroide do cluster 741: 5745 - 501 Grandes Escritores
 
 Total de livros do cluster 742: 12
 
+Centroide do cluster 742: 5747 - Espíritos Entre Nós
+
 Total de livros do cluster 743: 3
+
+Centroide do cluster 743: 5754 - O Doador
 
 Total de livros do cluster 744: 15
 
+Centroide do cluster 744: 5755 - 501 Grandes Artistas
+
 Total de livros do cluster 745: 4
+
+Centroide do cluster 745: 5768 - O Guia do Mochileiro das Galáxias
 
 Total de livros do cluster 746: 5
 
+Centroide do cluster 746: 5774 - O Ponto da Virada
+
 Total de livros do cluster 747: 2
+
+Centroide do cluster 747: 5789 - Como Conquistar as Pessoas
 
 Total de livros do cluster 748: 9
 
+Centroide do cluster 748: 5792 - O Ônibus da Energia
+
 Total de livros do cluster 749: 9
+
+Centroide do cluster 749: 5793 - Filho do Hamas
 
 Total de livros do cluster 750: 7
 
+Centroide do cluster 750: 5807 - Jogando Para Vencer
+
 Total de livros do cluster 751: 18
+
+Centroide do cluster 751: 5817 - 60 verdades para administrar sua carreira
 
 Total de livros do cluster 752: 5
 
+Centroide do cluster 752: 5819 - Pais Brilhantes, Professores Fascinantes
+
 Total de livros do cluster 753: 14
+
+Centroide do cluster 753: 5821 - Tenha um Pouco de Fé
 
 Total de livros do cluster 754: 10
 
+Centroide do cluster 754: 5834 - Abrace sua Equipe
+
 Total de livros do cluster 755: 26
+
+Centroide do cluster 755: 5842 - Felicidade em Tempos Difíceis
 
 Total de livros do cluster 756: 7
 
+Centroide do cluster 756: 5848 - A Família Urso: chega de TV
+
 Total de livros do cluster 757: 23
+
+Centroide do cluster 757: 5856 - Enquanto o amor não vem
 
 Total de livros do cluster 758: 6
 
+Centroide do cluster 758: 5861 - Por Que Os Homens Têm Medo de Compromisso?
+
 Total de livros do cluster 759: 16
+
+Centroide do cluster 759: 5864 - Tudo Sobre Cinema
 
 Total de livros do cluster 760: 15
 
+Centroide do cluster 760: 5875 - Quebre Todas as Regras
+
 Total de livros do cluster 761: 10
+
+Centroide do cluster 761: 5898 - Em comunhão com a vida
 
 Total de livros do cluster 762: 14
 
+Centroide do cluster 762: 5913 - O poder da adaptação
+
 Total de livros do cluster 763: 14
+
+Centroide do cluster 763: 5918 - O estrategista
 
 Total de livros do cluster 764: 4
 
+Centroide do cluster 764: 5933 - Meu Pai Fala Cada Uma
+
 Total de livros do cluster 765: 19
+
+Centroide do cluster 765: 5934 - A Linguagem Corporal no Trabalho
 
 Total de livros do cluster 766: 11
 
+Centroide do cluster 766: 5942 - 60 estratégias práticas para ganhar mais tempo
+
 Total de livros do cluster 767: 4
+
+Centroide do cluster 767: 5944 - 50 Plantas que Mudaram o Rumo da História
 
 Total de livros do cluster 768: 13
 
+Centroide do cluster 768: 5948 - Investimentos Inteligentes
+
 Total de livros do cluster 769: 14
+
+Centroide do cluster 769: 5953 - Nate dá uma virada
 
 Total de livros do cluster 770: 36
 
+Centroide do cluster 770: 5955 - Meu jeito de dizer que te amo
+
 Total de livros do cluster 771: 3
+
+Centroide do cluster 771: 5959 - O Demônio e a Srta. Prym
 
 Total de livros do cluster 772: 14
 
+Centroide do cluster 772: 5967 - A Bíblia em 100 minutos
+
 Total de livros do cluster 773: 5
+
+Centroide do cluster 773: 5989 - O que eu sei de verdade
 
 Total de livros do cluster 774: 25
 
+Centroide do cluster 774: 5992 - Conversando com Jesus
+
 Total de livros do cluster 775: 8
+
+Centroide do cluster 775: 6000 - O poder das mulheres fortes
 
 Total de livros do cluster 776: 20
 
+Centroide do cluster 776: 6012 - Por que os homens casam com as mulheres poderosas?
+
 Total de livros do cluster 777: 12
+
+Centroide do cluster 777: 6023 - Jornada do espírito
 
 Total de livros do cluster 778: 10
 
+Centroide do cluster 778: 6024 - Animais: Cores Criativas
+
 Total de livros do cluster 779: 4
+
+Centroide do cluster 779: 6030 - Tina - Livro de colorir
 
 Total de livros do cluster 780: 9
 
+Centroide do cluster 780: 6037 - Geração de valor 2
+
 Total de livros do cluster 781: 4
+
+Centroide do cluster 781: 6040 - Salmos: Espelho da Alma
 
 Total de livros do cluster 782: 6
 
+Centroide do cluster 782: 6041 - Segredos Do Japão
+
 Total de livros do cluster 783: 8
+
+Centroide do cluster 783: 6062 - O Poder do Silêncio
 
 Total de livros do cluster 784: 6
 
+Centroide do cluster 784: 6063 - Diário de um Zumbi do Minecraft
+
 Total de livros do cluster 785: 17
+
+Centroide do cluster 785: 6064 - Nunca Desista de Seus Sonhos
 
 Total de livros do cluster 786: 5
 
+Centroide do cluster 786: 6080 - Peça e será atendido
+
 Total de livros do cluster 787: 4
+
+Centroide do cluster 787: 6091 - Salsichas Galácticas
 
 Total de livros do cluster 788: 4
 
+Centroide do cluster 788: 6105 - Chega de Açúcar
+
 Total de livros do cluster 789: 3
+
+Centroide do cluster 789: 6110 - O Poder dos Quietos para Jovens
 
 Total de livros do cluster 790: 14
 
+Centroide do cluster 790: 6114 - A vida secreta das árvores
+
 Total de livros do cluster 791: 6
+
+Centroide do cluster 791: 6140 - A Arte de Respirar
 
 Total de livros do cluster 792: 5
 
+Centroide do cluster 792: 6142 - A virtude da raiva
+
 Total de livros do cluster 793: 12
+
+Centroide do cluster 793: 6157 - Celular, doce lar
 
 Total de livros do cluster 794: 11
 
+Centroide do cluster 794: 6159 - Vó, Me conta sua História?
+
 Total de livros do cluster 795: 8
+
+Centroide do cluster 795: 6160 - Já tentei de tudo!
 
 Total de livros do cluster 796: 8
 
+Centroide do cluster 796: 6187 - Chega de plástico
+
 Total de livros do cluster 797: 5
+
+Centroide do cluster 797: 6195 - A Cruz de Fogo
 
 Total de livros do cluster 798: 6
 
+Centroide do cluster 798: 6199 - A Duquesa Feia
+
 Total de livros do cluster 799: 9
+
+Centroide do cluster 799: 6202 - O Segredo de Helena
 
 Total de livros do cluster 800: 4
 
+Centroide do cluster 800: 6205 - Batman: Criaturas da Noite
+
 Total de livros do cluster 801: 10
+
+Centroide do cluster 801: 6212 - A Mulher Na Janela
 
 Total de livros do cluster 802: 3
 
+Centroide do cluster 802: 6232 - Depois de Auschwitz
+
 Total de livros do cluster 803: 5
+
+Centroide do cluster 803: 6243 - Atraída por um Highlander (eBook)
 
 Total de livros do cluster 804: 5
 
+Centroide do cluster 804: 6244 - Fila e Democracia
+
 Total de livros do cluster 805: 4
+
+Centroide do cluster 805: 6248 - Amos e Masmorras - A Missão
 
 Total de livros do cluster 806: 4
 
+Centroide do cluster 806: 6249 - Malévola
+
 Total de livros do cluster 807: 6
+
+Centroide do cluster 807: 6252 - Playboy irresistível
 
 Total de livros do cluster 808: 10
 
+Centroide do cluster 808: 6255 - Ariel e a Pérola da Sabedoria
+
 Total de livros do cluster 809: 8
+
+Centroide do cluster 809: 6263 - O Tempo Não Para
 
 Total de livros do cluster 810: 7
 
+Centroide do cluster 810: 6276 - Rainha de Copas
+
 Total de livros do cluster 811: 5
+
+Centroide do cluster 811: 6277 - Ao meu ídolo, com amor
 
 Total de livros do cluster 812: 7
 
+Centroide do cluster 812: 6281 - Marketing de Sucesso
+
 Total de livros do cluster 813: 4
+
+Centroide do cluster 813: 6283 - Reflexos do sol-posto
 
 Total de livros do cluster 814: 8
 
+Centroide do cluster 814: 6290 - Luva Vermelha
+
 Total de livros do cluster 815: 4
+
+Centroide do cluster 815: 6315 - Coleção Dona de Casa do Século XXI - volume 6
 
 Total de livros do cluster 816: 6
 
+Centroide do cluster 816: 6317 - Os pilares da Terra
+
 Total de livros do cluster 817: 12
+
+Centroide do cluster 817: 6324 - Aprenda Idiomas sem complicação: Francês
 
 Total de livros do cluster 818: 3
 
+Centroide do cluster 818: 6327 - O DESFILE DA ZEBRA
+
 Total de livros do cluster 819: 9
+
+Centroide do cluster 819: 6332 - História Essencial da Filosofia Vol. 4
 
 Total de livros do cluster 820: 6
 
+Centroide do cluster 820: 6354 - Sociedades Secretas Versão Original
+
 Total de livros do cluster 821: 11
+
+Centroide do cluster 821: 6358 - Nas Garras da Praga das Sombras
 
 Total de livros do cluster 822: 5
 
+Centroide do cluster 822: 6361 - Ecos do Futuro
+
 Total de livros do cluster 823: 17
+
+Centroide do cluster 823: 6371 - Graceling
 
 Total de livros do cluster 824: 18
 
+Centroide do cluster 824: 6374 - A traição de Bourne
+
 Total de livros do cluster 825: 4
+
+Centroide do cluster 825: 6375 - Águia
 
 Total de livros do cluster 826: 6
 
+Centroide do cluster 826: 6379 - A última imperatriz
+
 Total de livros do cluster 827: 7
+
+Centroide do cluster 827: 6394 - O Enigma do Oito
 
 Total de livros do cluster 828: 10
 
+Centroide do cluster 828: 6396 - O Livro do Cemitério
+
 Total de livros do cluster 829: 4
+
+Centroide do cluster 829: 6423 - História das Prisões no Brasil
 
 Total de livros do cluster 830: 8
 
+Centroide do cluster 830: 6426 - Caco e o Dragão
+
 Total de livros do cluster 831: 6
+
+Centroide do cluster 831: 6450 - Golfe
 
 Total de livros do cluster 832: 8
 
+Centroide do cluster 832: 6473 - Na Aula de Balé
+
 Total de livros do cluster 833: 8
+
+Centroide do cluster 833: 6475 - Os Amores de Honey
 
 Total de livros do cluster 834: 4
 
+Centroide do cluster 834: 6487 - Amores Infiéis
+
 Total de livros do cluster 835: 19
+
+Centroide do cluster 835: 6499 - Nocauteado Pelos Meus Nunga-Nungas
 
 Total de livros do cluster 836: 8
 
+Centroide do cluster 836: 6514 - Chocolate
+
 Total de livros do cluster 837: 4
+
+Centroide do cluster 837: 6515 - As 48 Leis do Poder
 
 Total de livros do cluster 838: 5
 
+Centroide do cluster 838: 6523 - Na Língua dos Bichos
+
 Total de livros do cluster 839: 9
+
+Centroide do cluster 839: 6525 - O Executivo
 
 Total de livros do cluster 840: 5
 
+Centroide do cluster 840: 6532 - Quando as mulheres saem para dançar
+
 Total de livros do cluster 841: 7
+
+Centroide do cluster 841: 6544 - Arremessando o elefante
 
 Total de livros do cluster 842: 7
 
+Centroide do cluster 842: 6552 - Cantando na chuva
+
 Total de livros do cluster 843: 8
+
+Centroide do cluster 843: 6554 - A casa do bode e da onça
 
 Total de livros do cluster 844: 39
 
+Centroide do cluster 844: 6575 - TORNAR-SE COMO DEUS
+
 Total de livros do cluster 845: 6
+
+Centroide do cluster 845: 6581 - Cão-da-Lua
 
 Total de livros do cluster 846: 7
 
+Centroide do cluster 846: 6599 - O Alquimista
+
 Total de livros do cluster 847: 3
+
+Centroide do cluster 847: 6649 - Brida
 
 Total de livros do cluster 848: 2
 
+Centroide do cluster 848: 6664 - Brida
+
 Total de livros do cluster 849: 10
+
+Centroide do cluster 849: 6679 - Apenas seis números
 
 Total de livros do cluster 850: 4
 
+Centroide do cluster 850: 6686 - O Tapete do Rei Salomão
+
 Total de livros do cluster 851: 9
+
+Centroide do cluster 851: 6718 - A Mente Holotrópica
 
 Total de livros do cluster 852: 9
 
+Centroide do cluster 852: 6721 - A Vida Íntima de Laura
+
 Total de livros do cluster 853: 6
+
+Centroide do cluster 853: 6731 - Napoleão
 
 Total de livros do cluster 854: 7
 
+Centroide do cluster 854: 6735 - Vá Aonde seu Coração Mandar
+
 Total de livros do cluster 855: 5
+
+Centroide do cluster 855: 6737 - Água Viva
 
 Total de livros do cluster 856: 6
 
+Centroide do cluster 856: 6745 - Catarina, A Menina Chamada Passarinha
+
 Total de livros do cluster 857: 6
+
+Centroide do cluster 857: 6754 - Aquidauana
 
 Total de livros do cluster 858: 4
 
+Centroide do cluster 858: 6756 - Ponche de rum
+
 Total de livros do cluster 859: 19
+
+Centroide do cluster 859: 6766 - Sonhos de uma teoria final
 
 Total de livros do cluster 860: 6
 
+Centroide do cluster 860: 6780 - Cheiro Forte
+
 Total de livros do cluster 861: 24
+
+Centroide do cluster 861: 6792 - O encantador de cavalos
 
 Total de livros do cluster 862: 15
 
+Centroide do cluster 862: 6826 - Uma mulher sem igual
+
 Total de livros do cluster 863: 11
+
+Centroide do cluster 863: 6833 - Fogo com Fogo
 
 Total de livros do cluster 864: 7
 
+Centroide do cluster 864: 6849 - As joias falam
+
 Total de livros do cluster 865: 9
+
+Centroide do cluster 865: 6853 - O mistério do coelho pensante
 
 Total de livros do cluster 866: 4
 
+Centroide do cluster 866: 6867 - A paixão segundo G.H.
+
 Total de livros do cluster 867: 34
+
+Centroide do cluster 867: 6869 - O que faz o brasil, Brasil?
 
 Total de livros do cluster 868: 6
 
+Centroide do cluster 868: 6889 - O Templo do Pavilhão Dourado
+
 Total de livros do cluster 869: 10
+
+Centroide do cluster 869: 6902 - Radical Chique e o Terror dos RPs
 
 Total de livros do cluster 870: 7
 
+Centroide do cluster 870: 6910 - O Alquimista
+
 Total de livros do cluster 871: 22
+
+Centroide do cluster 871: 6943 - Febre de Bola
 
 Total de livros do cluster 872: 22
 
+Centroide do cluster 872: 6971 - Rastros de Sangue
+
 Total de livros do cluster 873: 2
+
+Centroide do cluster 873: 6975 - O Diário de um Mago
 
 Total de livros do cluster 874: 9
 
+Centroide do cluster 874: 6980 - O Palco dos Outros
+
 Total de livros do cluster 875: 4
+
+Centroide do cluster 875: 6990 - Mulheres que correm com os lobos
 
 Total de livros do cluster 876: 9
 
+Centroide do cluster 876: 7004 - Estrangeiros para nós mesmos
+
 Total de livros do cluster 877: 8
+
+Centroide do cluster 877: 7019 - Carnavais, malandros e heróis
 
 Total de livros do cluster 878: 16
 
+Centroide do cluster 878: 7039 - Cantando a Plenos Pulmões
+
 Total de livros do cluster 879: 14
+
+Centroide do cluster 879: 7048 - A desconstruçao do Masculino
 
 Total de livros do cluster 880: 45
 
+Centroide do cluster 880: 7051 - Marte e Vênus no Quarto
+
 Total de livros do cluster 881: 9
+
+Centroide do cluster 881: 7053 - Dobras no Tempo
 
 Total de livros do cluster 882: 28
 
+Centroide do cluster 882: 7077 - Shakespeare Apaixonado
+
 Total de livros do cluster 883: 12
+
+Centroide do cluster 883: 7091 - Os Números da Natureza
 
 Total de livros do cluster 884: 20
 
+Centroide do cluster 884: 7104 - Homens, mulheres e relacionamentos
+
 Total de livros do cluster 885: 8
+
+Centroide do cluster 885: 7124 - A Parte do Fogo
 
 Total de livros do cluster 886: 8
 
+Centroide do cluster 886: 7138 - O Poder do Fluxo
+
 Total de livros do cluster 887: 7
+
+Centroide do cluster 887: 7158 - Seminário dos Ratos
 
 Total de livros do cluster 888: 6
 
+Centroide do cluster 888: 7167 - O Dom da História
+
 Total de livros do cluster 889: 3
+
+Centroide do cluster 889: 7207 - A perigosa idéia de Darwin
 
 Total de livros do cluster 890: 16
 
+Centroide do cluster 890: 7218 - Textamentos
+
 Total de livros do cluster 891: 3
+
+Centroide do cluster 891: 7231 - A Razão Gulosa
 
 Total de livros do cluster 892: 7
 
+Centroide do cluster 892: 7243 - O Lustre
+
 Total de livros do cluster 893: 4
+
+Centroide do cluster 893: 7260 - Razões Públicas, Emoções Privadas
 
 Total de livros do cluster 894: 5
 
+Centroide do cluster 894: 7276 - A Hora das Bruxas
+
 Total de livros do cluster 895: 3
+
+Centroide do cluster 895: 7305 - Harry Potter e o Prisioneiro de Azkaban
 
 Total de livros do cluster 896: 7
 
+Centroide do cluster 896: 7306 - A Verdade ou a Morte
+
 Total de livros do cluster 897: 6
+
+Centroide do cluster 897: 7329 - Réquiem Para Monalisa
 
 Total de livros do cluster 898: 21
 
+Centroide do cluster 898: 7334 - O cérebro humano
+
 Total de livros do cluster 899: 8
+
+Centroide do cluster 899: 7349 - Férias com os vampiros
 
 Total de livros do cluster 900: 9
 
+Centroide do cluster 900: 7361 - As Sete Leis Espirituais Para os Pais
+
 Total de livros do cluster 901: 14
+
+Centroide do cluster 901: 7383 - Fizemos bem em resistir
 
 Total de livros do cluster 902: 7
 
+Centroide do cluster 902: 7399 - Meu Pequeno Lobisomem
+
 Total de livros do cluster 903: 18
+
+Centroide do cluster 903: 7412 - O caminho da longevidade
 
 Total de livros do cluster 904: 12
 
+Centroide do cluster 904: 7428 - Nada Além Da Verdade
+
 Total de livros do cluster 905: 19
+
+Centroide do cluster 905: 7434 - City
 
 Total de livros do cluster 906: 9
 
+Centroide do cluster 906: 7472 - Crime em dois tempos
+
 Total de livros do cluster 907: 9
+
+Centroide do cluster 907: 7520 - Teque, Teque, Muu
 
 Total de livros do cluster 908: 4
 
+Centroide do cluster 908: 7546 - ANGEL - Salsichões horríveis e corpos divinos
+
 Total de livros do cluster 909: 9
+
+Centroide do cluster 909: 7548 - Línguas, poetas e bacharéis
 
 Total de livros do cluster 910: 7
 
+Centroide do cluster 910: 7554 - Missão Monstro
+
 Total de livros do cluster 911: 22
+
+Centroide do cluster 911: 7556 - O Príncipe Vampiro
 
 Total de livros do cluster 912: 8
 
+Centroide do cluster 912: 7559 - Coraline
+
 Total de livros do cluster 913: 5
+
+Centroide do cluster 913: 7580 - O Senhor Sha
 
 Total de livros do cluster 914: 4
 
+Centroide do cluster 914: 7605 - Areias do Tempo
+
 Total de livros do cluster 915: 6
+
+Centroide do cluster 915: 7612 - O Guia de Campo
 
 Total de livros do cluster 916: 8
 
+Centroide do cluster 916: 7613 - Nos passos de... Cristóvão Colombo
+
 Total de livros do cluster 917: 8
+
+Centroide do cluster 917: 7617 - Como enfrentar suas tempestades
 
 Total de livros do cluster 918: 7
 
+Centroide do cluster 918: 7619 - O Rosto
+
 Total de livros do cluster 919: 5
+
+Centroide do cluster 919: 7636 - As Sete Leis Espirituais da Ioga
 
 Total de livros do cluster 920: 7
 
+Centroide do cluster 920: 7664 - O Ônibus Magico -  Na Era Dos Dinossauros
+
 Total de livros do cluster 921: 2
+
+Centroide do cluster 921: 7667 - Torquatalia
 
 Total de livros do cluster 922: 9
 
+Centroide do cluster 922: 7668 - O Segundo Verão da Irmandade
+
 Total de livros do cluster 923: 3
+
+Centroide do cluster 923: 7698 - Um Novo Aluno na Escola
 
 Total de livros do cluster 924: 5
 
+Centroide do cluster 924: 7703 - Inveja
+
 Total de livros do cluster 925: 6
+
+Centroide do cluster 925: 7707 - Ninguém por Testemunha
 
 Total de livros do cluster 926: 5
 
+Centroide do cluster 926: 7712 - O Zahir
+
 Total de livros do cluster 927: 2
+
+Centroide do cluster 927: 7719 - violetas e caracóis
 
 Total de livros do cluster 928: 8
 
+Centroide do cluster 928: 7734 - A Assombração de Hiram
+
 Total de livros do cluster 929: 7
+
+Centroide do cluster 929: 7739 - Garota das Sombras - A Hora do Arrepio
 
 Total de livros do cluster 930: 13
 
+Centroide do cluster 930: 7742 - Ser menina é tudo de bom!
+
 Total de livros do cluster 931: 5
+
+Centroide do cluster 931: 7746 - A Garota da Terra do Vento
 
 Total de livros do cluster 932: 4
 
+Centroide do cluster 932: 7760 - Pornô
+
 Total de livros do cluster 933: 14
+
+Centroide do cluster 933: 7772 - Tudo Por Um Pop Star
 
 Total de livros do cluster 934: 5
 
+Centroide do cluster 934: 7785 - Essências e Alquimia
+
 Total de livros do cluster 935: 3
+
+Centroide do cluster 935: 7799 - A mosca azul
 
 Total de livros do cluster 936: 7
 
+Centroide do cluster 936: 7810 - Rita e o Treco
+
 Total de livros do cluster 937: 9
+
+Centroide do cluster 937: 7816 - Lobo Alpha
 
 Total de livros do cluster 938: 5
 
+Centroide do cluster 938: 7828 - O dilema americano
+
 Total de livros do cluster 939: 19
+
+Centroide do cluster 939: 7854 - Prazeres Malditos
 
 Total de livros do cluster 940: 8
 
+Centroide do cluster 940: 7857 - Chuva Mortal
+
 Total de livros do cluster 941: 3
+
+Centroide do cluster 941: 7876 - Dez Mil
 
 Total de livros do cluster 942: 13
 
+Centroide do cluster 942: 7880 - Buda ou Desapego
+
 Total de livros do cluster 943: 5
+
+Centroide do cluster 943: 7890 - A Arquitetura da Felicidade
 
 Total de livros do cluster 944: 9
 
+Centroide do cluster 944: 7904 - A Promessa do Mago
+
 Total de livros do cluster 945: 3
+
+Centroide do cluster 945: 7927 - É isso aí, cara, sou PUNK
 
 Total de livros do cluster 946: 4
 
+Centroide do cluster 946: 7951 - A Última Legião
+
 Total de livros do cluster 947: 6
+
+Centroide do cluster 947: 7956 - O Ministério de Casos Especiais
 
 Total de livros do cluster 948: 7
 
+Centroide do cluster 948: 7967 - Os Tambores de Outono
+
 Total de livros do cluster 949: 9
+
+Centroide do cluster 949: 7970 - A Mulher no Corpo de Xamã
 
 Total de livros do cluster 950: 7
 
+Centroide do cluster 950: 7979 - Belezas Perigosas
+
 Total de livros do cluster 951: 20
+
+Centroide do cluster 951: 8007 - Contos de Terror do Tio Montague
 
 Total de livros do cluster 952: 6
 
+Centroide do cluster 952: 8011 - O Faraó das Areias
+
 Total de livros do cluster 953: 7
+
+Centroide do cluster 953: 8020 - Design Emocional
 
 Total de livros do cluster 954: 10
 
+Centroide do cluster 954: 8031 - Sob o Sol da Toscana
+
 Total de livros do cluster 955: 6
+
+Centroide do cluster 955: 8033 - Pasta Mágica de Dragão
 
 Total de livros do cluster 956: 2
 
+Centroide do cluster 956: 8038 - A Hora da Estrela
+
 Total de livros do cluster 957: 3
+
+Centroide do cluster 957: 8046 - Devoradores de Mortos
 
 Total de livros do cluster 958: 45
 
+Centroide do cluster 958: 8054 - Simples filosofia
+
 Total de livros do cluster 959: 5
+
+Centroide do cluster 959: 8064 - Voar
 
 Total de livros do cluster 960: 5
 
+Centroide do cluster 960: 8072 - Desterrado
+
 Total de livros do cluster 961: 8
+
+Centroide do cluster 961: 8075 - As Duas Guerreiras
 
 Total de livros do cluster 962: 3
 
+Centroide do cluster 962: 8091 - A Identidade Bourne
+
 Total de livros do cluster 963: 11
+
+Centroide do cluster 963: 8127 - O Jardim Secreto de Eliza
 
 Total de livros do cluster 964: 6
 
+Centroide do cluster 964: 8129 - Luxo
+
 Total de livros do cluster 965: 3
+
+Centroide do cluster 965: 8133 - Eu que Amo Tanto
 
 Total de livros do cluster 966: 6
 
+Centroide do cluster 966: 8134 - O Labirinto da Morte
+
 Total de livros do cluster 967: 10
+
+Centroide do cluster 967: 8150 - Filho da guerra
 
 Total de livros do cluster 968: 9
 
+Centroide do cluster 968: 8156 - A serpente no jardim
+
 Total de livros do cluster 969: 3
+
+Centroide do cluster 969: 8162 - Hera : rainha dos deuses e esposa exemplar, até certo ponto
 
 Total de livros do cluster 970: 8
 
+Centroide do cluster 970: 8165 - A cabala do dinheiro
+
 Total de livros do cluster 971: 9
+
+Centroide do cluster 971: 8183 - Os Turistas
 
 Total de livros do cluster 972: 3
 
+Centroide do cluster 972: 8186 - Um Sopro de Neve e Cinzas
+
 Total de livros do cluster 973: 23
+
+Centroide do cluster 973: 8203 - Sempre Clara Rosa
 
 Total de livros do cluster 974: 3
 
+Centroide do cluster 974: 8223 - Esquilo Intranquilo
+
 Total de livros do cluster 975: 8
+
+Centroide do cluster 975: 8227 - As Suas Lembranças São Minhas
 
 Total de livros do cluster 976: 6
 
+Centroide do cluster 976: 8250 - Acqua Toffana
+
 Total de livros do cluster 977: 8
+
+Centroide do cluster 977: 8274 - Guia de um Incendiário de Casas de Escritors
 
 Total de livros do cluster 978: 6
 
+Centroide do cluster 978: 8309 - O motorista
+
 Total de livros do cluster 979: 10
+
+Centroide do cluster 979: 8311 - Sabriel
 
 Total de livros do cluster 980: 4
 
+Centroide do cluster 980: 8319 - Os Heróis de esparta
+
 Total de livros do cluster 981: 7
+
+Centroide do cluster 981: 8324 - Desmistificando a Síndrome do Pânico, depressão e principais fobias
 
 Total de livros do cluster 982: 3
 
+Centroide do cluster 982: 8328 - Transforme sua vida com o Tarô
+
 Total de livros do cluster 983: 19
+
+Centroide do cluster 983: 8330 - A Lei da Atração e o Poder do Pensamento
 
 Total de livros do cluster 984: 11
 
+Centroide do cluster 984: 8333 - A história secreta dos piratas
+
 Total de livros do cluster 985: 12
+
+Centroide do cluster 985: 8343 - O problema do Realismo em Machado de Assis
 
 Total de livros do cluster 986: 13
 
+Centroide do cluster 986: 8352 - A Confissão
+
 Total de livros do cluster 987: 16
+
+Centroide do cluster 987: 8355 - Aprendi com Jane Austen
 
 Total de livros do cluster 988: 29
 
+Centroide do cluster 988: 8356 - O aprendizado da srta. Beatrice Hempel
+
 Total de livros do cluster 989: 6
+
+Centroide do cluster 989: 8360 - O Gorila Invisível
 
 Total de livros do cluster 990: 4
 
+Centroide do cluster 990: 8366 - Em Chamas
+
 Total de livros do cluster 991: 15
+
+Centroide do cluster 991: 8388 - A Extraordinária História da China
 
 Total de livros do cluster 992: 15
 
+Centroide do cluster 992: 8391 - Sociedades Secretas
+
 Total de livros do cluster 993: 8
+
+Centroide do cluster 993: 8396 - Tudo que você precisa saber sobre Umbanda
 
 Total de livros do cluster 994: 3
 
+Centroide do cluster 994: 8400 - Universidade da Mente
+
 Total de livros do cluster 995: 9
+
+Centroide do cluster 995: 8402 - Hitler e os Segredos do Nazismo Volume 2
 
 Total de livros do cluster 996: 6
 
+Centroide do cluster 996: 8416 - A Leitora do Alcorão
+
 Total de livros do cluster 997: 8
+
+Centroide do cluster 997: 8420 - O Guia de Sobrevivência a Zumbis
 
 Total de livros do cluster 998: 13
 
+Centroide do cluster 998: 8421 - Minhas vizinhas
+
 Total de livros do cluster 999: 8
+
+Centroide do cluster 999: 8422 - O Sequestro
 
 Total de livros do cluster 1000: 8
 
+Centroide do cluster 1000: 8426 - Os Litigantes
+
 Total de livros do cluster 1001: 12
+
+Centroide do cluster 1001: 8446 - Como Fazer Apresentações Irresistíveis
 
 Total de livros do cluster 1002: 9
 
+Centroide do cluster 1002: 8451 - Reiki para iniciantes
+
 Total de livros do cluster 1003: 5
+
+Centroide do cluster 1003: 8463 - O Monge Negro
 
 Total de livros do cluster 1004: 6
 
+Centroide do cluster 1004: 8474 - Carnaval
+
 Total de livros do cluster 1005: 7
+
+Centroide do cluster 1005: 8483 - Calico Joe
 
 Total de livros do cluster 1006: 4
 
+Centroide do cluster 1006: 8487 - Quatro Para Marcar
+
 Total de livros do cluster 1007: 4
+
+Centroide do cluster 1007: 8489 - Perigosas
 
 Total de livros do cluster 1008: 4
 
+Centroide do cluster 1008: 8491 - A Condessa Cega e a Máquina de Escrever
+
 Total de livros do cluster 1009: 9
+
+Centroide do cluster 1009: 8492 - Magia na prática para iniciantes
 
 Total de livros do cluster 1010: 22
 
+Centroide do cluster 1010: 8517 - Eu odeio meu chefe? (Capa Dura)
+
 Total de livros do cluster 1011: 7
+
+Centroide do cluster 1011: 8527 - O Diário de Pandora
 
 Total de livros do cluster 1012: 5
 
+Centroide do cluster 1012: 8528 - O Papagaio de Flaubert
+
 Total de livros do cluster 1013: 13
+
+Centroide do cluster 1013: 8534 - Fogo de Dente-de-Leão
 
 Total de livros do cluster 1014: 11
 
+Centroide do cluster 1014: 8544 - Tinta Perigosa
+
 Total de livros do cluster 1015: 18
+
+Centroide do cluster 1015: 8547 - A diversão do pequeno Nicolau
 
 Total de livros do cluster 1016: 10
 
+Centroide do cluster 1016: 8551 - Uma Carícia do Crepusculo
+
 Total de livros do cluster 1017: 8
+
+Centroide do cluster 1017: 8567 - MEMORIZAÇÃO
 
 Total de livros do cluster 1018: 9
 
+Centroide do cluster 1018: 8568 - Put it this way
+
 Total de livros do cluster 1019: 10
+
+Centroide do cluster 1019: 8571 - A Ciência do Corpo Perfeito
 
 Total de livros do cluster 1020: 21
 
+Centroide do cluster 1020: 8584 - O Homem da Lua
+
 Total de livros do cluster 1021: 3
+
+Centroide do cluster 1021: 8594 - A Classe Não Está Dispensada
 
 Total de livros do cluster 1022: 23
 
+Centroide do cluster 1022: 8598 - As regras mudaram
+
 Total de livros do cluster 1023: 15
+
+Centroide do cluster 1023: 8607 - Desvendando a Maçonaria
 
 Total de livros do cluster 1024: 24
 
+Centroide do cluster 1024: 8608 - Tudo o Que Você Precisa Saber Anjos
+
 Total de livros do cluster 1025: 4
+
+Centroide do cluster 1025: 8615 - Dona de Casa do Século XXI - VOLUME I
 
 Total de livros do cluster 1026: 10
 
+Centroide do cluster 1026: 8617 - Desvendando o Nosso Lar
+
 Total de livros do cluster 1027: 8
+
+Centroide do cluster 1027: 8630 - Trilha do Destino
 
 Total de livros do cluster 1028: 9
 
+Centroide do cluster 1028: 8640 - Um Vento Na Porta
+
 Total de livros do cluster 1029: 7
+
+Centroide do cluster 1029: 8647 - Dividida
 
 Total de livros do cluster 1030: 8
 
+Centroide do cluster 1030: 8669 - Guia de etiqueta moderno
+
 Total de livros do cluster 1031: 12
+
+Centroide do cluster 1031: 8676 - Amante Vingado
 
 Total de livros do cluster 1032: 18
 
+Centroide do cluster 1032: 8686 - O Fascinante Império de Steve Jobs
+
 Total de livros do cluster 1033: 4
+
+Centroide do cluster 1033: 8714 - Convergente
 
 Total de livros do cluster 1034: 8
 
+Centroide do cluster 1034: 8731 - O Beijo Escarlate
+
 Total de livros do cluster 1035: 5
+
+Centroide do cluster 1035: 8736 - O que toda mulher precisa saber sobre gravidez
 
 Total de livros do cluster 1036: 7
 
+Centroide do cluster 1036: 8749 - Deixe os homens aos seus pés
+
 Total de livros do cluster 1037: 7
+
+Centroide do cluster 1037: 8753 - Círculo de Fogo
 
 Total de livros do cluster 1038: 21
 
+Centroide do cluster 1038: 8786 - Como se tornar um grande líder
+
 Total de livros do cluster 1039: 7
+
+Centroide do cluster 1039: 8788 - Mentes Brilhantes
 
 Total de livros do cluster 1040: 5
 
+Centroide do cluster 1040: 8789 - Amém, Marcos!
+
 Total de livros do cluster 1041: 10
+
+Centroide do cluster 1041: 8801 - Mentes Sombrias
 
 Total de livros do cluster 1042: 4
 
+Centroide do cluster 1042: 8805 - Como memorizar tudo o que quiser
+
 Total de livros do cluster 1043: 12
+
+Centroide do cluster 1043: 8821 - Uma rua de Roma
 
 Total de livros do cluster 1044: 11
 
+Centroide do cluster 1044: 8836 - Lealdade a si próprio
+
 Total de livros do cluster 1045: 5
+
+Centroide do cluster 1045: 8851 - O Livro das Ilusões
 
 Total de livros do cluster 1046: 5
 
+Centroide do cluster 1046: 8854 - A Bíblia do MMA
+
 Total de livros do cluster 1047: 11
+
+Centroide do cluster 1047: 8867 - Francisco: O Papa dos Humildes
 
 Total de livros do cluster 1048: 25
 
+Centroide do cluster 1048: 8869 - McFly
+
 Total de livros do cluster 1049: 3
+
+Centroide do cluster 1049: 8872 - Homens: Manual de Instruções
 
 Total de livros do cluster 1050: 4
 
+Centroide do cluster 1050: 8874 - Estranho Irresistível
+
 Total de livros do cluster 1051: 21
+
+Centroide do cluster 1051: 8891 - Eu Nunca...
 
 Total de livros do cluster 1052: 14
 
+Centroide do cluster 1052: 8894 - Trilha perigosa
+
 Total de livros do cluster 1053: 9
+
+Centroide do cluster 1053: 8895 - A Rainha Descalça
 
 Total de livros do cluster 1054: 4
 
+Centroide do cluster 1054: 8921 - Dominadas
+
 Total de livros do cluster 1055: 7
+
+Centroide do cluster 1055: 8943 - Paixão Irresistível
 
 Total de livros do cluster 1056: 5
 
+Centroide do cluster 1056: 8946 - Implacáveis
+
 Total de livros do cluster 1057: 8
+
+Centroide do cluster 1057: 8966 - Português para concursos
 
 Total de livros do cluster 1058: 16
 
+Centroide do cluster 1058: 8973 - Classic Rock by Kiss FM
+
 Total de livros do cluster 1059: 15
+
+Centroide do cluster 1059: 8991 - Obras De Arte Para Colorir
 
 Total de livros do cluster 1060: 6
 
+Centroide do cluster 1060: 8994 - Uma Jornada No Inverno
+
 Total de livros do cluster 1061: 28
+
+Centroide do cluster 1061: 9007 - Maré Viva
 
 Total de livros do cluster 1062: 4
 
+Centroide do cluster 1062: 9014 - Timmy Fiasco
+
 Total de livros do cluster 1063: 3
+
+Centroide do cluster 1063: 9016 - Batalhas Nas Ruas
 
 Total de livros do cluster 1064: 8
 
+Centroide do cluster 1064: 9017 - Na Porta ao Lado
+
 Total de livros do cluster 1065: 7
+
+Centroide do cluster 1065: 9023 - Feitiço
 
 Total de livros do cluster 1066: 10
 
+Centroide do cluster 1066: 9033 - Bullying - Sempre Fui Sua
+
 Total de livros do cluster 1067: 6
+
+Centroide do cluster 1067: 9048 - Peter Pan: A Origem da Lenda
 
 Total de livros do cluster 1068: 4
 
+Centroide do cluster 1068: 9051 - Roube como um artista: O Diário
+
 Total de livros do cluster 1069: 2
+
+Centroide do cluster 1069: 9078 - Vocação Para o Mal
 
 Total de livros do cluster 1070: 14
 
+Centroide do cluster 1070: 9088 - Sete Minutos No Paraíso
+
 Total de livros do cluster 1071: 7
+
+Centroide do cluster 1071: 9091 - COMO LIDAR COM PESSOAS MANIPULADORAS
 
 Total de livros do cluster 1072: 3
 
+Centroide do cluster 1072: 9096 - Sedução Irresistível
+
 Total de livros do cluster 1073: 2
+
+Centroide do cluster 1073: 9105 - Chefe Irresistível
 
 Total de livros do cluster 1074: 6
 
+Centroide do cluster 1074: 9112 - Sérgio Moro
+
 Total de livros do cluster 1075: 18
+
+Centroide do cluster 1075: 9119 - Clarice Lispector Todos os Contos
 
 Total de livros do cluster 1076: 5
 
+Centroide do cluster 1076: 9122 - Herança
+
 Total de livros do cluster 1077: 5
+
+Centroide do cluster 1077: 9126 - Winter
 
 Total de livros do cluster 1078: 7
 
+Centroide do cluster 1078: 9130 - Meu Coração e Outros Buracos Negros
+
 Total de livros do cluster 1079: 4
+
+Centroide do cluster 1079: 9134 - Pela Noite Eterna
 
 Total de livros do cluster 1080: 2
 
+Centroide do cluster 1080: 9136 - Harry Potter e a Criança Amaldiçoada (Capa Dura)
+
 Total de livros do cluster 1081: 5
+
+Centroide do cluster 1081: 9144 - Corvos de Odin
 
 Total de livros do cluster 1082: 2
 
+Centroide do cluster 1082: 9146 - Encantada por Você
+
 Total de livros do cluster 1083: 8
+
+Centroide do cluster 1083: 9147 - Guia Definitivo de League of Legends
 
 Total de livros do cluster 1084: 5
 
+Centroide do cluster 1084: 9152 - No Esciiro
+
 Total de livros do cluster 1085: 10
+
+Centroide do cluster 1085: 9153 - Sou Luna
 
 Total de livros do cluster 1086: 2
 
+Centroide do cluster 1086: 9162 - Onde Mora o Coração
+
 Total de livros do cluster 1087: 9
+
+Centroide do cluster 1087: 9166 - Sempre Irresistível
 
 Total de livros do cluster 1088: 6
 
+Centroide do cluster 1088: 9167 - A Escolha
+
 Total de livros do cluster 1089: 5
+
+Centroide do cluster 1089: 9175 - Jovens de Elite
 
 Total de livros do cluster 1090: 2
 
+Centroide do cluster 1090: 9181 - Harry Potter e o Cálice de Fogo
+
 Total de livros do cluster 1091: 7
+
+Centroide do cluster 1091: 9182 - Fergus Voador
 
 Total de livros do cluster 1092: 8
 
+Centroide do cluster 1092: 9199 - Além da Magia
+
 Total de livros do cluster 1093: 5
+
+Centroide do cluster 1093: 9215 - Vilões da Disney - Box
 
 Total de livros do cluster 1094: 10
 
+Centroide do cluster 1094: 9216 - Sniper de Elite
+
 Total de livros do cluster 1095: 9
+
+Centroide do cluster 1095: 9219 - A Bela e a Fera
 
 Total de livros do cluster 1096: 9
 
+Centroide do cluster 1096: 9220 - O diário de Dulce Maria
+
 Total de livros do cluster 1097: 6
+
+Centroide do cluster 1097: 9239 - Alvo Dumbledore: Guia Cinematográfico
 
 Total de livros do cluster 1098: 7
 
+Centroide do cluster 1098: 9245 - Animais Fantásticos & Onde Habitam
+
 Total de livros do cluster 1099: 6
+
+Centroide do cluster 1099: 9249 - Harry Potter e a Ordem da Fênix
 
 Total de livros do cluster 1100: 3
 
+Centroide do cluster 1100: 9250 - Harry Potter e a Câmara Secreta
+
 Total de livros do cluster 1101: 2
+
+Centroide do cluster 1101: 9252 - Harry Potter e a Pedra Filosofal
 
 Total de livros do cluster 1102: 5
 
+Centroide do cluster 1102: 9256 - A História de Amor de Anastásia Romanov
+
 Total de livros do cluster 1103: 6
+
+Centroide do cluster 1103: 9258 - Amante Sombrio
 
 Total de livros do cluster 1104: 8
 
+Centroide do cluster 1104: 9259 - Honey
+
 Total de livros do cluster 1105: 4
+
+Centroide do cluster 1105: 9260 - Noiva Irresistível
 
 Total de livros do cluster 1106: 43
 
+Centroide do cluster 1106: 9263 - Sinceramente, Carter
+
 Total de livros do cluster 1107: 5
+
+Centroide do cluster 1107: 9265 - A última mensagem de Hiroshima
 
 Total de livros do cluster 1108: 20
 
+Centroide do cluster 1108: 9270 - Brigada dos Amaldiçoados
+
 Total de livros do cluster 1109: 5
+
+Centroide do cluster 1109: 9291 - A Ascensão do Mal
 
 Total de livros do cluster 1110: 5
 
+Centroide do cluster 1110: 9294 - A Roda da Eternidade
+
 Total de livros do cluster 1111: 5
+
+Centroide do cluster 1111: 9300 - Tom Jones
 
 Total de livros do cluster 1112: 11
 
+Centroide do cluster 1112: 9313 - Mentes Geniais
+
 Total de livros do cluster 1113: 20
+
+Centroide do cluster 1113: 9317 - Apaixonada Por Um Highlander
 
 Total de livros do cluster 1114: 5
 
+Centroide do cluster 1114: 9340 - O Milésimo Andar
+
 Total de livros do cluster 1115: 4
+
+Centroide do cluster 1115: 9346 - Correio para Mulheres
 
 Total de livros do cluster 1116: 3
 
+Centroide do cluster 1116: 9350 - Harry Potter e o Prisioneiro de Azkaban
+
 Total de livros do cluster 1117: 9
+
+Centroide do cluster 1117: 9357 - Todas as Crônicas
 
 Total de livros do cluster 1118: 5
 
+Centroide do cluster 1118: 9373 - Jogador Nº 1
+
 Total de livros do cluster 1119: 4
+
+Centroide do cluster 1119: 9379 - Dinotrux
 
 Total de livros do cluster 1120: 5
 
+Centroide do cluster 1120: 9400 - Revolta em Nova York
+
 Total de livros do cluster 1121: 8
+
+Centroide do cluster 1121: 9408 - Três Chances
 
 Total de livros do cluster 1122: 7
 
+Centroide do cluster 1122: 9412 - O Bosque Subterrâneo
+
 Total de livros do cluster 1123: 10
+
+Centroide do cluster 1123: 9418 - A Caçada
 
 Total de livros do cluster 1124: 3
 
+Centroide do cluster 1124: 9436 - O Diário da Princesa
+
 Total de livros do cluster 1125: 15
+
+Centroide do cluster 1125: 9444 - Sempre Teremos o Verão
 
 Total de livros do cluster 1126: 10
 
+Centroide do cluster 1126: 9468 - O Futuro de Nós Dois
+
 Total de livros do cluster 1127: 20
+
+Centroide do cluster 1127: 9473 - As Regras do Amor
 
 Total de livros do cluster 1128: 4
 
+Centroide do cluster 1128: 9474 - Beemote: A Revolução
+
 Total de livros do cluster 1129: 7
+
+Centroide do cluster 1129: 9487 - Nos Bastidores da TV
 
 Total de livros do cluster 1130: 17
 
+Centroide do cluster 1130: 9488 - Diários de Stefan - Sede de Sangue
+
 Total de livros do cluster 1131: 3
+
+Centroide do cluster 1131: 9503 - Hex Hall
 
 Total de livros do cluster 1132: 9
 
+Centroide do cluster 1132: 9505 - Gregor e a Segunda Profecia
+
 Total de livros do cluster 1133: 13
+
+Centroide do cluster 1133: 9527 - Minha vizinha Alice
 
 Total de livros do cluster 1134: 8
 
+Centroide do cluster 1134: 9528 - Feitiços e Sutiãs
+
 Total de livros do cluster 1135: 7
+
+Centroide do cluster 1135: 9532 - Maré de Terror
 
 Total de livros do cluster 1136: 20
 
+Centroide do cluster 1136: 9549 - Crepúsculo
+
 Total de livros do cluster 1137: 8
+
+Centroide do cluster 1137: 9556 - Siri
 
 Total de livros do cluster 1138: 3
 
+Centroide do cluster 1138: 9564 - Duplo Fio
+
 Total de livros do cluster 1139: 11
+
+Centroide do cluster 1139: 9565 - Só Podia Ser Você: O Início
 
 Total de livros do cluster 1140: 6
 
+Centroide do cluster 1140: 9569 - Além do Vale dos Espinhos
+
 Total de livros do cluster 1141: 14
+
+Centroide do cluster 1141: 9571 - Segredos da Minha Vida em Hollywood: na locação
 
 Total de livros do cluster 1142: 9
 
+Centroide do cluster 1142: 9574 - Exclusivo
+
 Total de livros do cluster 1143: 5
+
+Centroide do cluster 1143: 9582 - Sociedade Secreta: Sob a Rosa
 
 Total de livros do cluster 1144: 6
 
+Centroide do cluster 1144: 9593 - Os Sem-Rosto
+
 Total de livros do cluster 1145: 14
+
+Centroide do cluster 1145: 9602 - O Nome Deste Livro É Segredo
 
 Total de livros do cluster 1146: 6
 
+Centroide do cluster 1146: 9614 - TOM CORAÇÃO LEAL
+
 Total de livros do cluster 1147: 10
+
+Centroide do cluster 1147: 9615 - A Fúria
 
 Total de livros do cluster 1148: 5
 
+Centroide do cluster 1148: 9619 - 90 Livros Clássicos para Apressadinhos
+
 Total de livros do cluster 1149: 4
+
+Centroide do cluster 1149: 9629 - Cowboys & Aliens
 
 Total de livros do cluster 1150: 5
 
+Centroide do cluster 1150: 9633 - Cidade dos Anjos Caídos
+
 Total de livros do cluster 1151: 10
+
+Centroide do cluster 1151: 9640 - A Fera
 
 Total de livros do cluster 1152: 2
 
+Centroide do cluster 1152: 9652 - O Protocolo Soberano
+
 Total de livros do cluster 1153: 12
+
+Centroide do cluster 1153: 9665 - Cabeça de Vento
 
 Total de livros do cluster 1154: 16
 
+Centroide do cluster 1154: 9668 - Feios
+
 Total de livros do cluster 1155: 9
+
+Centroide do cluster 1155: 9679 - As 17 cores do branco
 
 Total de livros do cluster 1156: 4
 
+Centroide do cluster 1156: 9694 - Espiãs Também Se Enganam
+
 Total de livros do cluster 1157: 5
+
+Centroide do cluster 1157: 9714 - Príncipe Mecânico
 
 Total de livros do cluster 1158: 4
 
+Centroide do cluster 1158: 9717 - Polícia Paranormal
+
 Total de livros do cluster 1159: 8
+
+Centroide do cluster 1159: 9718 - A História de Os Noivos
 
 Total de livros do cluster 1160: 5
 
+Centroide do cluster 1160: 9723 - Trono de Vidro
+
 Total de livros do cluster 1161: 3
+
+Centroide do cluster 1161: 9724 - A Misteriosa Sociedade Benedict e A Jornada Periculosa
 
 Total de livros do cluster 1162: 5
 
+Centroide do cluster 1162: 9741 - O Livro das Princesas
+
 Total de livros do cluster 1163: 4
+
+Centroide do cluster 1163: 9753 - Cair das Trevas
 
 Total de livros do cluster 1164: 3
 
+Centroide do cluster 1164: 9759 - Caçadora de Unicórnios
+
 Total de livros do cluster 1165: 4
+
+Centroide do cluster 1165: 9778 - O Que Restou de Mim
 
 Total de livros do cluster 1166: 5
 
+Centroide do cluster 1166: 9787 - Um Caso Perdido
+
 Total de livros do cluster 1167: 3
+
+Centroide do cluster 1167: 9794 - A história de O Nariz
 
 Total de livros do cluster 1168: 4
 
+Centroide do cluster 1168: 9799 - The Walking Dead - A Queda do Governador
+
 Total de livros do cluster 1169: 6
+
+Centroide do cluster 1169: 9814 - A Evolução de Mara Dyer
 
 Total de livros do cluster 1170: 11
 
+Centroide do cluster 1170: 9816 - O Livro das Criaturas de Harry Potter
+
 Total de livros do cluster 1171: 5
+
+Centroide do cluster 1171: 9825 - Diários de Stefan - Estripador
 
 Total de livros do cluster 1172: 6
 
+Centroide do cluster 1172: 9826 - Rich e Mad
+
 Total de livros do cluster 1173: 6
+
+Centroide do cluster 1173: 9831 - Incubus
 
 Total de livros do cluster 1174: 27
 
+Centroide do cluster 1174: 9835 - A Luva de Cobre
+
 Total de livros do cluster 1175: 6
+
+Centroide do cluster 1175: 9871 - Livro das Sombras
 
 Total de livros do cluster 1176: 12
 
+Centroide do cluster 1176: 9881 - Dama da Meia-Noite
+
 Total de livros do cluster 1177: 6
+
+Centroide do cluster 1177: 9899 - Um Mundo Melhor
 
 Total de livros do cluster 1178: 21
 
+Centroide do cluster 1178: 9902 - Caindo na Real
+
 Total de livros do cluster 1179: 44
+
+Centroide do cluster 1179: 9904 - George
 
 Total de livros do cluster 1180: 5
 
+Centroide do cluster 1180: 9923 - Corte de Asas e Ruína
+
 Total de livros do cluster 1181: 10
+
+Centroide do cluster 1181: 9956 - Vitória
 
 Total de livros do cluster 1182: 3
 
+Centroide do cluster 1182: 9968 - Um Lugar Para o Amor
+
 Total de livros do cluster 1183: 6
+
+Centroide do cluster 1183: 9969 - Advogado do Diabo
 
 Total de livros do cluster 1184: 3
 
+Centroide do cluster 1184: 9970 - The Underground Railroad - Os Caminhos Para a Liberdade
+
 Total de livros do cluster 1185: 13
+
+Centroide do cluster 1185: 9973 - Quatro vidas de um cachorro
 
 Total de livros do cluster 1186: 10
 
+Centroide do cluster 1186: 9975 - O Caçador de Demônios
+
 Total de livros do cluster 1187: 5
+
+Centroide do cluster 1187: 9981 - O Lado Bom de ser Traída
 
 Total de livros do cluster 1188: 5
 
+Centroide do cluster 1188: 9983 - Mãos Quentes
+
 Total de livros do cluster 1189: 14
+
+Centroide do cluster 1189: 9984 - Apenas Por Uma Noite
 
 Total de livros do cluster 1190: 6
 
+Centroide do cluster 1190: 9989 - Box Coleção Agatha Christie
+
 Total de livros do cluster 1191: 5
+
+Centroide do cluster 1191: 10006 - Box Coleção Agatha Christie
 
 Total de livros do cluster 1192: 8
 
+Centroide do cluster 1192: 10007 - Box Coleção Agatha Christie
+
 Total de livros do cluster 1193: 7
+
+Centroide do cluster 1193: 10014 - Box Coleção Agatha Christie
 
 Total de livros do cluster 1194: 2
 
+Centroide do cluster 1194: 10015 - Atração Magnética
+
 Total de livros do cluster 1195: 14
+
+Centroide do cluster 1195: 10025 - Neve e Cinzas
 
 Total de livros do cluster 1196: 8
 
+Centroide do cluster 1196: 10030 - Flores Partidas
+
 Total de livros do cluster 1197: 17
+
+Centroide do cluster 1197: 10035 - A Maleta de Criaturas
 
 Total de livros do cluster 1198: 8
 
+Centroide do cluster 1198: 10048 - Conquistada por Um Visconde
+
 Total de livros do cluster 1199: 6
+
+Centroide do cluster 1199: 10056 - Uma Mulher Perfeita
 
 Total de livros do cluster 1200: 13
 
+Centroide do cluster 1200: 10066 - O Pequeno Príncipe Para Crianças Pequenas
+
 Total de livros do cluster 1201: 8
+
+Centroide do cluster 1201: 10096 - Sherlock Holmes
 
 Total de livros do cluster 1202: 4
 
+Centroide do cluster 1202: 10122 - A Intuicionista
+
 Total de livros do cluster 1203: 6
+
+Centroide do cluster 1203: 10129 - Hit Makers
 
 Total de livros do cluster 1204: 3
 
+Centroide do cluster 1204: 10133 - Fique Comigo
+
 Total de livros do cluster 1205: 6
+
+Centroide do cluster 1205: 10137 - Muitas Águas
 
 Total de livros do cluster 1206: 11
 
+Centroide do cluster 1206: 10146 - O Livro de Ouro das Revoluções
+
 Total de livros do cluster 1207: 8
+
+Centroide do cluster 1207: 10167 - Renegados
 
 
 Índice Silhueta: 0.04112884246387662
